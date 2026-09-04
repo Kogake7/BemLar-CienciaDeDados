@@ -1,0 +1,3447 @@
+id_contrato;data_ocorrencia;tipo_ocorrencia;canal
+C00001;24/11/2025;Segunda via de boleto;WhatsApp
+C00003;22/08/2025;Atualizacao cadastral;Loja
+C00005;09/03/2025;Segunda via de boleto;Loja
+C00005;20/09/2025;Negociacao de divida;Telefone
+C00007;27/02/2026;Duvida sobre produto;Site
+C00009;18/03/2025;Atualizacao cadastral;Telefone
+C00013;08/01/2026;Segunda via de boleto;Loja
+C00016;05/11/2025;Atualizacao cadastral;Site
+C00016;23/02/2026;Negociacao de divida;Telefone
+C00017;24/02/2026;Negociacao de divida;Telefone
+C00018;04/12/2025;Segunda via de boleto;Telefone
+C00019;08/03/2026;Negociacao de divida;Telefone
+C00020;15/01/2026;Reclamacao de entrega;WhatsApp
+C00021;31/08/2025;Segunda via de boleto;Loja
+C00021;08/09/2025;Segunda via de boleto;Loja
+C00022;17/01/2026;Atualizacao cadastral;Loja
+C00023;22/11/2025;Segunda via de boleto;WhatsApp
+C00024;14/02/2026;Reclamacao de entrega;Telefone
+C00026;13/10/2025;Atualizacao cadastral;Telefone
+C00026;06/11/2025;Reclamacao de entrega;Loja
+C00026;29/11/2025;Segunda via de boleto;Loja
+C00028;25/03/2025;Segunda via de boleto;WhatsApp
+C00028;09/04/2025;Segunda via de boleto;WhatsApp
+C00028;25/05/2025;Duvida sobre produto;Site
+C00028;06/07/2025;Reclamacao de entrega;WhatsApp
+C00028;25/07/2025;Segunda via de boleto;Telefone
+C00029;06/08/2025;Segunda via de boleto;Loja
+C00029;11/10/2025;Segunda via de boleto;Telefone
+C00029;19/11/2025;Atualizacao cadastral;Telefone
+C00030;23/02/2026;Duvida sobre produto;Site
+C00031;23/01/2026;Segunda via de boleto;Loja
+C00031;25/01/2026;Duvida sobre produto;WhatsApp
+C00032;23/09/2024;Reclamacao de entrega;WhatsApp
+C00032;29/10/2024;Reclamacao de entrega;Site
+C00032;04/04/2025;Negociacao de divida;WhatsApp
+C00033;25/10/2025;Duvida sobre produto;WhatsApp
+C00034;11/09/2025;Negociacao de divida;Telefone
+C00036;12/08/2025;Negociacao de divida;WhatsApp
+C00038;04/12/2025;Segunda via de boleto;Loja
+C00039;29/01/2026;Negociacao de divida;WhatsApp
+C00040;01/05/2025;Segunda via de boleto;Telefone
+C00041;15/02/2025;Reclamacao de entrega;Telefone
+C00041;24/01/2026;Solicitacao de assistencia tecnica;Telefone
+C00043;05/02/2026;Solicitacao de assistencia tecnica;Telefone
+C00043;21/02/2026;Negociacao de divida;WhatsApp
+C00044;20/08/2025;Segunda via de boleto;Loja
+C00045;22/07/2025;Segunda via de boleto;WhatsApp
+C00046;22/10/2025;Negociacao de divida;WhatsApp
+C00047;09/07/2025;Duvida sobre produto;Telefone
+C00048;24/01/2026;Atualizacao cadastral;Loja
+C00050;31/10/2025;Segunda via de boleto;Loja
+C00051;11/01/2026;Atualizacao cadastral;WhatsApp
+C00052;29/05/2025;Solicitacao de assistencia tecnica;Loja
+C00052;05/01/2026;Segunda via de boleto;Loja
+C00052;12/02/2026;Negociacao de divida;Telefone
+C00053;29/10/2025;Segunda via de boleto;WhatsApp
+C00053;06/12/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00055;30/11/2025;Segunda via de boleto;WhatsApp
+C00055;04/03/2026;Negociacao de divida;WhatsApp
+C00056;03/07/2025;Segunda via de boleto;Loja
+C00056;07/07/2025;Segunda via de boleto;Telefone
+C00056;22/07/2025;Segunda via de boleto;WhatsApp
+C00056;17/09/2025;Segunda via de boleto;Loja
+C00059;06/02/2026;Atualizacao cadastral;Site
+C00060;26/12/2025;Duvida sobre produto;Loja
+C00060;23/01/2026;Negociacao de divida;Telefone
+C00063;14/08/2025;Segunda via de boleto;Loja
+C00063;10/01/2026;Solicitacao de assistencia tecnica;Loja
+C00065;31/08/2025;Solicitacao de assistencia tecnica;Loja
+C00068;01/03/2026;Negociacao de divida;WhatsApp
+C00069;22/07/2025;Negociacao de divida;Telefone
+C00070;15/09/2025;Reclamacao de entrega;Site
+C00070;30/09/2025;Atualizacao cadastral;Loja
+C00070;08/01/2026;Atualizacao cadastral;WhatsApp
+C00071;04/07/2025;Reclamacao de entrega;Loja
+C00071;19/09/2025;Reclamacao de entrega;Telefone
+C00072;07/09/2025;Segunda via de boleto;Telefone
+C00072;02/11/2025;Segunda via de boleto;Loja
+C00072;03/11/2025;Segunda via de boleto;Loja
+C00072;08/01/2026;Segunda via de boleto;Loja
+C00072;01/02/2026;Negociacao de divida;WhatsApp
+C00073;15/12/2024;Atualizacao cadastral;Site
+C00074;01/08/2025;Negociacao de divida;Telefone
+C00075;08/11/2025;Solicitacao de assistencia tecnica;Site
+C00075;14/11/2025;Duvida sobre produto;Site
+C00077;19/02/2026;Negociacao de divida;WhatsApp
+C00078;13/01/2026;Segunda via de boleto;WhatsApp
+C00080;03/12/2025;Segunda via de boleto;WhatsApp
+C00081;28/01/2025;Negociacao de divida;WhatsApp
+C00083;21/11/2024;Segunda via de boleto;WhatsApp
+C00083;01/12/2024;Segunda via de boleto;Telefone
+C00083;12/12/2024;Segunda via de boleto;WhatsApp
+C00083;05/06/2025;Negociacao de divida;Telefone
+C00087;16/04/2025;Segunda via de boleto;Telefone
+C00087;29/04/2025;Segunda via de boleto;Loja
+C00089;20/02/2026;Negociacao de divida;Telefone
+C00090;25/08/2025;Reclamacao de entrega;Loja
+C00090;23/02/2026;Negociacao de divida;Telefone
+C00092;14/12/2025;Solicitacao de assistencia tecnica;Telefone
+C00093;30/11/2025;Atualizacao cadastral;Telefone
+C00097;01/11/2024;Solicitacao de assistencia tecnica;Loja
+C00099;10/03/2026;Atualizacao cadastral;Site
+C00100;09/06/2025;Reclamacao de entrega;Telefone
+C00101;22/06/2025;Segunda via de boleto;Loja
+C00101;06/09/2025;Reclamacao de entrega;Loja
+C00101;04/02/2026;Negociacao de divida;WhatsApp
+C00104;13/05/2025;Duvida sobre produto;WhatsApp
+C00104;13/07/2025;Reclamacao de entrega;Telefone
+C00104;07/08/2025;Segunda via de boleto;Loja
+C00105;01/05/2025;Duvida sobre produto;WhatsApp
+C00106;08/08/2025;Duvida sobre produto;WhatsApp
+C00107;11/09/2025;Segunda via de boleto;Telefone
+C00107;10/02/2026;Negociacao de divida;Telefone
+C00108;11/11/2025;Reclamacao de entrega;Telefone
+C00108;13/01/2026;Segunda via de boleto;Loja
+C00109;03/02/2026;Negociacao de divida;WhatsApp
+C00110;06/10/2024;Reclamacao de entrega;WhatsApp
+C00110;23/05/2025;Segunda via de boleto;WhatsApp
+C00111;16/02/2026;Negociacao de divida;Telefone
+C00114;10/11/2025;Duvida sobre produto;Telefone
+C00117;25/05/2025;Atualizacao cadastral;Telefone
+C00117;02/01/2026;Segunda via de boleto;Telefone
+C00119;03/05/2025;Negociacao de divida;WhatsApp
+C00120;27/10/2025;Segunda via de boleto;Telefone
+C00121;02/10/2025;Segunda via de boleto;Loja
+C00121;16/02/2026;Duvida sobre produto;Site
+C00122;28/03/2025;Segunda via de boleto;Telefone
+C00122;20/06/2025;Negociacao de divida;Telefone
+C00125;13/10/2025;Segunda via de boleto;WhatsApp
+C00125;20/12/2025;Segunda via de boleto;WhatsApp
+C00127;24/06/2025;Segunda via de boleto;Telefone
+C00128;21/07/2025;Segunda via de boleto;Telefone
+C00128;19/11/2025;Segunda via de boleto;Loja
+C00128;25/01/2026;Negociacao de divida;WhatsApp
+C00131;23/10/2024;Segunda via de boleto;WhatsApp
+C00132;07/01/2025;Solicitacao de assistencia tecnica;Loja
+C00132;19/01/2025;Segunda via de boleto;Telefone
+C00133;29/09/2024;Solicitacao de assistencia tecnica;Site
+C00133;07/01/2025;Solicitacao de assistencia tecnica;Telefone
+C00135;12/12/2024;Segunda via de boleto;Loja
+C00141;19/03/2025;Reclamacao de entrega;WhatsApp
+C00141;26/07/2025;Negociacao de divida;Telefone
+C00144;22/11/2024;Segunda via de boleto;Telefone
+C00144;01/04/2025;Duvida sobre produto;Telefone
+C00146;18/03/2025;Reclamacao de entrega;Loja
+C00149;28/12/2025;Segunda via de boleto;Telefone
+C00152;16/10/2025;Reclamacao de entrega;Loja
+C00153;26/11/2025;Reclamacao de entrega;Site
+C00154;19/01/2025;Segunda via de boleto;WhatsApp
+C00154;11/04/2025;Segunda via de boleto;WhatsApp
+C00155;17/10/2025;Segunda via de boleto;Telefone
+C00155;24/10/2025;Duvida sobre produto;Telefone
+C00155;31/10/2025;Segunda via de boleto;Loja
+C00155;04/12/2025;Duvida sobre produto;WhatsApp
+C00156;07/07/2025;Reclamacao de entrega;WhatsApp
+C00158;18/10/2025;Reclamacao de entrega;Loja
+C00158;22/10/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00158;04/03/2026;Negociacao de divida;WhatsApp
+C00160;21/10/2025;Solicitacao de assistencia tecnica;Site
+C00162;18/02/2026;Solicitacao de assistencia tecnica;Site
+C00164;09/04/2025;Duvida sobre produto;Site
+C00164;05/05/2025;Atualizacao cadastral;Telefone
+C00170;13/09/2025;Solicitacao de assistencia tecnica;Loja
+C00171;16/12/2025;Segunda via de boleto;WhatsApp
+C00172;08/08/2024;Segunda via de boleto;WhatsApp
+C00172;09/12/2024;Segunda via de boleto;WhatsApp
+C00172;20/01/2025;Negociacao de divida;Telefone
+C00173;12/11/2025;Segunda via de boleto;Loja
+C00176;05/10/2024;Duvida sobre produto;Telefone
+C00176;31/01/2025;Segunda via de boleto;Telefone
+C00176;26/04/2025;Segunda via de boleto;WhatsApp
+C00176;26/05/2025;Negociacao de divida;Telefone
+C00178;07/10/2025;Segunda via de boleto;Telefone
+C00178;02/03/2026;Negociacao de divida;WhatsApp
+C00179;14/02/2026;Negociacao de divida;Telefone
+C00180;07/08/2024;Reclamacao de entrega;Telefone
+C00180;22/08/2024;Segunda via de boleto;Telefone
+C00180;04/01/2025;Segunda via de boleto;Loja
+C00181;27/04/2025;Duvida sobre produto;Telefone
+C00183;28/06/2025;Duvida sobre produto;WhatsApp
+C00183;17/08/2025;Segunda via de boleto;WhatsApp
+C00183;08/12/2025;Segunda via de boleto;Telefone
+C00184;18/02/2025;Duvida sobre produto;Loja
+C00185;03/02/2026;Negociacao de divida;WhatsApp
+C00186;01/05/2025;Solicitacao de assistencia tecnica;Site
+C00187;21/07/2025;Segunda via de boleto;WhatsApp
+C00188;06/03/2026;Reclamacao de entrega;Telefone
+C00189;01/05/2025;Duvida sobre produto;WhatsApp
+C00189;17/07/2025;Segunda via de boleto;Telefone
+C00189;04/01/2026;Reclamacao de entrega;WhatsApp
+C00189;25/02/2026;Negociacao de divida;Telefone
+C00190;11/08/2025;Segunda via de boleto;Loja
+C00193;19/12/2024;Segunda via de boleto;Loja
+C00194;28/08/2025;Duvida sobre produto;Telefone
+C00194;02/02/2026;Duvida sobre produto;Site
+C00195;12/02/2025;Segunda via de boleto;WhatsApp
+C00197;24/06/2025;Reclamacao de entrega;WhatsApp
+C00197;14/10/2025;Negociacao de divida;Telefone
+C00198;13/03/2025;Duvida sobre produto;Loja
+C00199;02/03/2026;Reclamacao de entrega;Telefone
+C00200;01/08/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00201;17/02/2026;Negociacao de divida;Telefone
+C00202;12/07/2025;Atualizacao cadastral;Site
+C00202;02/02/2026;Negociacao de divida;WhatsApp
+C00204;21/10/2025;Segunda via de boleto;WhatsApp
+C00205;14/11/2025;Segunda via de boleto;Telefone
+C00206;18/05/2025;Atualizacao cadastral;Telefone
+C00206;05/03/2026;Negociacao de divida;WhatsApp
+C00213;27/11/2025;Segunda via de boleto;WhatsApp
+C00215;08/10/2025;Negociacao de divida;WhatsApp
+C00219;04/09/2025;Segunda via de boleto;WhatsApp
+C00219;05/10/2025;Segunda via de boleto;WhatsApp
+C00221;28/12/2025;Segunda via de boleto;Telefone
+C00221;01/01/2026;Segunda via de boleto;Loja
+C00221;04/02/2026;Negociacao de divida;WhatsApp
+C00222;07/08/2025;Atualizacao cadastral;Telefone
+C00223;28/02/2026;Negociacao de divida;WhatsApp
+C00224;29/08/2025;Segunda via de boleto;Telefone
+C00224;18/01/2026;Segunda via de boleto;WhatsApp
+C00227;08/09/2025;Duvida sobre produto;WhatsApp
+C00227;19/01/2026;Negociacao de divida;WhatsApp
+C00228;16/02/2026;Negociacao de divida;Telefone
+C00229;10/04/2025;Duvida sobre produto;Site
+C00230;27/08/2024;Segunda via de boleto;Telefone
+C00230;19/01/2025;Negociacao de divida;Telefone
+C00231;28/08/2025;Reclamacao de entrega;Site
+C00233;09/07/2024;Duvida sobre produto;Site
+C00234;11/03/2026;Negociacao de divida;Telefone
+C00235;07/08/2025;Atualizacao cadastral;Site
+C00235;22/10/2025;Duvida sobre produto;Telefone
+C00236;24/10/2025;Atualizacao cadastral;Site
+C00237;20/11/2025;Segunda via de boleto;WhatsApp
+C00238;29/12/2024;Solicitacao de assistencia tecnica;Site
+C00241;08/12/2024;Segunda via de boleto;WhatsApp
+C00242;26/02/2026;Negociacao de divida;WhatsApp
+C00242;05/03/2026;Reclamacao de entrega;Site
+C00244;14/06/2025;Duvida sobre produto;Loja
+C00244;06/08/2025;Reclamacao de entrega;WhatsApp
+C00247;30/11/2025;Duvida sobre produto;WhatsApp
+C00251;23/04/2025;Reclamacao de entrega;Telefone
+C00252;24/01/2025;Segunda via de boleto;WhatsApp
+C00252;01/06/2025;Segunda via de boleto;Telefone
+C00253;16/11/2024;Segunda via de boleto;Loja
+C00256;07/08/2025;Segunda via de boleto;Telefone
+C00256;08/12/2025;Atualizacao cadastral;Loja
+C00256;24/01/2026;Segunda via de boleto;Telefone
+C00257;11/02/2026;Negociacao de divida;WhatsApp
+C00258;13/02/2026;Negociacao de divida;Telefone
+C00259;15/02/2025;Segunda via de boleto;WhatsApp
+C00259;18/03/2025;Segunda via de boleto;Loja
+C00261;25/12/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00262;02/01/2026;Atualizacao cadastral;Site
+C00262;10/02/2026;Negociacao de divida;Telefone
+C00263;30/04/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00265;30/07/2025;Segunda via de boleto;WhatsApp
+C00265;08/02/2026;Negociacao de divida;WhatsApp
+C00266;01/01/2026;Segunda via de boleto;Telefone
+C00267;11/09/2025;Segunda via de boleto;Loja
+C00268;03/08/2025;Solicitacao de assistencia tecnica;Site
+C00270;13/01/2025;Segunda via de boleto;Loja
+C00272;01/01/2025;Segunda via de boleto;WhatsApp
+C00272;17/05/2025;Atualizacao cadastral;WhatsApp
+C00272;15/07/2025;Segunda via de boleto;Telefone
+C00272;22/08/2025;Negociacao de divida;Telefone
+C00273;11/12/2025;Segunda via de boleto;WhatsApp
+C00275;08/12/2025;Reclamacao de entrega;WhatsApp
+C00275;13/12/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00276;31/12/2025;Duvida sobre produto;WhatsApp
+C00277;18/09/2025;Segunda via de boleto;Telefone
+C00278;01/01/2026;Atualizacao cadastral;Site
+C00281;25/10/2025;Atualizacao cadastral;WhatsApp
+C00282;22/11/2025;Segunda via de boleto;Telefone
+C00282;01/01/2026;Negociacao de divida;WhatsApp
+C00283;23/08/2024;Segunda via de boleto;WhatsApp
+C00283;23/12/2024;Segunda via de boleto;Telefone
+C00283;20/01/2025;Negociacao de divida;WhatsApp
+C00284;04/11/2025;Reclamacao de entrega;Telefone
+C00286;09/10/2025;Segunda via de boleto;Telefone
+C00286;09/03/2026;Negociacao de divida;Telefone
+C00287;21/02/2026;Negociacao de divida;WhatsApp
+C00288;04/11/2025;Segunda via de boleto;WhatsApp
+C00290;12/10/2025;Segunda via de boleto;WhatsApp
+C00290;23/02/2026;Negociacao de divida;Telefone
+C00292;25/12/2025;Segunda via de boleto;WhatsApp
+C00292;23/02/2026;Negociacao de divida;Telefone
+C00293;04/09/2025;Segunda via de boleto;Telefone
+C00294;21/03/2025;Segunda via de boleto;Loja
+C00294;13/05/2025;Negociacao de divida;WhatsApp
+C00295;16/06/2025;Segunda via de boleto;WhatsApp
+C00295;07/02/2026;Negociacao de divida;Telefone
+C00298;30/11/2025;Segunda via de boleto;WhatsApp
+C00299;13/06/2025;Duvida sobre produto;Site
+C00305;24/10/2025;Segunda via de boleto;Telefone
+C00306;13/10/2024;Segunda via de boleto;Loja
+C00306;14/11/2024;Segunda via de boleto;Loja
+C00306;07/01/2025;Segunda via de boleto;Telefone
+C00310;20/12/2025;Segunda via de boleto;Telefone
+C00312;03/03/2026;Negociacao de divida;WhatsApp
+C00313;12/01/2026;Segunda via de boleto;WhatsApp
+C00316;06/07/2025;Segunda via de boleto;WhatsApp
+C00316;22/10/2025;Segunda via de boleto;Loja
+C00316;21/02/2026;Negociacao de divida;WhatsApp
+C00317;06/03/2025;Segunda via de boleto;Telefone
+C00317;18/05/2025;Negociacao de divida;Telefone
+C00320;30/06/2025;Negociacao de divida;WhatsApp
+C00320;11/08/2025;Solicitacao de assistencia tecnica;Telefone
+C00322;31/07/2025;Segunda via de boleto;WhatsApp
+C00322;08/09/2025;Solicitacao de assistencia tecnica;Site
+C00322;30/01/2026;Negociacao de divida;WhatsApp
+C00324;14/11/2025;Atualizacao cadastral;Telefone
+C00324;24/02/2026;Negociacao de divida;Telefone
+C00326;31/08/2025;Atualizacao cadastral;Site
+C00326;14/09/2025;Segunda via de boleto;WhatsApp
+C00326;15/09/2025;Reclamacao de entrega;Site
+C00326;02/10/2025;Segunda via de boleto;Telefone
+C00326;19/10/2025;Segunda via de boleto;Loja
+C00326;11/01/2026;Segunda via de boleto;Loja
+C00327;05/09/2025;Segunda via de boleto;WhatsApp
+C00327;17/11/2025;Segunda via de boleto;Telefone
+C00328;08/01/2025;Atualizacao cadastral;Site
+C00328;27/02/2025;Duvida sobre produto;Site
+C00328;12/03/2025;Duvida sobre produto;Site
+C00328;16/12/2025;Solicitacao de assistencia tecnica;Site
+C00329;04/07/2025;Atualizacao cadastral;Loja
+C00329;04/02/2026;Negociacao de divida;WhatsApp
+C00332;25/03/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00332;23/06/2025;Atualizacao cadastral;Telefone
+C00335;06/02/2025;Duvida sobre produto;Telefone
+C00335;30/10/2025;Duvida sobre produto;WhatsApp
+C00336;07/02/2025;Solicitacao de assistencia tecnica;Loja
+C00337;08/06/2025;Segunda via de boleto;Loja
+C00337;04/07/2025;Segunda via de boleto;WhatsApp
+C00337;28/07/2025;Atualizacao cadastral;WhatsApp
+C00337;17/08/2025;Negociacao de divida;Telefone
+C00342;04/12/2024;Solicitacao de assistencia tecnica;Loja
+C00342;23/12/2024;Atualizacao cadastral;Telefone
+C00343;12/03/2025;Atualizacao cadastral;Site
+C00344;25/06/2025;Segunda via de boleto;Telefone
+C00346;17/02/2026;Negociacao de divida;Telefone
+C00348;17/04/2025;Atualizacao cadastral;WhatsApp
+C00348;30/08/2025;Segunda via de boleto;Loja
+C00349;05/08/2025;Segunda via de boleto;WhatsApp
+C00349;15/09/2025;Negociacao de divida;WhatsApp
+C00352;02/10/2025;Solicitacao de assistencia tecnica;Loja
+C00354;19/10/2025;Segunda via de boleto;Telefone
+C00354;28/02/2026;Negociacao de divida;WhatsApp
+C00355;01/09/2025;Duvida sobre produto;Telefone
+C00355;24/11/2025;Solicitacao de assistencia tecnica;Loja
+C00355;27/01/2026;Negociacao de divida;WhatsApp
+C00356;10/09/2025;Segunda via de boleto;WhatsApp
+C00356;02/11/2025;Reclamacao de entrega;Site
+C00362;24/08/2025;Negociacao de divida;Telefone
+C00363;30/08/2025;Atualizacao cadastral;WhatsApp
+C00364;26/02/2026;Negociacao de divida;Telefone
+C00366;03/08/2025;Segunda via de boleto;Telefone
+C00366;03/12/2025;Duvida sobre produto;Loja
+C00367;17/02/2026;Negociacao de divida;Telefone
+C00368;02/03/2025;Duvida sobre produto;Loja
+C00371;03/07/2025;Solicitacao de assistencia tecnica;Site
+C00372;08/12/2025;Duvida sobre produto;Site
+C00372;14/02/2026;Negociacao de divida;Telefone
+C00373;14/05/2025;Atualizacao cadastral;Telefone
+C00375;03/05/2025;Duvida sobre produto;Site
+C00375;11/08/2025;Segunda via de boleto;WhatsApp
+C00375;11/11/2025;Atualizacao cadastral;Site
+C00377;17/12/2025;Segunda via de boleto;Loja
+C00378;27/06/2025;Segunda via de boleto;WhatsApp
+C00378;23/12/2025;Atualizacao cadastral;Telefone
+C00379;10/03/2026;Solicitacao de assistencia tecnica;Site
+C00379;15/03/2026;Negociacao de divida;Telefone
+C00380;11/05/2025;Reclamacao de entrega;Site
+C00380;29/09/2025;Atualizacao cadastral;Loja
+C00380;13/01/2026;Segunda via de boleto;WhatsApp
+C00381;10/03/2025;Atualizacao cadastral;Site
+C00381;23/05/2025;Segunda via de boleto;Loja
+C00381;25/07/2025;Segunda via de boleto;Telefone
+C00381;30/07/2025;Atualizacao cadastral;Loja
+C00381;09/09/2025;Negociacao de divida;Telefone
+C00382;11/06/2025;Duvida sobre produto;Telefone
+C00383;03/07/2025;Segunda via de boleto;Loja
+C00383;20/10/2025;Solicitacao de assistencia tecnica;Loja
+C00383;12/01/2026;Solicitacao de assistencia tecnica;Site
+C00384;11/01/2026;Reclamacao de entrega;WhatsApp
+C00384;28/02/2026;Negociacao de divida;WhatsApp
+C00384;11/03/2026;Reclamacao de entrega;Telefone
+C00385;09/01/2025;Segunda via de boleto;WhatsApp
+C00385;02/03/2025;Segunda via de boleto;Loja
+C00385;07/07/2025;Segunda via de boleto;Telefone
+C00387;20/10/2025;Reclamacao de entrega;Site
+C00389;24/07/2025;Segunda via de boleto;WhatsApp
+C00389;11/08/2025;Segunda via de boleto;Loja
+C00389;19/12/2025;Segunda via de boleto;Telefone
+C00390;21/07/2025;Negociacao de divida;WhatsApp
+C00391;06/07/2025;Segunda via de boleto;Telefone
+C00392;09/03/2025;Segunda via de boleto;Loja
+C00393;10/01/2026;Segunda via de boleto;WhatsApp
+C00393;14/03/2026;Negociacao de divida;Telefone
+C00394;11/01/2025;Atualizacao cadastral;Site
+C00394;13/09/2025;Solicitacao de assistencia tecnica;Site
+C00394;17/09/2025;Segunda via de boleto;WhatsApp
+C00395;21/02/2025;Atualizacao cadastral;Telefone
+C00395;27/06/2025;Reclamacao de entrega;Telefone
+C00395;12/09/2025;Segunda via de boleto;WhatsApp
+C00395;18/10/2025;Segunda via de boleto;WhatsApp
+C00397;06/08/2025;Segunda via de boleto;Loja
+C00397;08/02/2026;Reclamacao de entrega;Site
+C00397;23/02/2026;Negociacao de divida;WhatsApp
+C00398;22/08/2025;Duvida sobre produto;Loja
+C00398;17/09/2025;Reclamacao de entrega;Telefone
+C00398;12/02/2026;Negociacao de divida;Telefone
+C00399;03/11/2024;Solicitacao de assistencia tecnica;WhatsApp
+C00399;09/01/2025;Segunda via de boleto;Loja
+C00400;07/04/2025;Atualizacao cadastral;Loja
+C00400;18/05/2025;Reclamacao de entrega;Site
+C00400;22/05/2025;Segunda via de boleto;WhatsApp
+C00400;08/06/2025;Segunda via de boleto;Loja
+C00400;28/06/2025;Segunda via de boleto;Loja
+C00401;27/05/2025;Segunda via de boleto;WhatsApp
+C00402;20/09/2025;Segunda via de boleto;Loja
+C00403;15/10/2024;Atualizacao cadastral;Site
+C00403;13/05/2025;Segunda via de boleto;WhatsApp
+C00405;08/10/2025;Segunda via de boleto;WhatsApp
+C00407;06/07/2025;Atualizacao cadastral;WhatsApp
+C00408;10/07/2025;Reclamacao de entrega;Site
+C00409;11/01/2025;Reclamacao de entrega;WhatsApp
+C00409;28/01/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00409;10/02/2025;Solicitacao de assistencia tecnica;Site
+C00409;31/03/2025;Segunda via de boleto;Telefone
+C00409;26/07/2025;Negociacao de divida;WhatsApp
+C00411;04/08/2025;Segunda via de boleto;Telefone
+C00411;23/10/2025;Segunda via de boleto;Loja
+C00413;30/09/2025;Reclamacao de entrega;Site
+C00413;14/10/2025;Duvida sobre produto;WhatsApp
+C00414;23/07/2025;Segunda via de boleto;Loja
+C00415;25/10/2025;Segunda via de boleto;WhatsApp
+C00415;13/02/2026;Negociacao de divida;Telefone
+C00416;09/12/2025;Segunda via de boleto;WhatsApp
+C00416;13/01/2026;Negociacao de divida;WhatsApp
+C00417;07/03/2026;Reclamacao de entrega;Site
+C00418;11/11/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00418;03/12/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00418;09/12/2025;Segunda via de boleto;Loja
+C00420;04/03/2026;Negociacao de divida;WhatsApp
+C00422;13/11/2025;Duvida sobre produto;WhatsApp
+C00423;18/07/2025;Solicitacao de assistencia tecnica;Site
+C00423;18/09/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00425;03/06/2025;Duvida sobre produto;Telefone
+C00427;04/09/2025;Segunda via de boleto;WhatsApp
+C00428;23/10/2025;Segunda via de boleto;Loja
+C00430;23/02/2025;Negociacao de divida;Telefone
+C00435;06/03/2025;Solicitacao de assistencia tecnica;Loja
+C00436;08/10/2025;Negociacao de divida;Telefone
+C00438;19/04/2025;Reclamacao de entrega;Loja
+C00438;05/07/2025;Segunda via de boleto;WhatsApp
+C00438;30/08/2025;Duvida sobre produto;Telefone
+C00440;15/11/2025;Atualizacao cadastral;Site
+C00440;24/11/2025;Atualizacao cadastral;Telefone
+C00441;15/11/2025;Negociacao de divida;WhatsApp
+C00442;12/10/2025;Segunda via de boleto;Telefone
+C00442;14/11/2025;Reclamacao de entrega;Telefone
+C00442;24/01/2026;Negociacao de divida;WhatsApp
+C00443;07/08/2025;Solicitacao de assistencia tecnica;Loja
+C00443;18/12/2025;Duvida sobre produto;Site
+C00443;14/03/2026;Negociacao de divida;WhatsApp
+C00444;20/01/2026;Segunda via de boleto;Loja
+C00444;13/02/2026;Duvida sobre produto;Site
+C00445;26/06/2025;Duvida sobre produto;Loja
+C00446;17/01/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00446;21/01/2025;Segunda via de boleto;Telefone
+C00446;20/07/2025;Negociacao de divida;WhatsApp
+C00448;08/08/2025;Segunda via de boleto;Telefone
+C00451;08/06/2025;Duvida sobre produto;Site
+C00452;30/03/2025;Duvida sobre produto;Telefone
+C00454;20/06/2025;Atualizacao cadastral;WhatsApp
+C00454;06/07/2025;Segunda via de boleto;Telefone
+C00454;07/10/2025;Negociacao de divida;WhatsApp
+C00455;01/12/2025;Segunda via de boleto;Loja
+C00456;15/02/2026;Negociacao de divida;Telefone
+C00457;16/08/2025;Reclamacao de entrega;WhatsApp
+C00457;10/11/2025;Segunda via de boleto;Telefone
+C00457;03/12/2025;Segunda via de boleto;Telefone
+C00457;04/01/2026;Segunda via de boleto;Loja
+C00461;18/09/2025;Segunda via de boleto;WhatsApp
+C00461;26/02/2026;Negociacao de divida;Telefone
+C00463;07/09/2024;Reclamacao de entrega;Site
+C00463;16/07/2025;Negociacao de divida;WhatsApp
+C00466;24/02/2025;Atualizacao cadastral;Site
+C00467;31/07/2024;Atualizacao cadastral;Telefone
+C00467;19/08/2024;Segunda via de boleto;WhatsApp
+C00467;08/10/2024;Segunda via de boleto;WhatsApp
+C00467;23/10/2024;Segunda via de boleto;Telefone
+C00467;08/12/2024;Segunda via de boleto;WhatsApp
+C00467;18/02/2025;Negociacao de divida;WhatsApp
+C00468;12/07/2025;Duvida sobre produto;WhatsApp
+C00469;01/12/2024;Solicitacao de assistencia tecnica;WhatsApp
+C00469;12/07/2025;Segunda via de boleto;WhatsApp
+C00470;21/06/2025;Negociacao de divida;WhatsApp
+C00471;02/10/2025;Segunda via de boleto;Telefone
+C00472;05/03/2025;Solicitacao de assistencia tecnica;Site
+C00476;10/12/2025;Segunda via de boleto;Loja
+C00476;08/02/2026;Negociacao de divida;Telefone
+C00477;12/02/2026;Negociacao de divida;WhatsApp
+C00480;06/06/2025;Duvida sobre produto;Site
+C00480;02/07/2025;Segunda via de boleto;Loja
+C00481;16/04/2025;Duvida sobre produto;WhatsApp
+C00481;06/05/2025;Reclamacao de entrega;Site
+C00481;05/02/2026;Negociacao de divida;Telefone
+C00483;14/11/2025;Segunda via de boleto;Loja
+C00483;14/12/2025;Atualizacao cadastral;WhatsApp
+C00483;05/02/2026;Negociacao de divida;Telefone
+C00484;23/02/2025;Segunda via de boleto;Loja
+C00485;11/11/2025;Atualizacao cadastral;Loja
+C00485;02/12/2025;Segunda via de boleto;Telefone
+C00485;07/02/2026;Duvida sobre produto;Site
+C00488;08/12/2025;Segunda via de boleto;WhatsApp
+C00488;26/01/2026;Duvida sobre produto;Site
+C00489;15/12/2025;Segunda via de boleto;WhatsApp
+C00489;18/02/2026;Negociacao de divida;WhatsApp
+C00491;29/03/2025;Atualizacao cadastral;Site
+C00492;19/06/2025;Segunda via de boleto;WhatsApp
+C00493;20/01/2026;Segunda via de boleto;WhatsApp
+C00494;19/04/2025;Segunda via de boleto;WhatsApp
+C00494;11/09/2025;Segunda via de boleto;WhatsApp
+C00495;24/11/2025;Reclamacao de entrega;WhatsApp
+C00498;21/08/2024;Segunda via de boleto;Telefone
+C00498;08/11/2024;Segunda via de boleto;WhatsApp
+C00498;14/02/2025;Negociacao de divida;Telefone
+C00499;15/11/2025;Duvida sobre produto;Loja
+C00499;09/02/2026;Negociacao de divida;WhatsApp
+C00501;27/08/2025;Segunda via de boleto;Telefone
+C00502;05/12/2024;Segunda via de boleto;WhatsApp
+C00503;26/01/2026;Negociacao de divida;Telefone
+C00505;21/05/2025;Solicitacao de assistencia tecnica;Site
+C00505;02/01/2026;Segunda via de boleto;Loja
+C00505;06/02/2026;Negociacao de divida;WhatsApp
+C00506;24/11/2024;Solicitacao de assistencia tecnica;Site
+C00506;24/02/2025;Segunda via de boleto;Loja
+C00507;04/04/2025;Segunda via de boleto;WhatsApp
+C00507;19/04/2025;Segunda via de boleto;Loja
+C00509;12/09/2025;Reclamacao de entrega;Site
+C00514;27/07/2025;Solicitacao de assistencia tecnica;Telefone
+C00515;13/03/2025;Atualizacao cadastral;Loja
+C00515;29/06/2025;Segunda via de boleto;Telefone
+C00515;01/12/2025;Negociacao de divida;Telefone
+C00516;20/02/2026;Negociacao de divida;Telefone
+C00516;08/03/2026;Atualizacao cadastral;Site
+C00518;22/07/2025;Segunda via de boleto;WhatsApp
+C00518;07/03/2026;Negociacao de divida;Telefone
+C00519;28/02/2026;Negociacao de divida;WhatsApp
+C00521;19/12/2025;Segunda via de boleto;Telefone
+C00521;03/03/2026;Negociacao de divida;Telefone
+C00522;17/09/2025;Atualizacao cadastral;WhatsApp
+C00522;21/10/2025;Segunda via de boleto;Loja
+C00522;24/10/2025;Segunda via de boleto;WhatsApp
+C00522;27/01/2026;Segunda via de boleto;Loja
+C00523;16/02/2026;Reclamacao de entrega;Telefone
+C00524;22/05/2025;Atualizacao cadastral;WhatsApp
+C00524;20/08/2025;Atualizacao cadastral;Telefone
+C00526;19/04/2025;Atualizacao cadastral;WhatsApp
+C00526;10/01/2026;Segunda via de boleto;Telefone
+C00530;11/09/2024;Atualizacao cadastral;Telefone
+C00530;10/09/2025;Solicitacao de assistencia tecnica;Site
+C00531;08/07/2025;Segunda via de boleto;Loja
+C00531;11/09/2025;Negociacao de divida;WhatsApp
+C00532;10/12/2025;Segunda via de boleto;Telefone
+C00533;15/12/2024;Solicitacao de assistencia tecnica;Telefone
+C00533;14/03/2025;Segunda via de boleto;WhatsApp
+C00533;05/05/2025;Segunda via de boleto;WhatsApp
+C00534;08/04/2025;Atualizacao cadastral;Loja
+C00534;14/06/2025;Segunda via de boleto;Telefone
+C00534;25/12/2025;Atualizacao cadastral;Loja
+C00534;31/12/2025;Segunda via de boleto;WhatsApp
+C00535;24/06/2025;Solicitacao de assistencia tecnica;Site
+C00535;01/03/2026;Negociacao de divida;WhatsApp
+C00537;14/09/2025;Duvida sobre produto;Telefone
+C00537;23/01/2026;Negociacao de divida;WhatsApp
+C00538;20/03/2025;Segunda via de boleto;Loja
+C00538;24/03/2025;Duvida sobre produto;Telefone
+C00538;15/08/2025;Negociacao de divida;WhatsApp
+C00539;14/03/2025;Segunda via de boleto;WhatsApp
+C00539;03/09/2025;Negociacao de divida;Telefone
+C00542;06/06/2025;Atualizacao cadastral;Telefone
+C00542;08/10/2025;Segunda via de boleto;WhatsApp
+C00542;21/11/2025;Negociacao de divida;WhatsApp
+C00542;28/12/2025;Solicitacao de assistencia tecnica;Telefone
+C00543;04/02/2025;Segunda via de boleto;Loja
+C00544;11/01/2026;Segunda via de boleto;WhatsApp
+C00544;22/02/2026;Negociacao de divida;Telefone
+C00548;19/09/2025;Reclamacao de entrega;Telefone
+C00549;21/07/2025;Solicitacao de assistencia tecnica;Loja
+C00550;13/02/2026;Negociacao de divida;Telefone
+C00551;05/12/2025;Segunda via de boleto;Loja
+C00551;26/02/2026;Negociacao de divida;WhatsApp
+C00553;07/12/2025;Negociacao de divida;WhatsApp
+C00555;21/09/2025;Segunda via de boleto;Loja
+C00555;17/02/2026;Negociacao de divida;WhatsApp
+C00557;27/01/2025;Segunda via de boleto;Loja
+C00557;27/01/2025;Atualizacao cadastral;Loja
+C00557;23/08/2025;Negociacao de divida;WhatsApp
+C00558;02/09/2025;Segunda via de boleto;Loja
+C00558;26/01/2026;Negociacao de divida;WhatsApp
+C00559;29/03/2025;Duvida sobre produto;Loja
+C00559;13/09/2025;Reclamacao de entrega;Site
+C00561;01/08/2025;Atualizacao cadastral;WhatsApp
+C00562;14/08/2025;Solicitacao de assistencia tecnica;Site
+C00562;19/10/2025;Segunda via de boleto;WhatsApp
+C00562;01/01/2026;Segunda via de boleto;Loja
+C00562;18/01/2026;Segunda via de boleto;WhatsApp
+C00562;08/03/2026;Solicitacao de assistencia tecnica;Telefone
+C00563;05/10/2025;Duvida sobre produto;Loja
+C00563;08/10/2025;Segunda via de boleto;WhatsApp
+C00563;27/01/2026;Negociacao de divida;Telefone
+C00564;07/11/2025;Segunda via de boleto;Telefone
+C00564;09/02/2026;Negociacao de divida;WhatsApp
+C00565;09/08/2025;Solicitacao de assistencia tecnica;Site
+C00566;03/08/2025;Duvida sobre produto;Site
+C00566;31/01/2026;Negociacao de divida;Telefone
+C00568;04/05/2025;Segunda via de boleto;Loja
+C00568;15/06/2025;Atualizacao cadastral;Loja
+C00568;16/08/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00568;25/08/2025;Solicitacao de assistencia tecnica;Telefone
+C00570;25/08/2025;Atualizacao cadastral;Loja
+C00571;15/08/2025;Solicitacao de assistencia tecnica;Site
+C00571;04/10/2025;Segunda via de boleto;Telefone
+C00572;15/02/2026;Negociacao de divida;WhatsApp
+C00574;15/10/2025;Segunda via de boleto;WhatsApp
+C00579;07/12/2024;Atualizacao cadastral;Site
+C00579;04/03/2025;Segunda via de boleto;WhatsApp
+C00580;11/05/2025;Atualizacao cadastral;Site
+C00580;07/09/2025;Reclamacao de entrega;Site
+C00582;24/05/2025;Atualizacao cadastral;WhatsApp
+C00582;04/10/2025;Solicitacao de assistencia tecnica;Site
+C00583;07/12/2025;Segunda via de boleto;WhatsApp
+C00583;12/02/2026;Reclamacao de entrega;Site
+C00584;19/08/2025;Atualizacao cadastral;WhatsApp
+C00584;15/10/2025;Atualizacao cadastral;Site
+C00584;04/11/2025;Atualizacao cadastral;WhatsApp
+C00585;01/01/2026;Segunda via de boleto;Telefone
+C00585;03/03/2026;Negociacao de divida;WhatsApp
+C00586;21/07/2025;Negociacao de divida;WhatsApp
+C00587;06/12/2025;Solicitacao de assistencia tecnica;Telefone
+C00589;06/10/2025;Solicitacao de assistencia tecnica;Site
+C00589;25/10/2025;Segunda via de boleto;WhatsApp
+C00589;12/03/2026;Negociacao de divida;WhatsApp
+C00590;11/09/2025;Negociacao de divida;WhatsApp
+C00591;29/12/2024;Atualizacao cadastral;WhatsApp
+C00591;20/05/2025;Solicitacao de assistencia tecnica;Loja
+C00591;23/08/2025;Segunda via de boleto;Loja
+C00593;23/08/2025;Reclamacao de entrega;WhatsApp
+C00593;13/12/2025;Atualizacao cadastral;Loja
+C00593;02/02/2026;Negociacao de divida;Telefone
+C00595;02/03/2025;Reclamacao de entrega;WhatsApp
+C00595;27/07/2025;Negociacao de divida;Telefone
+C00598;26/02/2026;Atualizacao cadastral;Site
+C00599;10/04/2025;Atualizacao cadastral;Loja
+C00600;24/06/2025;Duvida sobre produto;Loja
+C00600;30/01/2026;Negociacao de divida;Telefone
+C00601;18/12/2024;Duvida sobre produto;Telefone
+C00603;09/11/2025;Reclamacao de entrega;Telefone
+C00603;26/02/2026;Negociacao de divida;Telefone
+C00605;10/12/2025;Segunda via de boleto;Loja
+C00605;22/12/2025;Segunda via de boleto;Loja
+C00605;10/01/2026;Atualizacao cadastral;WhatsApp
+C00605;04/02/2026;Reclamacao de entrega;Telefone
+C00605;10/03/2026;Negociacao de divida;Telefone
+C00608;02/09/2025;Segunda via de boleto;Telefone
+C00608;01/01/2026;Negociacao de divida;Telefone
+C00609;19/09/2025;Segunda via de boleto;Telefone
+C00609;09/10/2025;Segunda via de boleto;Telefone
+C00611;29/10/2025;Atualizacao cadastral;Site
+C00611;07/01/2026;Atualizacao cadastral;Telefone
+C00613;16/12/2025;Segunda via de boleto;WhatsApp
+C00614;17/09/2025;Negociacao de divida;Telefone
+C00614;24/09/2025;Solicitacao de assistencia tecnica;Site
+C00616;02/07/2025;Segunda via de boleto;Loja
+C00616;03/07/2025;Duvida sobre produto;WhatsApp
+C00616;10/09/2025;Segunda via de boleto;Telefone
+C00616;25/02/2026;Negociacao de divida;WhatsApp
+C00617;27/10/2025;Solicitacao de assistencia tecnica;Telefone
+C00618;22/02/2025;Segunda via de boleto;Telefone
+C00618;15/05/2025;Reclamacao de entrega;Telefone
+C00619;15/09/2025;Segunda via de boleto;Loja
+C00619;07/10/2025;Segunda via de boleto;WhatsApp
+C00619;25/01/2026;Negociacao de divida;Telefone
+C00620;13/03/2025;Atualizacao cadastral;WhatsApp
+C00620;29/05/2025;Segunda via de boleto;WhatsApp
+C00627;05/07/2025;Atualizacao cadastral;Telefone
+C00627;15/10/2025;Segunda via de boleto;Loja
+C00628;26/04/2025;Duvida sobre produto;Telefone
+C00628;15/09/2025;Atualizacao cadastral;Telefone
+C00628;18/12/2025;Segunda via de boleto;Telefone
+C00629;11/02/2026;Negociacao de divida;Telefone
+C00636;27/01/2026;Segunda via de boleto;WhatsApp
+C00639;04/09/2025;Atualizacao cadastral;Loja
+C00639;29/01/2026;Negociacao de divida;WhatsApp
+C00641;24/10/2025;Segunda via de boleto;Loja
+C00643;07/10/2024;Reclamacao de entrega;Telefone
+C00644;20/07/2025;Negociacao de divida;WhatsApp
+C00646;28/06/2025;Segunda via de boleto;WhatsApp
+C00646;13/07/2025;Segunda via de boleto;Loja
+C00646;24/09/2025;Segunda via de boleto;WhatsApp
+C00648;22/12/2025;Duvida sobre produto;WhatsApp
+C00648;15/02/2026;Negociacao de divida;WhatsApp
+C00650;24/12/2025;Atualizacao cadastral;Telefone
+C00652;08/08/2025;Solicitacao de assistencia tecnica;Loja
+C00653;30/04/2025;Atualizacao cadastral;Loja
+C00653;14/11/2025;Segunda via de boleto;Loja
+C00655;10/02/2026;Reclamacao de entrega;Telefone
+C00656;09/01/2026;Segunda via de boleto;Loja
+C00657;15/03/2025;Negociacao de divida;Telefone
+C00657;10/04/2025;Reclamacao de entrega;Telefone
+C00659;11/07/2025;Duvida sobre produto;WhatsApp
+C00659;18/10/2025;Duvida sobre produto;Telefone
+C00659;23/02/2026;Negociacao de divida;WhatsApp
+C00660;25/01/2025;Negociacao de divida;Telefone
+C00661;25/07/2025;Negociacao de divida;Telefone
+C00664;19/07/2025;Atualizacao cadastral;WhatsApp
+C00664;10/02/2026;Atualizacao cadastral;Site
+C00665;27/07/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00666;30/12/2024;Reclamacao de entrega;WhatsApp
+C00666;28/01/2025;Reclamacao de entrega;Loja
+C00666;25/08/2025;Segunda via de boleto;Loja
+C00666;28/09/2025;Segunda via de boleto;Telefone
+C00667;23/02/2026;Atualizacao cadastral;Site
+C00668;14/02/2026;Negociacao de divida;WhatsApp
+C00670;19/07/2025;Solicitacao de assistencia tecnica;Site
+C00672;17/09/2025;Segunda via de boleto;WhatsApp
+C00672;26/09/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00672;25/11/2025;Segunda via de boleto;Telefone
+C00672;01/03/2026;Negociacao de divida;WhatsApp
+C00675;16/07/2025;Segunda via de boleto;Loja
+C00675;27/02/2026;Negociacao de divida;Telefone
+C00676;31/10/2025;Segunda via de boleto;Loja
+C00676;04/03/2026;Negociacao de divida;WhatsApp
+C00677;13/10/2025;Reclamacao de entrega;Telefone
+C00677;30/01/2026;Duvida sobre produto;Telefone
+C00679;26/06/2025;Reclamacao de entrega;Site
+C00679;26/09/2025;Negociacao de divida;Telefone
+C00682;17/12/2025;Reclamacao de entrega;WhatsApp
+C00683;20/10/2024;Atualizacao cadastral;Telefone
+C00683;21/11/2024;Atualizacao cadastral;WhatsApp
+C00683;01/03/2025;Atualizacao cadastral;Telefone
+C00684;26/06/2025;Negociacao de divida;Telefone
+C00685;21/02/2026;Negociacao de divida;Telefone
+C00687;14/08/2025;Segunda via de boleto;WhatsApp
+C00687;08/09/2025;Segunda via de boleto;Telefone
+C00688;26/09/2025;Solicitacao de assistencia tecnica;Loja
+C00688;16/11/2025;Negociacao de divida;WhatsApp
+C00689;23/08/2025;Negociacao de divida;WhatsApp
+C00692;23/12/2025;Segunda via de boleto;WhatsApp
+C00692;11/02/2026;Negociacao de divida;WhatsApp
+C00693;21/05/2025;Reclamacao de entrega;WhatsApp
+C00695;04/12/2025;Solicitacao de assistencia tecnica;Site
+C00696;14/07/2025;Atualizacao cadastral;Telefone
+C00696;07/08/2025;Segunda via de boleto;Telefone
+C00696;13/09/2025;Atualizacao cadastral;Telefone
+C00696;05/03/2026;Negociacao de divida;WhatsApp
+C00697;27/11/2024;Solicitacao de assistencia tecnica;Telefone
+C00697;09/07/2025;Negociacao de divida;WhatsApp
+C00698;27/08/2025;Segunda via de boleto;Loja
+C00702;22/11/2025;Segunda via de boleto;WhatsApp
+C00702;31/01/2026;Solicitacao de assistencia tecnica;Telefone
+C00702;18/02/2026;Negociacao de divida;Telefone
+C00704;12/11/2025;Atualizacao cadastral;Telefone
+C00704;05/12/2025;Negociacao de divida;WhatsApp
+C00705;02/12/2024;Atualizacao cadastral;Loja
+C00706;25/12/2025;Atualizacao cadastral;WhatsApp
+C00707;19/02/2026;Negociacao de divida;Telefone
+C00708;20/02/2026;Negociacao de divida;WhatsApp
+C00709;06/09/2024;Atualizacao cadastral;WhatsApp
+C00709;14/09/2024;Segunda via de boleto;Telefone
+C00709;20/09/2024;Segunda via de boleto;Telefone
+C00710;06/10/2025;Segunda via de boleto;Telefone
+C00711;15/07/2025;Duvida sobre produto;Telefone
+C00711;12/01/2026;Segunda via de boleto;WhatsApp
+C00713;09/02/2026;Negociacao de divida;Telefone
+C00716;07/03/2026;Negociacao de divida;WhatsApp
+C00717;05/06/2025;Segunda via de boleto;Loja
+C00717;03/08/2025;Segunda via de boleto;Loja
+C00717;02/01/2026;Atualizacao cadastral;Telefone
+C00719;14/09/2025;Segunda via de boleto;WhatsApp
+C00719;02/02/2026;Segunda via de boleto;WhatsApp
+C00719;11/02/2026;Atualizacao cadastral;Telefone
+C00720;12/09/2025;Atualizacao cadastral;Site
+C00722;09/03/2026;Negociacao de divida;Telefone
+C00723;17/06/2025;Reclamacao de entrega;Loja
+C00723;15/07/2025;Duvida sobre produto;Loja
+C00724;17/03/2025;Segunda via de boleto;Loja
+C00724;29/03/2025;Segunda via de boleto;WhatsApp
+C00724;15/04/2025;Segunda via de boleto;Loja
+C00724;01/09/2025;Negociacao de divida;WhatsApp
+C00725;12/12/2025;Duvida sobre produto;Loja
+C00725;20/12/2025;Segunda via de boleto;Telefone
+C00725;11/02/2026;Negociacao de divida;Telefone
+C00728;08/07/2025;Reclamacao de entrega;WhatsApp
+C00729;26/05/2025;Duvida sobre produto;Telefone
+C00729;03/10/2025;Segunda via de boleto;WhatsApp
+C00730;13/11/2025;Atualizacao cadastral;Telefone
+C00730;28/02/2026;Negociacao de divida;Telefone
+C00731;10/01/2026;Atualizacao cadastral;WhatsApp
+C00735;21/11/2025;Reclamacao de entrega;Telefone
+C00735;26/01/2026;Reclamacao de entrega;Telefone
+C00735;11/03/2026;Reclamacao de entrega;Site
+C00736;14/09/2025;Duvida sobre produto;Site
+C00736;06/02/2026;Solicitacao de assistencia tecnica;Site
+C00737;06/11/2025;Segunda via de boleto;WhatsApp
+C00737;27/01/2026;Negociacao de divida;WhatsApp
+C00739;11/02/2026;Negociacao de divida;WhatsApp
+C00740;20/06/2025;Segunda via de boleto;Loja
+C00740;23/07/2025;Segunda via de boleto;WhatsApp
+C00740;23/10/2025;Segunda via de boleto;WhatsApp
+C00743;24/04/2025;Solicitacao de assistencia tecnica;Loja
+C00743;25/11/2025;Solicitacao de assistencia tecnica;Telefone
+C00743;17/01/2026;Duvida sobre produto;WhatsApp
+C00745;24/07/2025;Duvida sobre produto;Loja
+C00745;28/07/2025;Segunda via de boleto;Loja
+C00745;23/12/2025;Segunda via de boleto;Telefone
+C00745;17/02/2026;Negociacao de divida;WhatsApp
+C00747;23/05/2025;Duvida sobre produto;Loja
+C00747;01/06/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00747;24/06/2025;Segunda via de boleto;Loja
+C00750;08/05/2025;Duvida sobre produto;WhatsApp
+C00750;07/06/2025;Segunda via de boleto;Loja
+C00750;29/09/2025;Segunda via de boleto;Telefone
+C00750;30/09/2025;Segunda via de boleto;WhatsApp
+C00750;04/01/2026;Negociacao de divida;WhatsApp
+C00751;27/05/2025;Reclamacao de entrega;Site
+C00755;08/08/2025;Segunda via de boleto;WhatsApp
+C00755;05/11/2025;Segunda via de boleto;WhatsApp
+C00755;07/12/2025;Segunda via de boleto;Telefone
+C00756;23/03/2025;Segunda via de boleto;Telefone
+C00756;07/07/2025;Segunda via de boleto;Loja
+C00757;11/11/2025;Solicitacao de assistencia tecnica;Loja
+C00757;07/03/2026;Negociacao de divida;WhatsApp
+C00758;22/02/2025;Segunda via de boleto;Loja
+C00759;20/09/2024;Solicitacao de assistencia tecnica;Loja
+C00759;22/12/2024;Reclamacao de entrega;Site
+C00761;23/10/2025;Duvida sobre produto;WhatsApp
+C00761;19/12/2025;Duvida sobre produto;Site
+C00762;28/10/2025;Segunda via de boleto;Loja
+C00763;24/11/2025;Segunda via de boleto;Loja
+C00764;17/01/2026;Negociacao de divida;Telefone
+C00765;06/05/2025;Atualizacao cadastral;Telefone
+C00769;12/02/2026;Negociacao de divida;WhatsApp
+C00770;04/12/2025;Segunda via de boleto;WhatsApp
+C00770;08/02/2026;Negociacao de divida;WhatsApp
+C00771;23/08/2025;Segunda via de boleto;Telefone
+C00772;25/05/2025;Atualizacao cadastral;WhatsApp
+C00772;19/09/2025;Segunda via de boleto;WhatsApp
+C00772;02/02/2026;Negociacao de divida;Telefone
+C00773;31/01/2026;Reclamacao de entrega;Telefone
+C00774;23/02/2026;Negociacao de divida;WhatsApp
+C00775;10/09/2025;Reclamacao de entrega;Site
+C00777;09/08/2025;Duvida sobre produto;Telefone
+C00777;12/12/2025;Duvida sobre produto;WhatsApp
+C00777;23/12/2025;Reclamacao de entrega;WhatsApp
+C00777;28/12/2025;Segunda via de boleto;WhatsApp
+C00778;12/11/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00781;31/03/2025;Reclamacao de entrega;Telefone
+C00782;25/12/2025;Segunda via de boleto;WhatsApp
+C00782;11/03/2026;Negociacao de divida;Telefone
+C00784;13/08/2025;Atualizacao cadastral;Telefone
+C00785;11/11/2024;Solicitacao de assistencia tecnica;Loja
+C00785;27/02/2025;Duvida sobre produto;WhatsApp
+C00786;26/12/2025;Duvida sobre produto;Site
+C00788;08/07/2025;Atualizacao cadastral;WhatsApp
+C00789;24/08/2025;Segunda via de boleto;WhatsApp
+C00789;11/11/2025;Negociacao de divida;Telefone
+C00790;05/08/2025;Solicitacao de assistencia tecnica;Telefone
+C00791;31/08/2024;Segunda via de boleto;WhatsApp
+C00791;31/01/2025;Reclamacao de entrega;Site
+C00793;18/07/2025;Segunda via de boleto;Telefone
+C00793;10/12/2025;Segunda via de boleto;Telefone
+C00795;17/02/2026;Negociacao de divida;WhatsApp
+C00797;15/03/2025;Duvida sobre produto;WhatsApp
+C00800;19/01/2026;Atualizacao cadastral;Site
+C00801;08/10/2025;Segunda via de boleto;WhatsApp
+C00801;16/10/2025;Atualizacao cadastral;Telefone
+C00801;27/02/2026;Negociacao de divida;Telefone
+C00803;30/10/2025;Atualizacao cadastral;Site
+C00804;29/11/2025;Reclamacao de entrega;Telefone
+C00807;09/09/2025;Segunda via de boleto;WhatsApp
+C00807;30/11/2025;Negociacao de divida;Telefone
+C00809;25/10/2025;Reclamacao de entrega;WhatsApp
+C00810;27/06/2025;Segunda via de boleto;WhatsApp
+C00810;23/09/2025;Duvida sobre produto;Site
+C00810;05/12/2025;Reclamacao de entrega;WhatsApp
+C00810;12/02/2026;Negociacao de divida;Telefone
+C00813;22/06/2025;Segunda via de boleto;Telefone
+C00816;12/10/2025;Segunda via de boleto;Loja
+C00819;28/09/2025;Duvida sobre produto;Telefone
+C00820;19/12/2025;Segunda via de boleto;Telefone
+C00821;16/02/2026;Negociacao de divida;WhatsApp
+C00823;22/10/2025;Segunda via de boleto;WhatsApp
+C00823;19/02/2026;Negociacao de divida;WhatsApp
+C00824;08/02/2026;Negociacao de divida;Telefone
+C00825;30/05/2025;Segunda via de boleto;Loja
+C00825;21/09/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00825;13/11/2025;Segunda via de boleto;Loja
+C00827;10/11/2025;Segunda via de boleto;Loja
+C00827;29/01/2026;Atualizacao cadastral;Telefone
+C00829;06/03/2026;Negociacao de divida;WhatsApp
+C00830;01/09/2025;Segunda via de boleto;WhatsApp
+C00830;16/02/2026;Negociacao de divida;WhatsApp
+C00831;25/10/2025;Segunda via de boleto;Loja
+C00834;06/07/2025;Segunda via de boleto;Telefone
+C00835;02/06/2025;Solicitacao de assistencia tecnica;Site
+C00838;25/09/2025;Duvida sobre produto;WhatsApp
+C00840;07/12/2025;Duvida sobre produto;Telefone
+C00841;15/10/2025;Segunda via de boleto;WhatsApp
+C00841;17/01/2026;Segunda via de boleto;WhatsApp
+C00841;20/02/2026;Solicitacao de assistencia tecnica;Site
+C00843;14/03/2025;Atualizacao cadastral;Telefone
+C00847;27/09/2025;Reclamacao de entrega;Telefone
+C00848;20/01/2026;Duvida sobre produto;Telefone
+C00850;11/07/2025;Segunda via de boleto;Loja
+C00850;07/09/2025;Duvida sobre produto;Loja
+C00850;11/02/2026;Negociacao de divida;WhatsApp
+C00853;05/02/2026;Negociacao de divida;WhatsApp
+C00854;14/12/2024;Duvida sobre produto;Site
+C00855;19/12/2024;Duvida sobre produto;WhatsApp
+C00856;26/03/2025;Solicitacao de assistencia tecnica;Loja
+C00858;23/02/2026;Negociacao de divida;WhatsApp
+C00859;16/02/2026;Negociacao de divida;WhatsApp
+C00860;16/06/2025;Atualizacao cadastral;WhatsApp
+C00861;04/04/2025;Reclamacao de entrega;WhatsApp
+C00861;02/10/2025;Segunda via de boleto;Loja
+C00862;10/05/2025;Atualizacao cadastral;Telefone
+C00863;21/02/2026;Negociacao de divida;WhatsApp
+C00866;02/08/2025;Segunda via de boleto;Telefone
+C00866;10/02/2026;Negociacao de divida;Telefone
+C00867;19/04/2025;Solicitacao de assistencia tecnica;Telefone
+C00867;07/06/2025;Solicitacao de assistencia tecnica;Telefone
+C00867;02/02/2026;Atualizacao cadastral;Telefone
+C00867;10/02/2026;Solicitacao de assistencia tecnica;Telefone
+C00869;19/08/2025;Segunda via de boleto;WhatsApp
+C00869;16/09/2025;Atualizacao cadastral;WhatsApp
+C00869;02/03/2026;Negociacao de divida;Telefone
+C00870;22/02/2026;Negociacao de divida;WhatsApp
+C00871;05/09/2025;Negociacao de divida;Telefone
+C00873;24/11/2025;Reclamacao de entrega;WhatsApp
+C00874;12/07/2025;Atualizacao cadastral;Telefone
+C00874;11/03/2026;Negociacao de divida;Telefone
+C00875;14/09/2025;Segunda via de boleto;Loja
+C00876;01/06/2025;Atualizacao cadastral;Site
+C00879;26/09/2025;Segunda via de boleto;Telefone
+C00880;31/07/2024;Duvida sobre produto;Site
+C00880;18/11/2024;Duvida sobre produto;WhatsApp
+C00881;27/11/2025;Reclamacao de entrega;WhatsApp
+C00884;04/07/2025;Negociacao de divida;WhatsApp
+C00885;09/06/2025;Duvida sobre produto;Loja
+C00885;27/07/2025;Segunda via de boleto;Loja
+C00886;06/01/2026;Negociacao de divida;WhatsApp
+C00887;13/11/2025;Reclamacao de entrega;Site
+C00889;24/11/2025;Segunda via de boleto;Telefone
+C00889;02/01/2026;Segunda via de boleto;Loja
+C00889;20/01/2026;Segunda via de boleto;WhatsApp
+C00889;27/01/2026;Segunda via de boleto;WhatsApp
+C00890;09/02/2026;Negociacao de divida;WhatsApp
+C00891;29/01/2026;Segunda via de boleto;Loja
+C00891;13/02/2026;Negociacao de divida;Telefone
+C00896;23/11/2025;Duvida sobre produto;Telefone
+C00896;06/02/2026;Negociacao de divida;WhatsApp
+C00899;27/02/2026;Atualizacao cadastral;Site
+C00900;07/10/2025;Solicitacao de assistencia tecnica;Site
+C00900;28/10/2025;Segunda via de boleto;WhatsApp
+C00900;18/02/2026;Negociacao de divida;WhatsApp
+C00901;22/06/2025;Duvida sobre produto;WhatsApp
+C00902;04/11/2025;Segunda via de boleto;Loja
+C00902;31/01/2026;Negociacao de divida;Telefone
+C00903;20/06/2025;Segunda via de boleto;WhatsApp
+C00903;26/06/2025;Reclamacao de entrega;WhatsApp
+C00905;20/10/2024;Segunda via de boleto;Loja
+C00907;28/02/2025;Reclamacao de entrega;Loja
+C00908;14/06/2025;Duvida sobre produto;Telefone
+C00908;21/06/2025;Reclamacao de entrega;Site
+C00908;29/01/2026;Negociacao de divida;Telefone
+C00911;14/01/2026;Reclamacao de entrega;Loja
+C00914;02/01/2026;Negociacao de divida;Telefone
+C00917;26/12/2025;Segunda via de boleto;Telefone
+C00918;05/03/2026;Solicitacao de assistencia tecnica;Site
+C00919;28/08/2025;Negociacao de divida;WhatsApp
+C00922;23/10/2025;Atualizacao cadastral;Telefone
+C00922;10/01/2026;Segunda via de boleto;Telefone
+C00922;27/01/2026;Negociacao de divida;WhatsApp
+C00924;13/03/2025;Solicitacao de assistencia tecnica;Telefone
+C00926;11/06/2025;Reclamacao de entrega;WhatsApp
+C00926;21/07/2025;Segunda via de boleto;Loja
+C00926;11/08/2025;Segunda via de boleto;WhatsApp
+C00926;31/08/2025;Duvida sobre produto;Loja
+C00926;27/09/2025;Duvida sobre produto;Site
+C00926;02/02/2026;Duvida sobre produto;Telefone
+C00928;13/09/2025;Segunda via de boleto;WhatsApp
+C00929;02/05/2025;Segunda via de boleto;Telefone
+C00929;25/10/2025;Negociacao de divida;WhatsApp
+C00931;12/12/2025;Reclamacao de entrega;Telefone
+C00932;24/02/2026;Negociacao de divida;Telefone
+C00933;08/02/2026;Negociacao de divida;Telefone
+C00934;16/12/2025;Segunda via de boleto;Telefone
+C00935;11/03/2025;Duvida sobre produto;Site
+C00936;25/05/2025;Negociacao de divida;WhatsApp
+C00937;21/02/2026;Negociacao de divida;Telefone
+C00938;26/09/2024;Segunda via de boleto;Loja
+C00939;05/06/2025;Segunda via de boleto;Telefone
+C00939;12/08/2025;Segunda via de boleto;WhatsApp
+C00941;26/08/2025;Duvida sobre produto;Site
+C00941;14/10/2025;Segunda via de boleto;Telefone
+C00941;27/10/2025;Segunda via de boleto;Loja
+C00941;23/12/2025;Negociacao de divida;WhatsApp
+C00947;08/10/2025;Segunda via de boleto;WhatsApp
+C00947;04/01/2026;Negociacao de divida;WhatsApp
+C00949;23/11/2025;Segunda via de boleto;WhatsApp
+C00949;01/03/2026;Negociacao de divida;Telefone
+C00950;21/08/2025;Negociacao de divida;Telefone
+C00952;15/02/2026;Negociacao de divida;WhatsApp
+C00953;23/09/2025;Segunda via de boleto;Loja
+C00953;27/10/2025;Segunda via de boleto;Telefone
+C00955;13/09/2025;Duvida sobre produto;Telefone
+C00955;08/11/2025;Segunda via de boleto;Telefone
+C00955;29/01/2026;Negociacao de divida;WhatsApp
+C00956;06/11/2025;Segunda via de boleto;WhatsApp
+C00956;16/02/2026;Negociacao de divida;WhatsApp
+C00957;12/01/2025;Segunda via de boleto;WhatsApp
+C00957;27/05/2025;Negociacao de divida;Telefone
+C00959;30/01/2025;Atualizacao cadastral;WhatsApp
+C00959;18/03/2025;Atualizacao cadastral;Site
+C00959;30/07/2025;Negociacao de divida;Telefone
+C00959;12/09/2025;Atualizacao cadastral;Telefone
+C00961;15/07/2025;Solicitacao de assistencia tecnica;WhatsApp
+C00961;20/09/2025;Duvida sobre produto;WhatsApp
+C00963;05/02/2026;Negociacao de divida;Telefone
+C00967;26/11/2024;Reclamacao de entrega;WhatsApp
+C00967;28/01/2025;Solicitacao de assistencia tecnica;Telefone
+C00967;05/09/2025;Solicitacao de assistencia tecnica;Loja
+C00970;01/06/2025;Segunda via de boleto;Loja
+C00970;26/08/2025;Negociacao de divida;WhatsApp
+C00973;19/08/2025;Reclamacao de entrega;Loja
+C00974;13/02/2026;Negociacao de divida;Telefone
+C00976;17/12/2025;Segunda via de boleto;Loja
+C00976;12/01/2026;Segunda via de boleto;Loja
+C00977;15/07/2025;Reclamacao de entrega;Loja
+C00977;01/09/2025;Duvida sobre produto;Telefone
+C00977;06/12/2025;Segunda via de boleto;Loja
+C00978;11/09/2025;Segunda via de boleto;WhatsApp
+C00978;09/03/2026;Negociacao de divida;Telefone
+C00979;16/02/2026;Negociacao de divida;WhatsApp
+C00981;20/02/2026;Negociacao de divida;Telefone
+C00983;27/11/2025;Solicitacao de assistencia tecnica;Site
+C00984;14/10/2025;Segunda via de boleto;Loja
+C00984;09/12/2025;Segunda via de boleto;WhatsApp
+C00984;05/02/2026;Duvida sobre produto;Telefone
+C00984;14/03/2026;Negociacao de divida;WhatsApp
+C00988;20/12/2024;Segunda via de boleto;Telefone
+C00988;21/03/2025;Segunda via de boleto;Telefone
+C00988;22/06/2025;Negociacao de divida;WhatsApp
+C00990;03/12/2025;Segunda via de boleto;WhatsApp
+C00992;01/08/2025;Atualizacao cadastral;Site
+C00992;11/08/2025;Segunda via de boleto;Telefone
+C00992;02/11/2025;Segunda via de boleto;Telefone
+C00993;05/05/2025;Duvida sobre produto;WhatsApp
+C00993;09/02/2026;Negociacao de divida;Telefone
+C00995;31/12/2025;Segunda via de boleto;Telefone
+C00995;06/02/2026;Negociacao de divida;WhatsApp
+C00996;21/09/2025;Atualizacao cadastral;Site
+C00996;29/09/2025;Segunda via de boleto;Loja
+C01000;10/02/2025;Atualizacao cadastral;WhatsApp
+C01000;22/03/2025;Atualizacao cadastral;WhatsApp
+C01001;01/02/2026;Atualizacao cadastral;Site
+C01002;15/06/2025;Duvida sobre produto;Loja
+C01002;15/11/2025;Duvida sobre produto;Site
+C01002;05/12/2025;Segunda via de boleto;Loja
+C01002;22/02/2026;Negociacao de divida;Telefone
+C01004;17/11/2024;Reclamacao de entrega;Telefone
+C01005;20/11/2024;Atualizacao cadastral;WhatsApp
+C01006;08/12/2025;Solicitacao de assistencia tecnica;Telefone
+C01006;31/01/2026;Reclamacao de entrega;WhatsApp
+C01008;05/05/2025;Segunda via de boleto;WhatsApp
+C01008;25/09/2025;Negociacao de divida;WhatsApp
+C01010;20/10/2025;Solicitacao de assistencia tecnica;Site
+C01011;13/05/2025;Duvida sobre produto;Site
+C01011;07/06/2025;Segunda via de boleto;WhatsApp
+C01011;14/06/2025;Reclamacao de entrega;WhatsApp
+C01012;10/10/2025;Segunda via de boleto;Telefone
+C01012;12/12/2025;Duvida sobre produto;Loja
+C01013;23/08/2025;Segunda via de boleto;Telefone
+C01013;23/10/2025;Negociacao de divida;WhatsApp
+C01014;05/12/2025;Reclamacao de entrega;Loja
+C01014;03/03/2026;Reclamacao de entrega;Site
+C01016;24/11/2025;Segunda via de boleto;Telefone
+C01016;19/02/2026;Solicitacao de assistencia tecnica;Site
+C01021;03/10/2025;Negociacao de divida;Telefone
+C01023;29/06/2025;Solicitacao de assistencia tecnica;Loja
+C01024;14/01/2026;Segunda via de boleto;Loja
+C01027;30/12/2024;Segunda via de boleto;Loja
+C01027;20/01/2025;Segunda via de boleto;WhatsApp
+C01028;14/01/2026;Segunda via de boleto;Telefone
+C01028;14/02/2026;Atualizacao cadastral;Site
+C01029;30/08/2025;Duvida sobre produto;Loja
+C01029;02/11/2025;Segunda via de boleto;WhatsApp
+C01030;01/01/2025;Reclamacao de entrega;Site
+C01030;27/06/2025;Segunda via de boleto;Loja
+C01030;11/09/2025;Reclamacao de entrega;Site
+C01031;11/11/2025;Segunda via de boleto;Loja
+C01032;11/05/2025;Reclamacao de entrega;Loja
+C01032;17/07/2025;Duvida sobre produto;Telefone
+C01034;18/03/2025;Segunda via de boleto;WhatsApp
+C01034;31/07/2025;Duvida sobre produto;Site
+C01035;01/12/2024;Atualizacao cadastral;Telefone
+C01035;27/12/2024;Solicitacao de assistencia tecnica;Telefone
+C01035;26/02/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01035;01/06/2025;Segunda via de boleto;Loja
+C01035;09/07/2025;Segunda via de boleto;WhatsApp
+C01035;30/07/2025;Segunda via de boleto;WhatsApp
+C01035;14/09/2025;Negociacao de divida;WhatsApp
+C01036;21/07/2025;Segunda via de boleto;WhatsApp
+C01036;01/02/2026;Negociacao de divida;WhatsApp
+C01037;30/09/2025;Duvida sobre produto;Telefone
+C01037;13/01/2026;Segunda via de boleto;Telefone
+C01038;03/12/2024;Segunda via de boleto;WhatsApp
+C01038;21/04/2025;Negociacao de divida;Telefone
+C01041;27/11/2025;Segunda via de boleto;Telefone
+C01043;24/12/2025;Reclamacao de entrega;Site
+C01044;01/02/2026;Atualizacao cadastral;Telefone
+C01044;13/02/2026;Negociacao de divida;WhatsApp
+C01045;17/02/2026;Negociacao de divida;WhatsApp
+C01047;18/10/2025;Atualizacao cadastral;Loja
+C01048;08/10/2025;Segunda via de boleto;Telefone
+C01048;05/12/2025;Negociacao de divida;Telefone
+C01051;24/10/2024;Duvida sobre produto;Loja
+C01052;15/07/2025;Segunda via de boleto;Telefone
+C01057;29/10/2025;Segunda via de boleto;WhatsApp
+C01058;03/11/2025;Segunda via de boleto;WhatsApp
+C01059;06/06/2025;Segunda via de boleto;WhatsApp
+C01059;02/11/2025;Atualizacao cadastral;WhatsApp
+C01062;24/06/2025;Segunda via de boleto;Loja
+C01063;01/09/2025;Segunda via de boleto;WhatsApp
+C01063;26/02/2026;Negociacao de divida;Telefone
+C01064;09/07/2025;Segunda via de boleto;WhatsApp
+C01065;20/11/2025;Solicitacao de assistencia tecnica;Telefone
+C01065;20/11/2025;Reclamacao de entrega;Site
+C01066;08/06/2025;Reclamacao de entrega;WhatsApp
+C01067;12/03/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01070;28/08/2025;Segunda via de boleto;WhatsApp
+C01071;13/02/2026;Negociacao de divida;WhatsApp
+C01072;25/03/2025;Solicitacao de assistencia tecnica;Telefone
+C01073;30/10/2025;Reclamacao de entrega;Telefone
+C01074;12/01/2026;Solicitacao de assistencia tecnica;Telefone
+C01074;18/01/2026;Segunda via de boleto;Telefone
+C01075;07/01/2026;Segunda via de boleto;Telefone
+C01076;01/05/2025;Duvida sobre produto;Loja
+C01076;11/10/2025;Segunda via de boleto;Telefone
+C01077;09/02/2026;Negociacao de divida;WhatsApp
+C01078;20/02/2026;Solicitacao de assistencia tecnica;Telefone
+C01079;17/12/2025;Segunda via de boleto;Loja
+C01079;27/02/2026;Solicitacao de assistencia tecnica;Site
+C01081;07/03/2025;Segunda via de boleto;Telefone
+C01083;08/02/2025;Negociacao de divida;WhatsApp
+C01084;20/10/2025;Segunda via de boleto;WhatsApp
+C01084;08/03/2026;Negociacao de divida;WhatsApp
+C01086;11/08/2025;Reclamacao de entrega;Telefone
+C01086;27/01/2026;Solicitacao de assistencia tecnica;WhatsApp
+C01090;23/11/2025;Duvida sobre produto;WhatsApp
+C01090;23/12/2025;Segunda via de boleto;Telefone
+C01091;26/11/2025;Reclamacao de entrega;WhatsApp
+C01092;09/05/2025;Solicitacao de assistencia tecnica;Loja
+C01092;29/07/2025;Solicitacao de assistencia tecnica;Site
+C01095;02/05/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01095;08/02/2026;Reclamacao de entrega;Site
+C01096;21/09/2025;Reclamacao de entrega;Loja
+C01096;22/11/2025;Segunda via de boleto;Loja
+C01096;17/12/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01099;07/02/2026;Negociacao de divida;Telefone
+C01100;08/01/2026;Segunda via de boleto;Loja
+C01100;22/02/2026;Solicitacao de assistencia tecnica;Telefone
+C01101;28/02/2026;Negociacao de divida;Telefone
+C01102;05/11/2024;Segunda via de boleto;Loja
+C01102;02/05/2025;Negociacao de divida;WhatsApp
+C01105;26/02/2025;Solicitacao de assistencia tecnica;Site
+C01107;11/05/2025;Atualizacao cadastral;Loja
+C01107;09/09/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01107;02/12/2025;Duvida sobre produto;Telefone
+C01109;15/11/2025;Reclamacao de entrega;Telefone
+C01110;22/03/2025;Segunda via de boleto;Loja
+C01110;08/10/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01111;15/10/2024;Reclamacao de entrega;Loja
+C01111;26/12/2024;Reclamacao de entrega;Site
+C01111;03/08/2025;Reclamacao de entrega;Site
+C01113;26/03/2025;Reclamacao de entrega;Loja
+C01113;22/04/2025;Duvida sobre produto;Loja
+C01113;26/04/2025;Atualizacao cadastral;Telefone
+C01113;10/07/2025;Solicitacao de assistencia tecnica;Loja
+C01115;24/12/2024;Duvida sobre produto;Telefone
+C01116;22/02/2026;Negociacao de divida;WhatsApp
+C01117;22/07/2025;Segunda via de boleto;Telefone
+C01118;11/03/2026;Atualizacao cadastral;Site
+C01119;24/02/2025;Atualizacao cadastral;Loja
+C01120;30/04/2025;Reclamacao de entrega;Telefone
+C01120;13/03/2026;Negociacao de divida;Telefone
+C01121;29/04/2025;Atualizacao cadastral;Loja
+C01121;03/06/2025;Segunda via de boleto;Loja
+C01123;01/10/2025;Segunda via de boleto;Loja
+C01123;02/01/2026;Reclamacao de entrega;Site
+C01124;02/12/2025;Segunda via de boleto;Loja
+C01127;14/09/2025;Segunda via de boleto;Telefone
+C01127;02/11/2025;Duvida sobre produto;WhatsApp
+C01127;13/11/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01127;27/01/2026;Segunda via de boleto;WhatsApp
+C01128;27/01/2026;Solicitacao de assistencia tecnica;Telefone
+C01130;23/09/2025;Segunda via de boleto;Telefone
+C01130;04/10/2025;Atualizacao cadastral;Loja
+C01131;30/10/2025;Solicitacao de assistencia tecnica;Loja
+C01132;25/11/2024;Solicitacao de assistencia tecnica;Telefone
+C01136;22/05/2025;Duvida sobre produto;Telefone
+C01136;23/06/2025;Solicitacao de assistencia tecnica;Site
+C01138;23/09/2025;Segunda via de boleto;Loja
+C01138;23/10/2025;Segunda via de boleto;WhatsApp
+C01140;03/01/2026;Segunda via de boleto;WhatsApp
+C01143;14/01/2026;Segunda via de boleto;Loja
+C01143;22/02/2026;Negociacao de divida;WhatsApp
+C01144;26/11/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01145;25/10/2025;Duvida sobre produto;Site
+C01145;11/11/2025;Reclamacao de entrega;Loja
+C01145;11/03/2026;Solicitacao de assistencia tecnica;Telefone
+C01148;10/08/2024;Segunda via de boleto;Telefone
+C01148;02/01/2025;Atualizacao cadastral;Telefone
+C01150;05/07/2024;Segunda via de boleto;Telefone
+C01155;11/11/2025;Segunda via de boleto;WhatsApp
+C01155;26/12/2025;Segunda via de boleto;Telefone
+C01155;27/12/2025;Segunda via de boleto;Telefone
+C01155;22/01/2026;Duvida sobre produto;Telefone
+C01157;22/06/2025;Solicitacao de assistencia tecnica;Telefone
+C01157;16/10/2025;Segunda via de boleto;WhatsApp
+C01158;06/07/2025;Duvida sobre produto;WhatsApp
+C01161;27/06/2025;Solicitacao de assistencia tecnica;Site
+C01164;23/07/2025;Segunda via de boleto;Loja
+C01164;13/10/2025;Segunda via de boleto;Telefone
+C01164;06/01/2026;Solicitacao de assistencia tecnica;Loja
+C01164;26/02/2026;Solicitacao de assistencia tecnica;Telefone
+C01164;11/03/2026;Negociacao de divida;Telefone
+C01165;12/01/2026;Solicitacao de assistencia tecnica;Site
+C01169;12/12/2024;Reclamacao de entrega;WhatsApp
+C01169;28/11/2025;Solicitacao de assistencia tecnica;Telefone
+C01170;28/12/2025;Solicitacao de assistencia tecnica;Telefone
+C01170;23/02/2026;Negociacao de divida;WhatsApp
+C01173;16/12/2025;Segunda via de boleto;WhatsApp
+C01174;08/12/2025;Segunda via de boleto;WhatsApp
+C01178;05/10/2025;Segunda via de boleto;Loja
+C01179;13/04/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01179;12/12/2025;Negociacao de divida;WhatsApp
+C01180;26/07/2025;Segunda via de boleto;Telefone
+C01180;26/08/2025;Reclamacao de entrega;Telefone
+C01182;23/09/2025;Segunda via de boleto;Telefone
+C01183;13/06/2025;Atualizacao cadastral;Telefone
+C01183;30/07/2025;Duvida sobre produto;Site
+C01183;06/08/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01184;23/11/2025;Segunda via de boleto;Loja
+C01184;15/12/2025;Segunda via de boleto;Loja
+C01184;01/02/2026;Negociacao de divida;WhatsApp
+C01187;11/01/2026;Solicitacao de assistencia tecnica;WhatsApp
+C01191;08/03/2025;Duvida sobre produto;Telefone
+C01196;12/12/2024;Segunda via de boleto;Loja
+C01196;10/05/2025;Negociacao de divida;WhatsApp
+C01198;10/07/2025;Segunda via de boleto;Loja
+C01198;07/10/2025;Atualizacao cadastral;Site
+C01199;27/12/2025;Segunda via de boleto;Telefone
+C01200;16/08/2025;Reclamacao de entrega;Site
+C01203;26/10/2025;Solicitacao de assistencia tecnica;Telefone
+C01205;05/10/2025;Reclamacao de entrega;WhatsApp
+C01205;08/10/2025;Atualizacao cadastral;WhatsApp
+C01207;04/06/2025;Segunda via de boleto;WhatsApp
+C01208;28/07/2025;Negociacao de divida;Telefone
+C01210;13/01/2025;Segunda via de boleto;Loja
+C01210;29/06/2025;Negociacao de divida;WhatsApp
+C01211;07/04/2025;Reclamacao de entrega;Telefone
+C01211;31/07/2025;Atualizacao cadastral;Loja
+C01211;17/09/2025;Solicitacao de assistencia tecnica;Site
+C01211;21/02/2026;Negociacao de divida;Telefone
+C01216;15/11/2025;Segunda via de boleto;Telefone
+C01216;03/12/2025;Segunda via de boleto;Loja
+C01216;26/01/2026;Negociacao de divida;Telefone
+C01217;04/03/2025;Segunda via de boleto;Loja
+C01222;08/12/2025;Segunda via de boleto;Loja
+C01222;24/01/2026;Negociacao de divida;WhatsApp
+C01225;18/09/2025;Reclamacao de entrega;WhatsApp
+C01225;12/03/2026;Reclamacao de entrega;Telefone
+C01226;17/01/2026;Solicitacao de assistencia tecnica;Site
+C01227;03/08/2025;Segunda via de boleto;Telefone
+C01227;24/12/2025;Segunda via de boleto;WhatsApp
+C01228;05/07/2025;Segunda via de boleto;Telefone
+C01228;12/07/2025;Segunda via de boleto;WhatsApp
+C01230;20/08/2025;Segunda via de boleto;Telefone
+C01230;28/09/2025;Segunda via de boleto;WhatsApp
+C01230;14/12/2025;Segunda via de boleto;WhatsApp
+C01234;27/12/2025;Segunda via de boleto;WhatsApp
+C01235;03/08/2025;Negociacao de divida;WhatsApp
+C01236;15/04/2025;Negociacao de divida;Telefone
+C01237;19/07/2025;Segunda via de boleto;Telefone
+C01237;25/09/2025;Solicitacao de assistencia tecnica;Telefone
+C01238;07/04/2025;Reclamacao de entrega;Telefone
+C01240;11/04/2025;Atualizacao cadastral;Site
+C01240;28/11/2025;Duvida sobre produto;Site
+C01241;06/10/2025;Segunda via de boleto;WhatsApp
+C01241;08/02/2026;Negociacao de divida;WhatsApp
+C01243;11/08/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01243;23/08/2025;Segunda via de boleto;Loja
+C01243;28/02/2026;Negociacao de divida;Telefone
+C01245;12/07/2025;Solicitacao de assistencia tecnica;Telefone
+C01245;24/10/2025;Segunda via de boleto;Telefone
+C01245;21/11/2025;Segunda via de boleto;WhatsApp
+C01248;23/12/2024;Segunda via de boleto;Telefone
+C01248;13/08/2025;Negociacao de divida;WhatsApp
+C01248;03/09/2025;Duvida sobre produto;Site
+C01249;18/12/2025;Segunda via de boleto;WhatsApp
+C01250;08/02/2025;Segunda via de boleto;Loja
+C01254;29/11/2025;Segunda via de boleto;Loja
+C01257;29/11/2025;Segunda via de boleto;Loja
+C01258;13/06/2025;Atualizacao cadastral;WhatsApp
+C01258;23/10/2025;Negociacao de divida;WhatsApp
+C01260;24/12/2025;Reclamacao de entrega;Loja
+C01262;22/08/2025;Duvida sobre produto;Loja
+C01263;15/09/2025;Segunda via de boleto;Telefone
+C01264;20/09/2025;Segunda via de boleto;Loja
+C01264;28/10/2025;Segunda via de boleto;Telefone
+C01266;17/10/2025;Atualizacao cadastral;Site
+C01267;09/02/2026;Solicitacao de assistencia tecnica;Telefone
+C01269;19/12/2025;Atualizacao cadastral;WhatsApp
+C01270;09/02/2025;Duvida sobre produto;Telefone
+C01271;21/12/2025;Segunda via de boleto;Loja
+C01271;20/02/2026;Negociacao de divida;WhatsApp
+C01273;03/07/2025;Segunda via de boleto;Loja
+C01273;03/10/2025;Reclamacao de entrega;Site
+C01273;10/01/2026;Atualizacao cadastral;Site
+C01273;03/03/2026;Negociacao de divida;WhatsApp
+C01274;01/11/2024;Duvida sobre produto;Telefone
+C01274;06/02/2025;Segunda via de boleto;WhatsApp
+C01279;05/07/2024;Segunda via de boleto;Loja
+C01279;23/07/2024;Reclamacao de entrega;WhatsApp
+C01279;26/08/2024;Segunda via de boleto;Telefone
+C01279;14/01/2025;Negociacao de divida;WhatsApp
+C01281;28/09/2025;Reclamacao de entrega;Loja
+C01283;03/05/2025;Negociacao de divida;WhatsApp
+C01284;12/09/2025;Solicitacao de assistencia tecnica;Loja
+C01285;07/02/2025;Solicitacao de assistencia tecnica;Site
+C01285;23/08/2025;Duvida sobre produto;Telefone
+C01287;22/02/2026;Negociacao de divida;Telefone
+C01292;27/04/2025;Segunda via de boleto;WhatsApp
+C01292;22/12/2025;Solicitacao de assistencia tecnica;Site
+C01293;20/03/2025;Atualizacao cadastral;Telefone
+C01293;20/05/2025;Atualizacao cadastral;Site
+C01293;17/02/2026;Negociacao de divida;WhatsApp
+C01296;04/09/2025;Segunda via de boleto;Loja
+C01296;20/01/2026;Segunda via de boleto;Loja
+C01296;25/02/2026;Solicitacao de assistencia tecnica;Site
+C01297;07/11/2025;Segunda via de boleto;Telefone
+C01298;24/04/2025;Atualizacao cadastral;Loja
+C01298;19/05/2025;Segunda via de boleto;WhatsApp
+C01298;05/06/2025;Segunda via de boleto;WhatsApp
+C01299;27/07/2025;Segunda via de boleto;WhatsApp
+C01301;01/08/2025;Segunda via de boleto;Telefone
+C01301;28/10/2025;Negociacao de divida;WhatsApp
+C01302;26/01/2026;Reclamacao de entrega;WhatsApp
+C01303;23/12/2024;Segunda via de boleto;Loja
+C01303;24/02/2025;Segunda via de boleto;Telefone
+C01303;30/05/2025;Negociacao de divida;Telefone
+C01304;26/12/2025;Duvida sobre produto;Telefone
+C01306;02/02/2026;Negociacao de divida;Telefone
+C01307;19/10/2025;Segunda via de boleto;WhatsApp
+C01311;09/11/2025;Segunda via de boleto;Telefone
+C01311;11/01/2026;Duvida sobre produto;WhatsApp
+C01315;18/04/2025;Reclamacao de entrega;Loja
+C01315;25/02/2026;Solicitacao de assistencia tecnica;Site
+C01321;30/09/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01323;12/01/2025;Segunda via de boleto;Loja
+C01323;18/01/2025;Atualizacao cadastral;Telefone
+C01324;23/06/2025;Duvida sobre produto;Loja
+C01324;12/12/2025;Negociacao de divida;WhatsApp
+C01327;05/11/2025;Duvida sobre produto;Site
+C01328;13/01/2025;Reclamacao de entrega;Loja
+C01328;07/07/2025;Negociacao de divida;Telefone
+C01333;10/07/2025;Negociacao de divida;WhatsApp
+C01334;29/01/2025;Segunda via de boleto;Telefone
+C01334;28/07/2025;Reclamacao de entrega;WhatsApp
+C01334;10/10/2025;Negociacao de divida;WhatsApp
+C01335;20/07/2024;Solicitacao de assistencia tecnica;WhatsApp
+C01335;04/09/2024;Atualizacao cadastral;WhatsApp
+C01337;09/10/2024;Segunda via de boleto;Telefone
+C01337;10/03/2025;Segunda via de boleto;Loja
+C01337;10/03/2025;Segunda via de boleto;WhatsApp
+C01337;20/06/2025;Solicitacao de assistencia tecnica;Site
+C01338;08/01/2025;Duvida sobre produto;WhatsApp
+C01338;17/07/2025;Negociacao de divida;WhatsApp
+C01340;10/12/2025;Duvida sobre produto;Telefone
+C01341;21/09/2025;Segunda via de boleto;WhatsApp
+C01342;14/01/2026;Negociacao de divida;Telefone
+C01343;14/04/2025;Solicitacao de assistencia tecnica;Telefone
+C01343;16/06/2025;Segunda via de boleto;Telefone
+C01344;24/01/2026;Solicitacao de assistencia tecnica;Telefone
+C01345;05/11/2025;Reclamacao de entrega;Loja
+C01346;09/12/2025;Atualizacao cadastral;Telefone
+C01346;06/02/2026;Reclamacao de entrega;Telefone
+C01347;18/02/2025;Segunda via de boleto;WhatsApp
+C01347;14/03/2025;Segunda via de boleto;Telefone
+C01348;14/03/2026;Negociacao de divida;WhatsApp
+C01351;25/03/2025;Segunda via de boleto;Telefone
+C01351;14/05/2025;Reclamacao de entrega;Site
+C01352;12/10/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01352;05/12/2025;Reclamacao de entrega;Site
+C01353;14/11/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01353;14/01/2026;Segunda via de boleto;WhatsApp
+C01354;23/08/2025;Segunda via de boleto;WhatsApp
+C01354;07/01/2026;Negociacao de divida;WhatsApp
+C01357;16/03/2025;Segunda via de boleto;Telefone
+C01359;03/03/2026;Atualizacao cadastral;Site
+C01360;25/11/2025;Segunda via de boleto;WhatsApp
+C01362;10/08/2025;Atualizacao cadastral;Site
+C01363;08/09/2025;Segunda via de boleto;WhatsApp
+C01363;23/11/2025;Segunda via de boleto;Telefone
+C01363;23/02/2026;Negociacao de divida;WhatsApp
+C01364;18/06/2025;Segunda via de boleto;Telefone
+C01366;17/09/2025;Reclamacao de entrega;Telefone
+C01367;27/03/2025;Segunda via de boleto;Loja
+C01367;06/08/2025;Negociacao de divida;Telefone
+C01368;14/01/2026;Solicitacao de assistencia tecnica;Site
+C01368;13/03/2026;Solicitacao de assistencia tecnica;Telefone
+C01369;18/02/2026;Negociacao de divida;WhatsApp
+C01373;17/02/2026;Negociacao de divida;Telefone
+C01374;07/09/2025;Segunda via de boleto;WhatsApp
+C01375;17/11/2025;Duvida sobre produto;WhatsApp
+C01376;03/09/2024;Duvida sobre produto;Loja
+C01379;13/10/2024;Atualizacao cadastral;Loja
+C01380;22/01/2026;Negociacao de divida;Telefone
+C01382;29/12/2025;Atualizacao cadastral;Telefone
+C01385;27/10/2025;Segunda via de boleto;Loja
+C01385;03/03/2026;Reclamacao de entrega;Site
+C01386;21/12/2024;Segunda via de boleto;Telefone
+C01389;01/08/2025;Segunda via de boleto;WhatsApp
+C01389;04/10/2025;Reclamacao de entrega;Telefone
+C01390;12/11/2025;Reclamacao de entrega;WhatsApp
+C01391;08/08/2025;Duvida sobre produto;Site
+C01392;03/08/2025;Negociacao de divida;WhatsApp
+C01399;05/11/2024;Reclamacao de entrega;WhatsApp
+C01399;29/12/2024;Segunda via de boleto;Loja
+C01399;24/07/2025;Negociacao de divida;WhatsApp
+C01399;29/08/2025;Reclamacao de entrega;Telefone
+C01404;11/07/2025;Segunda via de boleto;Loja
+C01404;21/10/2025;Negociacao de divida;WhatsApp
+C01404;06/12/2025;Reclamacao de entrega;Site
+C01408;01/11/2025;Negociacao de divida;WhatsApp
+C01409;16/10/2025;Atualizacao cadastral;WhatsApp
+C01418;28/04/2025;Segunda via de boleto;WhatsApp
+C01418;28/04/2025;Segunda via de boleto;Telefone
+C01418;06/12/2025;Negociacao de divida;WhatsApp
+C01419;05/12/2024;Solicitacao de assistencia tecnica;Telefone
+C01419;21/12/2024;Atualizacao cadastral;Telefone
+C01420;16/07/2025;Negociacao de divida;WhatsApp
+C01422;20/10/2024;Atualizacao cadastral;Telefone
+C01422;18/12/2024;Segunda via de boleto;Loja
+C01427;12/09/2025;Segunda via de boleto;Telefone
+C01427;10/10/2025;Segunda via de boleto;Telefone
+C01427;29/10/2025;Duvida sobre produto;Telefone
+C01428;24/04/2025;Segunda via de boleto;WhatsApp
+C01428;21/07/2025;Negociacao de divida;WhatsApp
+C01429;03/09/2025;Solicitacao de assistencia tecnica;Loja
+C01429;10/01/2026;Segunda via de boleto;Telefone
+C01432;12/11/2025;Duvida sobre produto;Site
+C01432;15/02/2026;Negociacao de divida;Telefone
+C01433;30/10/2025;Duvida sobre produto;Loja
+C01436;11/10/2025;Duvida sobre produto;Site
+C01437;19/08/2025;Negociacao de divida;Telefone
+C01438;21/04/2025;Atualizacao cadastral;WhatsApp
+C01438;11/10/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01439;07/06/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01441;14/03/2026;Negociacao de divida;Telefone
+C01442;05/02/2026;Negociacao de divida;WhatsApp
+C01443;09/07/2025;Segunda via de boleto;Loja
+C01443;13/12/2025;Duvida sobre produto;Telefone
+C01443;31/12/2025;Segunda via de boleto;Telefone
+C01443;31/12/2025;Segunda via de boleto;Telefone
+C01443;02/03/2026;Negociacao de divida;WhatsApp
+C01443;04/03/2026;Reclamacao de entrega;Site
+C01445;07/08/2025;Negociacao de divida;Telefone
+C01446;08/11/2025;Segunda via de boleto;Telefone
+C01447;04/08/2025;Segunda via de boleto;Loja
+C01447;21/09/2025;Atualizacao cadastral;Site
+C01447;17/10/2025;Segunda via de boleto;WhatsApp
+C01449;04/07/2025;Solicitacao de assistencia tecnica;Site
+C01451;01/11/2025;Segunda via de boleto;WhatsApp
+C01453;27/08/2025;Atualizacao cadastral;Telefone
+C01454;17/09/2025;Duvida sobre produto;Telefone
+C01454;11/11/2025;Negociacao de divida;WhatsApp
+C01455;24/09/2025;Duvida sobre produto;Site
+C01457;19/12/2025;Reclamacao de entrega;Loja
+C01460;22/04/2025;Duvida sobre produto;Loja
+C01460;05/10/2025;Duvida sobre produto;WhatsApp
+C01462;03/06/2025;Solicitacao de assistencia tecnica;Telefone
+C01462;28/01/2026;Negociacao de divida;WhatsApp
+C01465;18/06/2025;Negociacao de divida;Telefone
+C01467;05/09/2024;Reclamacao de entrega;Site
+C01467;20/01/2025;Negociacao de divida;Telefone
+C01469;25/01/2026;Negociacao de divida;Telefone
+C01470;12/08/2025;Segunda via de boleto;Telefone
+C01470;05/12/2025;Segunda via de boleto;WhatsApp
+C01471;22/01/2026;Reclamacao de entrega;Site
+C01471;03/03/2026;Negociacao de divida;Telefone
+C01472;11/10/2025;Segunda via de boleto;WhatsApp
+C01472;14/12/2025;Segunda via de boleto;Loja
+C01472;07/03/2026;Duvida sobre produto;Site
+C01474;03/05/2025;Segunda via de boleto;Telefone
+C01474;08/09/2025;Negociacao de divida;WhatsApp
+C01477;26/10/2025;Solicitacao de assistencia tecnica;Telefone
+C01478;30/11/2024;Segunda via de boleto;Telefone
+C01478;30/11/2024;Segunda via de boleto;Telefone
+C01478;22/12/2024;Solicitacao de assistencia tecnica;Telefone
+C01478;22/01/2025;Solicitacao de assistencia tecnica;Loja
+C01478;08/04/2025;Segunda via de boleto;WhatsApp
+C01478;05/06/2025;Negociacao de divida;Telefone
+C01479;27/06/2025;Segunda via de boleto;WhatsApp
+C01479;03/11/2025;Segunda via de boleto;Telefone
+C01479;14/02/2026;Negociacao de divida;Telefone
+C01480;27/12/2025;Segunda via de boleto;Loja
+C01481;07/10/2025;Segunda via de boleto;Telefone
+C01481;24/11/2025;Segunda via de boleto;WhatsApp
+C01482;10/12/2024;Reclamacao de entrega;WhatsApp
+C01485;17/12/2024;Segunda via de boleto;WhatsApp
+C01485;20/02/2025;Solicitacao de assistencia tecnica;Telefone
+C01485;09/04/2025;Reclamacao de entrega;WhatsApp
+C01485;15/05/2025;Negociacao de divida;WhatsApp
+C01490;06/11/2024;Segunda via de boleto;Loja
+C01490;01/12/2024;Segunda via de boleto;WhatsApp
+C01490;21/04/2025;Negociacao de divida;WhatsApp
+C01491;04/02/2025;Reclamacao de entrega;Site
+C01491;09/08/2025;Segunda via de boleto;Loja
+C01492;15/09/2025;Segunda via de boleto;WhatsApp
+C01493;06/08/2024;Solicitacao de assistencia tecnica;Site
+C01493;04/02/2025;Negociacao de divida;Telefone
+C01494;19/02/2026;Negociacao de divida;Telefone
+C01495;12/09/2025;Duvida sobre produto;Site
+C01495;15/09/2025;Segunda via de boleto;WhatsApp
+C01495;07/10/2025;Segunda via de boleto;Telefone
+C01495;14/11/2025;Segunda via de boleto;Loja
+C01496;30/10/2024;Segunda via de boleto;Telefone
+C01496;30/01/2025;Segunda via de boleto;Loja
+C01496;15/06/2025;Negociacao de divida;Telefone
+C01498;04/03/2026;Negociacao de divida;WhatsApp
+C01500;06/10/2025;Segunda via de boleto;Telefone
+C01501;05/07/2025;Duvida sobre produto;Telefone
+C01504;24/12/2025;Negociacao de divida;Telefone
+C01506;24/02/2026;Negociacao de divida;WhatsApp
+C01510;11/01/2026;Segunda via de boleto;Telefone
+C01512;28/11/2025;Segunda via de boleto;Loja
+C01512;20/01/2026;Atualizacao cadastral;WhatsApp
+C01512;04/03/2026;Negociacao de divida;Telefone
+C01513;05/03/2025;Atualizacao cadastral;Loja
+C01514;23/11/2025;Reclamacao de entrega;Site
+C01514;18/12/2025;Segunda via de boleto;WhatsApp
+C01514;11/01/2026;Duvida sobre produto;Site
+C01516;14/03/2025;Duvida sobre produto;Telefone
+C01516;26/09/2025;Segunda via de boleto;WhatsApp
+C01516;02/11/2025;Segunda via de boleto;WhatsApp
+C01516;31/12/2025;Negociacao de divida;Telefone
+C01520;28/10/2025;Segunda via de boleto;WhatsApp
+C01520;02/12/2025;Segunda via de boleto;Loja
+C01520;01/01/2026;Duvida sobre produto;Site
+C01520;18/02/2026;Negociacao de divida;WhatsApp
+C01521;10/11/2025;Atualizacao cadastral;Loja
+C01522;21/09/2025;Solicitacao de assistencia tecnica;Telefone
+C01522;10/12/2025;Negociacao de divida;WhatsApp
+C01523;12/10/2024;Duvida sobre produto;WhatsApp
+C01523;15/02/2025;Segunda via de boleto;Loja
+C01524;25/02/2025;Atualizacao cadastral;WhatsApp
+C01524;28/08/2025;Duvida sobre produto;Loja
+C01528;16/08/2025;Segunda via de boleto;Loja
+C01531;02/02/2026;Atualizacao cadastral;Telefone
+C01534;14/03/2025;Segunda via de boleto;Loja
+C01535;03/01/2025;Reclamacao de entrega;WhatsApp
+C01536;10/10/2025;Atualizacao cadastral;Site
+C01537;30/09/2025;Segunda via de boleto;Telefone
+C01537;07/12/2025;Atualizacao cadastral;Telefone
+C01539;30/10/2024;Atualizacao cadastral;Site
+C01542;04/02/2026;Negociacao de divida;Telefone
+C01542;17/02/2026;Solicitacao de assistencia tecnica;Site
+C01544;11/01/2025;Segunda via de boleto;Loja
+C01544;15/03/2025;Segunda via de boleto;Telefone
+C01544;10/04/2025;Segunda via de boleto;WhatsApp
+C01546;14/05/2025;Negociacao de divida;WhatsApp
+C01547;01/07/2025;Segunda via de boleto;WhatsApp
+C01551;28/12/2025;Segunda via de boleto;Telefone
+C01551;30/01/2026;Solicitacao de assistencia tecnica;Telefone
+C01551;10/03/2026;Duvida sobre produto;Telefone
+C01555;21/11/2025;Solicitacao de assistencia tecnica;Telefone
+C01557;05/07/2025;Segunda via de boleto;Telefone
+C01559;20/12/2024;Duvida sobre produto;WhatsApp
+C01560;07/09/2025;Atualizacao cadastral;Loja
+C01561;14/10/2025;Segunda via de boleto;WhatsApp
+C01564;16/10/2025;Reclamacao de entrega;Loja
+C01565;22/03/2025;Duvida sobre produto;WhatsApp
+C01565;28/10/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01566;23/10/2025;Reclamacao de entrega;WhatsApp
+C01566;08/01/2026;Segunda via de boleto;Telefone
+C01567;29/07/2025;Reclamacao de entrega;WhatsApp
+C01567;04/08/2025;Segunda via de boleto;Telefone
+C01567;17/02/2026;Duvida sobre produto;Site
+C01569;22/03/2025;Atualizacao cadastral;WhatsApp
+C01573;11/02/2025;Segunda via de boleto;Loja
+C01573;07/03/2025;Solicitacao de assistencia tecnica;Loja
+C01575;29/01/2025;Segunda via de boleto;Loja
+C01575;20/06/2025;Negociacao de divida;WhatsApp
+C01575;20/07/2025;Atualizacao cadastral;Telefone
+C01577;19/07/2025;Segunda via de boleto;Telefone
+C01577;28/01/2026;Reclamacao de entrega;Loja
+C01577;26/02/2026;Negociacao de divida;WhatsApp
+C01578;16/10/2025;Segunda via de boleto;WhatsApp
+C01578;10/03/2026;Reclamacao de entrega;Site
+C01579;18/12/2025;Atualizacao cadastral;Site
+C01580;03/10/2024;Atualizacao cadastral;Loja
+C01580;12/07/2025;Reclamacao de entrega;Site
+C01582;03/08/2024;Solicitacao de assistencia tecnica;Telefone
+C01582;10/04/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01583;08/03/2026;Solicitacao de assistencia tecnica;Site
+C01585;25/08/2025;Segunda via de boleto;Telefone
+C01585;10/10/2025;Segunda via de boleto;Loja
+C01585;14/12/2025;Segunda via de boleto;Loja
+C01587;04/09/2025;Segunda via de boleto;WhatsApp
+C01588;21/05/2025;Segunda via de boleto;WhatsApp
+C01589;23/09/2025;Segunda via de boleto;WhatsApp
+C01589;01/03/2026;Negociacao de divida;WhatsApp
+C01590;21/12/2025;Duvida sobre produto;WhatsApp
+C01591;18/04/2025;Segunda via de boleto;Loja
+C01591;28/04/2025;Segunda via de boleto;Telefone
+C01592;26/08/2024;Duvida sobre produto;Telefone
+C01592;23/10/2024;Segunda via de boleto;Telefone
+C01592;26/01/2025;Atualizacao cadastral;Site
+C01592;09/02/2025;Negociacao de divida;Telefone
+C01593;08/11/2025;Reclamacao de entrega;Site
+C01594;22/09/2025;Solicitacao de assistencia tecnica;Loja
+C01595;17/12/2025;Atualizacao cadastral;Site
+C01597;08/04/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01599;10/11/2025;Atualizacao cadastral;Site
+C01600;16/11/2025;Segunda via de boleto;Loja
+C01603;21/11/2024;Segunda via de boleto;WhatsApp
+C01603;02/03/2025;Negociacao de divida;WhatsApp
+C01606;25/02/2026;Negociacao de divida;WhatsApp
+C01607;29/04/2025;Negociacao de divida;WhatsApp
+C01608;30/01/2026;Negociacao de divida;WhatsApp
+C01609;26/06/2025;Duvida sobre produto;Site
+C01609;12/07/2025;Solicitacao de assistencia tecnica;Telefone
+C01609;22/07/2025;Segunda via de boleto;Telefone
+C01609;17/09/2025;Segunda via de boleto;Telefone
+C01609;20/09/2025;Segunda via de boleto;Telefone
+C01610;04/07/2025;Negociacao de divida;WhatsApp
+C01611;28/11/2025;Reclamacao de entrega;WhatsApp
+C01614;25/05/2025;Solicitacao de assistencia tecnica;Telefone
+C01614;06/08/2025;Reclamacao de entrega;Loja
+C01616;15/10/2025;Reclamacao de entrega;Site
+C01621;05/08/2025;Segunda via de boleto;Loja
+C01621;11/09/2025;Atualizacao cadastral;Telefone
+C01621;21/01/2026;Solicitacao de assistencia tecnica;Loja
+C01621;13/03/2026;Negociacao de divida;Telefone
+C01622;27/10/2025;Segunda via de boleto;WhatsApp
+C01623;26/03/2025;Segunda via de boleto;WhatsApp
+C01623;03/04/2025;Segunda via de boleto;WhatsApp
+C01628;11/12/2025;Segunda via de boleto;Loja
+C01632;13/12/2025;Segunda via de boleto;WhatsApp
+C01632;24/12/2025;Reclamacao de entrega;Telefone
+C01635;26/11/2025;Negociacao de divida;Telefone
+C01639;10/11/2025;Negociacao de divida;WhatsApp
+C01640;04/09/2025;Duvida sobre produto;Site
+C01640;21/01/2026;Segunda via de boleto;Telefone
+C01641;14/02/2026;Negociacao de divida;Telefone
+C01642;29/10/2025;Atualizacao cadastral;Loja
+C01642;24/11/2025;Segunda via de boleto;WhatsApp
+C01642;09/02/2026;Negociacao de divida;Telefone
+C01644;21/07/2025;Segunda via de boleto;Telefone
+C01644;19/02/2026;Reclamacao de entrega;Site
+C01646;30/11/2024;Segunda via de boleto;Loja
+C01646;28/06/2025;Negociacao de divida;WhatsApp
+C01651;22/11/2025;Segunda via de boleto;Loja
+C01651;22/01/2026;Segunda via de boleto;WhatsApp
+C01651;22/02/2026;Negociacao de divida;WhatsApp
+C01652;08/06/2025;Atualizacao cadastral;Telefone
+C01652;12/07/2025;Atualizacao cadastral;WhatsApp
+C01653;17/01/2026;Reclamacao de entrega;Telefone
+C01654;02/03/2025;Segunda via de boleto;WhatsApp
+C01654;25/04/2025;Reclamacao de entrega;Site
+C01654;13/05/2025;Segunda via de boleto;WhatsApp
+C01655;17/11/2024;Solicitacao de assistencia tecnica;Telefone
+C01660;19/11/2024;Atualizacao cadastral;Site
+C01660;16/01/2025;Segunda via de boleto;WhatsApp
+C01660;19/03/2025;Solicitacao de assistencia tecnica;Telefone
+C01660;24/03/2025;Segunda via de boleto;Loja
+C01661;13/10/2025;Segunda via de boleto;WhatsApp
+C01663;27/11/2025;Segunda via de boleto;WhatsApp
+C01664;27/02/2026;Negociacao de divida;WhatsApp
+C01665;06/11/2025;Segunda via de boleto;Loja
+C01669;18/10/2025;Segunda via de boleto;WhatsApp
+C01669;15/12/2025;Segunda via de boleto;Telefone
+C01669;21/12/2025;Segunda via de boleto;WhatsApp
+C01669;21/01/2026;Negociacao de divida;WhatsApp
+C01671;08/07/2025;Segunda via de boleto;Telefone
+C01671;17/09/2025;Segunda via de boleto;WhatsApp
+C01671;22/09/2025;Segunda via de boleto;Loja
+C01671;11/12/2025;Segunda via de boleto;WhatsApp
+C01671;16/02/2026;Negociacao de divida;Telefone
+C01672;28/12/2025;Segunda via de boleto;Loja
+C01672;17/02/2026;Negociacao de divida;WhatsApp
+C01673;11/08/2025;Negociacao de divida;Telefone
+C01675;03/08/2025;Segunda via de boleto;Telefone
+C01676;23/08/2025;Solicitacao de assistencia tecnica;Site
+C01676;08/12/2025;Segunda via de boleto;Loja
+C01676;08/12/2025;Solicitacao de assistencia tecnica;Loja
+C01676;20/02/2026;Negociacao de divida;Telefone
+C01678;10/02/2026;Negociacao de divida;Telefone
+C01681;24/08/2025;Reclamacao de entrega;Site
+C01683;22/06/2025;Atualizacao cadastral;Site
+C01683;31/08/2025;Segunda via de boleto;Telefone
+C01683;22/01/2026;Reclamacao de entrega;WhatsApp
+C01686;20/01/2025;Reclamacao de entrega;Telefone
+C01686;15/11/2025;Negociacao de divida;Telefone
+C01688;02/11/2024;Duvida sobre produto;Loja
+C01691;20/10/2025;Segunda via de boleto;Loja
+C01694;13/03/2026;Negociacao de divida;WhatsApp
+C01696;19/02/2026;Negociacao de divida;WhatsApp
+C01699;17/06/2025;Segunda via de boleto;Loja
+C01699;21/08/2025;Segunda via de boleto;WhatsApp
+C01699;02/09/2025;Segunda via de boleto;Loja
+C01699;22/10/2025;Segunda via de boleto;Telefone
+C01699;29/10/2025;Segunda via de boleto;Loja
+C01700;27/09/2025;Segunda via de boleto;Loja
+C01700;16/10/2025;Segunda via de boleto;WhatsApp
+C01700;04/01/2026;Segunda via de boleto;WhatsApp
+C01702;24/12/2025;Segunda via de boleto;Telefone
+C01702;11/03/2026;Solicitacao de assistencia tecnica;Site
+C01704;30/03/2025;Solicitacao de assistencia tecnica;Site
+C01704;01/06/2025;Negociacao de divida;Telefone
+C01706;19/06/2025;Segunda via de boleto;WhatsApp
+C01706;01/12/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01706;27/12/2025;Solicitacao de assistencia tecnica;Site
+C01710;15/02/2026;Negociacao de divida;Telefone
+C01712;11/12/2025;Segunda via de boleto;Loja
+C01716;19/06/2025;Solicitacao de assistencia tecnica;Loja
+C01716;28/06/2025;Segunda via de boleto;Loja
+C01717;24/12/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01718;18/12/2024;Solicitacao de assistencia tecnica;Loja
+C01720;02/03/2026;Negociacao de divida;WhatsApp
+C01721;07/12/2025;Atualizacao cadastral;Loja
+C01721;11/03/2026;Negociacao de divida;WhatsApp
+C01723;19/08/2025;Atualizacao cadastral;Loja
+C01723;03/12/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01723;09/02/2026;Duvida sobre produto;Site
+C01724;16/01/2026;Segunda via de boleto;Telefone
+C01725;02/03/2025;Solicitacao de assistencia tecnica;Loja
+C01725;17/05/2025;Segunda via de boleto;Telefone
+C01725;01/06/2025;Segunda via de boleto;WhatsApp
+C01727;02/06/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01728;26/01/2026;Negociacao de divida;WhatsApp
+C01729;20/07/2025;Segunda via de boleto;Loja
+C01729;07/11/2025;Segunda via de boleto;WhatsApp
+C01729;06/03/2026;Negociacao de divida;Telefone
+C01730;26/02/2026;Negociacao de divida;WhatsApp
+C01732;18/07/2025;Segunda via de boleto;WhatsApp
+C01733;25/12/2025;Segunda via de boleto;WhatsApp
+C01733;03/02/2026;Segunda via de boleto;Loja
+C01734;08/12/2025;Atualizacao cadastral;Telefone
+C01735;12/03/2026;Negociacao de divida;Telefone
+C01736;02/12/2025;Segunda via de boleto;Loja
+C01736;05/03/2026;Negociacao de divida;Telefone
+C01738;19/02/2026;Negociacao de divida;WhatsApp
+C01740;10/02/2026;Reclamacao de entrega;Site
+C01740;11/03/2026;Negociacao de divida;WhatsApp
+C01742;03/07/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01742;19/12/2025;Duvida sobre produto;WhatsApp
+C01742;23/02/2026;Negociacao de divida;Telefone
+C01743;17/01/2026;Reclamacao de entrega;Loja
+C01743;31/01/2026;Negociacao de divida;WhatsApp
+C01744;28/02/2026;Negociacao de divida;WhatsApp
+C01745;29/08/2025;Segunda via de boleto;Loja
+C01745;21/12/2025;Segunda via de boleto;Telefone
+C01746;16/01/2026;Duvida sobre produto;Telefone
+C01748;27/10/2025;Segunda via de boleto;Telefone
+C01748;03/03/2026;Negociacao de divida;WhatsApp
+C01749;26/10/2024;Atualizacao cadastral;WhatsApp
+C01749;15/11/2024;Segunda via de boleto;WhatsApp
+C01750;24/02/2026;Duvida sobre produto;Telefone
+C01752;26/09/2025;Segunda via de boleto;Telefone
+C01752;17/11/2025;Duvida sobre produto;Telefone
+C01753;16/09/2025;Segunda via de boleto;WhatsApp
+C01753;31/12/2025;Segunda via de boleto;Telefone
+C01753;09/03/2026;Negociacao de divida;WhatsApp
+C01754;31/12/2025;Duvida sobre produto;Loja
+C01756;12/09/2024;Solicitacao de assistencia tecnica;WhatsApp
+C01758;30/10/2025;Segunda via de boleto;Loja
+C01759;14/12/2025;Atualizacao cadastral;WhatsApp
+C01759;03/01/2026;Segunda via de boleto;WhatsApp
+C01760;19/05/2025;Atualizacao cadastral;WhatsApp
+C01760;26/09/2025;Segunda via de boleto;WhatsApp
+C01760;05/01/2026;Reclamacao de entrega;Loja
+C01760;09/03/2026;Negociacao de divida;Telefone
+C01763;01/11/2025;Segunda via de boleto;Telefone
+C01767;05/10/2025;Segunda via de boleto;WhatsApp
+C01767;19/01/2026;Atualizacao cadastral;Site
+C01769;30/01/2026;Negociacao de divida;Telefone
+C01772;31/12/2025;Reclamacao de entrega;WhatsApp
+C01773;15/09/2025;Negociacao de divida;WhatsApp
+C01777;09/10/2025;Segunda via de boleto;Loja
+C01777;11/02/2026;Negociacao de divida;WhatsApp
+C01780;13/10/2025;Segunda via de boleto;WhatsApp
+C01780;22/02/2026;Negociacao de divida;Telefone
+C01781;27/05/2025;Atualizacao cadastral;Loja
+C01781;18/06/2025;Atualizacao cadastral;Telefone
+C01781;29/08/2025;Segunda via de boleto;WhatsApp
+C01781;22/09/2025;Segunda via de boleto;Telefone
+C01781;23/11/2025;Reclamacao de entrega;Telefone
+C01782;07/11/2025;Atualizacao cadastral;Telefone
+C01783;04/12/2024;Duvida sobre produto;Site
+C01783;05/12/2024;Duvida sobre produto;Telefone
+C01783;02/10/2025;Negociacao de divida;WhatsApp
+C01785;17/02/2026;Reclamacao de entrega;Telefone
+C01785;22/02/2026;Negociacao de divida;Telefone
+C01789;26/07/2025;Solicitacao de assistencia tecnica;Site
+C01789;14/11/2025;Segunda via de boleto;Telefone
+C01790;18/01/2026;Reclamacao de entrega;WhatsApp
+C01791;05/11/2025;Negociacao de divida;Telefone
+C01793;09/08/2025;Segunda via de boleto;WhatsApp
+C01794;22/02/2025;Solicitacao de assistencia tecnica;Site
+C01795;09/08/2025;Duvida sobre produto;WhatsApp
+C01795;27/02/2026;Negociacao de divida;WhatsApp
+C01797;26/01/2026;Negociacao de divida;Telefone
+C01802;02/06/2025;Segunda via de boleto;Loja
+C01803;12/02/2026;Negociacao de divida;WhatsApp
+C01805;14/12/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01807;02/04/2025;Reclamacao de entrega;Site
+C01809;04/05/2025;Solicitacao de assistencia tecnica;Telefone
+C01809;01/08/2025;Segunda via de boleto;Telefone
+C01813;27/02/2026;Negociacao de divida;Telefone
+C01815;05/04/2025;Segunda via de boleto;Loja
+C01816;17/09/2024;Segunda via de boleto;WhatsApp
+C01816;17/02/2025;Segunda via de boleto;Telefone
+C01816;15/03/2025;Negociacao de divida;WhatsApp
+C01818;28/10/2025;Negociacao de divida;Telefone
+C01819;02/08/2025;Segunda via de boleto;WhatsApp
+C01819;10/08/2025;Segunda via de boleto;WhatsApp
+C01819;22/08/2025;Segunda via de boleto;Telefone
+C01820;12/12/2025;Segunda via de boleto;Loja
+C01824;16/05/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01824;13/10/2025;Duvida sobre produto;WhatsApp
+C01825;22/12/2024;Reclamacao de entrega;Site
+C01826;02/08/2025;Segunda via de boleto;Loja
+C01826;14/09/2025;Atualizacao cadastral;Telefone
+C01827;13/05/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01827;01/07/2025;Reclamacao de entrega;Site
+C01827;31/10/2025;Atualizacao cadastral;WhatsApp
+C01827;11/01/2026;Negociacao de divida;Telefone
+C01829;08/09/2025;Atualizacao cadastral;Loja
+C01831;01/10/2025;Duvida sobre produto;WhatsApp
+C01831;13/01/2026;Negociacao de divida;Telefone
+C01832;24/02/2026;Negociacao de divida;WhatsApp
+C01833;09/02/2026;Solicitacao de assistencia tecnica;Site
+C01835;26/04/2025;Segunda via de boleto;WhatsApp
+C01837;15/09/2025;Segunda via de boleto;Loja
+C01837;30/01/2026;Negociacao de divida;Telefone
+C01839;31/05/2025;Solicitacao de assistencia tecnica;Site
+C01839;06/07/2025;Atualizacao cadastral;Site
+C01839;26/09/2025;Segunda via de boleto;Telefone
+C01839;31/10/2025;Solicitacao de assistencia tecnica;Telefone
+C01840;21/02/2026;Negociacao de divida;Telefone
+C01842;05/11/2025;Segunda via de boleto;Loja
+C01843;12/08/2025;Segunda via de boleto;WhatsApp
+C01845;05/04/2025;Reclamacao de entrega;Site
+C01845;29/06/2025;Segunda via de boleto;Telefone
+C01845;03/02/2026;Negociacao de divida;WhatsApp
+C01848;13/05/2025;Atualizacao cadastral;WhatsApp
+C01848;25/06/2025;Segunda via de boleto;WhatsApp
+C01848;02/07/2025;Segunda via de boleto;Telefone
+C01850;14/03/2025;Reclamacao de entrega;WhatsApp
+C01850;06/07/2025;Segunda via de boleto;WhatsApp
+C01850;22/07/2025;Segunda via de boleto;WhatsApp
+C01850;24/08/2025;Negociacao de divida;Telefone
+C01852;11/12/2025;Segunda via de boleto;Loja
+C01852;17/01/2026;Solicitacao de assistencia tecnica;Loja
+C01853;22/04/2025;Reclamacao de entrega;Loja
+C01853;18/10/2025;Segunda via de boleto;Telefone
+C01854;01/01/2026;Reclamacao de entrega;Telefone
+C01855;05/02/2026;Negociacao de divida;WhatsApp
+C01859;11/10/2025;Segunda via de boleto;WhatsApp
+C01859;28/11/2025;Atualizacao cadastral;Telefone
+C01860;01/12/2025;Segunda via de boleto;Telefone
+C01860;14/02/2026;Negociacao de divida;WhatsApp
+C01861;16/11/2024;Duvida sobre produto;WhatsApp
+C01861;08/04/2025;Atualizacao cadastral;WhatsApp
+C01863;01/09/2025;Atualizacao cadastral;Site
+C01864;21/11/2025;Segunda via de boleto;Telefone
+C01864;14/02/2026;Negociacao de divida;WhatsApp
+C01865;02/03/2025;Atualizacao cadastral;Telefone
+C01866;24/11/2025;Segunda via de boleto;WhatsApp
+C01868;14/04/2025;Duvida sobre produto;WhatsApp
+C01868;05/10/2025;Solicitacao de assistencia tecnica;WhatsApp
+C01869;17/09/2024;Atualizacao cadastral;Loja
+C01870;02/11/2025;Segunda via de boleto;Telefone
+C01871;03/10/2025;Segunda via de boleto;Telefone
+C01873;21/10/2025;Segunda via de boleto;Loja
+C01873;26/02/2026;Negociacao de divida;Telefone
+C01874;17/08/2025;Segunda via de boleto;Telefone
+C01874;06/11/2025;Duvida sobre produto;Site
+C01874;11/11/2025;Segunda via de boleto;Telefone
+C01875;14/03/2025;Segunda via de boleto;Loja
+C01876;26/07/2025;Reclamacao de entrega;Site
+C01877;14/05/2025;Duvida sobre produto;Site
+C01877;04/08/2025;Segunda via de boleto;WhatsApp
+C01877;15/08/2025;Solicitacao de assistencia tecnica;Loja
+C01877;07/01/2026;Segunda via de boleto;Loja
+C01878;01/06/2025;Solicitacao de assistencia tecnica;Site
+C01878;01/01/2026;Negociacao de divida;WhatsApp
+C01878;06/02/2026;Atualizacao cadastral;Site
+C01879;25/05/2025;Segunda via de boleto;Loja
+C01880;07/10/2025;Segunda via de boleto;Telefone
+C01880;07/02/2026;Negociacao de divida;WhatsApp
+C01881;21/03/2025;Solicitacao de assistencia tecnica;Telefone
+C01881;11/12/2025;Negociacao de divida;WhatsApp
+C01882;07/11/2025;Duvida sobre produto;Loja
+C01884;27/12/2025;Atualizacao cadastral;Site
+C01884;28/02/2026;Atualizacao cadastral;Telefone
+C01886;04/08/2025;Negociacao de divida;WhatsApp
+C01886;01/09/2025;Duvida sobre produto;Site
+C01890;22/01/2026;Segunda via de boleto;WhatsApp
+C01891;07/05/2025;Atualizacao cadastral;Site
+C01891;10/09/2025;Reclamacao de entrega;Telefone
+C01894;19/11/2025;Segunda via de boleto;Loja
+C01894;01/01/2026;Segunda via de boleto;Loja
+C01894;14/02/2026;Negociacao de divida;WhatsApp
+C01896;06/03/2026;Negociacao de divida;WhatsApp
+C01897;18/09/2025;Segunda via de boleto;Loja
+C01897;01/11/2025;Segunda via de boleto;Telefone
+C01898;29/08/2025;Segunda via de boleto;WhatsApp
+C01898;23/09/2025;Segunda via de boleto;Telefone
+C01898;21/10/2025;Segunda via de boleto;WhatsApp
+C01898;18/12/2025;Segunda via de boleto;Telefone
+C01898;01/03/2026;Negociacao de divida;WhatsApp
+C01900;25/11/2025;Reclamacao de entrega;Telefone
+C01901;02/08/2025;Reclamacao de entrega;Loja
+C01901;12/10/2025;Segunda via de boleto;Telefone
+C01902;03/02/2025;Segunda via de boleto;WhatsApp
+C01902;30/03/2025;Reclamacao de entrega;Telefone
+C01903;18/01/2026;Segunda via de boleto;Loja
+C01903;15/02/2026;Negociacao de divida;WhatsApp
+C01904;16/09/2025;Segunda via de boleto;Loja
+C01905;11/12/2025;Negociacao de divida;Telefone
+C01905;22/12/2025;Reclamacao de entrega;Site
+C01907;18/02/2026;Negociacao de divida;WhatsApp
+C01908;29/10/2025;Segunda via de boleto;Telefone
+C01910;19/08/2025;Segunda via de boleto;Telefone
+C01910;31/08/2025;Solicitacao de assistencia tecnica;Loja
+C01910;16/10/2025;Segunda via de boleto;Telefone
+C01911;16/09/2025;Negociacao de divida;WhatsApp
+C01912;11/10/2025;Segunda via de boleto;Loja
+C01916;28/01/2026;Negociacao de divida;WhatsApp
+C01918;26/07/2025;Segunda via de boleto;Telefone
+C01918;29/07/2025;Atualizacao cadastral;Telefone
+C01918;26/10/2025;Segunda via de boleto;Loja
+C01918;15/01/2026;Duvida sobre produto;Telefone
+C01920;25/08/2025;Reclamacao de entrega;WhatsApp
+C01920;12/02/2026;Negociacao de divida;Telefone
+C01922;12/11/2025;Segunda via de boleto;WhatsApp
+C01922;06/02/2026;Solicitacao de assistencia tecnica;Telefone
+C01925;20/09/2025;Solicitacao de assistencia tecnica;Loja
+C01925;04/01/2026;Segunda via de boleto;Loja
+C01926;21/06/2025;Segunda via de boleto;Loja
+C01927;22/08/2025;Segunda via de boleto;Telefone
+C01928;08/03/2026;Atualizacao cadastral;Site
+C01930;31/10/2025;Duvida sobre produto;Loja
+C01930;18/01/2026;Segunda via de boleto;Telefone
+C01933;19/01/2025;Solicitacao de assistencia tecnica;Telefone
+C01936;13/12/2024;Reclamacao de entrega;WhatsApp
+C01936;15/01/2025;Solicitacao de assistencia tecnica;Loja
+C01936;14/06/2025;Reclamacao de entrega;Site
+C01938;31/05/2025;Reclamacao de entrega;Site
+C01938;18/12/2025;Duvida sobre produto;Loja
+C01940;15/09/2024;Atualizacao cadastral;Telefone
+C01942;09/10/2025;Duvida sobre produto;Site
+C01942;10/10/2025;Negociacao de divida;Telefone
+C01943;31/01/2025;Negociacao de divida;WhatsApp
+C01944;29/01/2025;Solicitacao de assistencia tecnica;Telefone
+C01944;11/11/2025;Reclamacao de entrega;Telefone
+C01945;24/09/2025;Segunda via de boleto;Telefone
+C01946;05/02/2026;Negociacao de divida;Telefone
+C01947;09/12/2025;Negociacao de divida;WhatsApp
+C01948;06/12/2024;Segunda via de boleto;Loja
+C01948;27/12/2024;Segunda via de boleto;WhatsApp
+C01948;14/04/2025;Segunda via de boleto;Telefone
+C01948;31/05/2025;Negociacao de divida;WhatsApp
+C01951;22/09/2025;Segunda via de boleto;Loja
+C01953;20/06/2025;Atualizacao cadastral;WhatsApp
+C01953;26/10/2025;Segunda via de boleto;WhatsApp
+C01955;17/02/2026;Negociacao de divida;Telefone
+C01956;30/12/2024;Segunda via de boleto;Telefone
+C01956;27/05/2025;Negociacao de divida;WhatsApp
+C01957;08/02/2026;Negociacao de divida;WhatsApp
+C01958;31/05/2025;Segunda via de boleto;Telefone
+C01959;02/09/2024;Segunda via de boleto;WhatsApp
+C01959;16/09/2024;Segunda via de boleto;WhatsApp
+C01959;03/10/2024;Atualizacao cadastral;WhatsApp
+C01959;02/01/2025;Negociacao de divida;Telefone
+C01959;19/03/2025;Atualizacao cadastral;Telefone
+C01962;27/10/2025;Atualizacao cadastral;WhatsApp
+C01963;16/06/2025;Solicitacao de assistencia tecnica;Site
+C01966;09/10/2025;Atualizacao cadastral;WhatsApp
+C01967;07/11/2025;Duvida sobre produto;Telefone
+C01968;27/03/2025;Segunda via de boleto;WhatsApp
+C01973;11/02/2026;Solicitacao de assistencia tecnica;Site
+C01974;30/04/2025;Solicitacao de assistencia tecnica;Loja
+C01974;02/05/2025;Atualizacao cadastral;Telefone
+C01974;24/01/2026;Segunda via de boleto;Loja
+C01978;27/01/2026;Solicitacao de assistencia tecnica;Site
+C01979;16/09/2025;Segunda via de boleto;Loja
+C01982;05/06/2025;Solicitacao de assistencia tecnica;Site
+C01983;03/05/2025;Segunda via de boleto;Loja
+C01983;14/10/2025;Negociacao de divida;Telefone
+C01984;12/02/2026;Negociacao de divida;WhatsApp
+C01985;26/05/2025;Segunda via de boleto;Telefone
+C01990;05/08/2025;Segunda via de boleto;WhatsApp
+C01992;19/07/2025;Segunda via de boleto;Loja
+C01992;21/10/2025;Segunda via de boleto;Telefone
+C01995;06/04/2025;Segunda via de boleto;Loja
+C01995;27/07/2025;Segunda via de boleto;Telefone
+C01995;18/08/2025;Segunda via de boleto;WhatsApp
+C01995;04/10/2025;Negociacao de divida;Telefone
+C01999;10/06/2025;Reclamacao de entrega;Site
+C02001;21/06/2024;Segunda via de boleto;Telefone
+C02001;31/07/2024;Segunda via de boleto;WhatsApp
+C02001;26/08/2024;Segunda via de boleto;WhatsApp
+C02003;06/07/2025;Solicitacao de assistencia tecnica;Loja
+C02003;31/08/2025;Solicitacao de assistencia tecnica;Loja
+C02003;09/10/2025;Segunda via de boleto;Loja
+C02003;25/12/2025;Reclamacao de entrega;Site
+C02005;15/02/2025;Segunda via de boleto;Telefone
+C02005;28/07/2025;Negociacao de divida;WhatsApp
+C02006;24/12/2025;Segunda via de boleto;Telefone
+C02007;01/07/2025;Atualizacao cadastral;Site
+C02008;19/02/2026;Negociacao de divida;Telefone
+C02009;12/08/2025;Segunda via de boleto;WhatsApp
+C02009;20/08/2025;Segunda via de boleto;WhatsApp
+C02009;29/11/2025;Reclamacao de entrega;Site
+C02009;27/01/2026;Negociacao de divida;Telefone
+C02010;24/06/2025;Reclamacao de entrega;Site
+C02012;30/07/2025;Segunda via de boleto;Loja
+C02013;29/06/2025;Atualizacao cadastral;Telefone
+C02016;15/12/2025;Segunda via de boleto;WhatsApp
+C02017;22/09/2025;Duvida sobre produto;WhatsApp
+C02017;05/02/2026;Negociacao de divida;Telefone
+C02018;13/06/2025;Duvida sobre produto;WhatsApp
+C02018;18/09/2025;Segunda via de boleto;WhatsApp
+C02018;19/01/2026;Reclamacao de entrega;Site
+C02020;21/08/2025;Segunda via de boleto;Loja
+C02022;18/02/2026;Negociacao de divida;Telefone
+C02023;08/02/2025;Reclamacao de entrega;Telefone
+C02023;18/05/2025;Segunda via de boleto;WhatsApp
+C02024;28/02/2026;Negociacao de divida;Telefone
+C02025;23/04/2025;Segunda via de boleto;Telefone
+C02025;30/04/2025;Atualizacao cadastral;Loja
+C02025;11/09/2025;Negociacao de divida;Telefone
+C02025;05/11/2025;Duvida sobre produto;Site
+C02026;22/12/2025;Segunda via de boleto;WhatsApp
+C02028;26/09/2025;Segunda via de boleto;Telefone
+C02028;22/02/2026;Negociacao de divida;WhatsApp
+C02029;04/05/2025;Segunda via de boleto;WhatsApp
+C02029;25/08/2025;Segunda via de boleto;Telefone
+C02033;15/01/2025;Segunda via de boleto;Telefone
+C02034;08/04/2025;Duvida sobre produto;Telefone
+C02035;05/07/2025;Segunda via de boleto;WhatsApp
+C02035;06/03/2026;Negociacao de divida;Telefone
+C02036;12/11/2025;Segunda via de boleto;Loja
+C02036;07/01/2026;Reclamacao de entrega;Telefone
+C02038;05/06/2025;Atualizacao cadastral;Telefone
+C02038;17/06/2025;Segunda via de boleto;Telefone
+C02038;06/09/2025;Segunda via de boleto;WhatsApp
+C02043;03/04/2025;Segunda via de boleto;Telefone
+C02043;14/05/2025;Segunda via de boleto;Loja
+C02043;04/09/2025;Negociacao de divida;WhatsApp
+C02044;11/12/2025;Negociacao de divida;WhatsApp
+C02045;06/11/2025;Segunda via de boleto;WhatsApp
+C02045;07/02/2026;Negociacao de divida;WhatsApp
+C02046;28/11/2025;Segunda via de boleto;WhatsApp
+C02046;08/12/2025;Segunda via de boleto;WhatsApp
+C02047;23/01/2026;Segunda via de boleto;WhatsApp
+C02048;11/09/2025;Segunda via de boleto;WhatsApp
+C02049;27/09/2025;Negociacao de divida;Telefone
+C02051;07/03/2026;Negociacao de divida;WhatsApp
+C02052;19/05/2025;Segunda via de boleto;Telefone
+C02052;10/07/2025;Duvida sobre produto;Loja
+C02052;07/08/2025;Atualizacao cadastral;Loja
+C02055;27/02/2025;Segunda via de boleto;Loja
+C02055;14/04/2025;Segunda via de boleto;Telefone
+C02055;16/10/2025;Negociacao de divida;Telefone
+C02056;04/08/2025;Segunda via de boleto;Loja
+C02056;23/09/2025;Atualizacao cadastral;Site
+C02057;05/08/2025;Segunda via de boleto;Loja
+C02057;04/03/2026;Negociacao de divida;Telefone
+C02058;12/01/2026;Reclamacao de entrega;Loja
+C02059;08/08/2025;Segunda via de boleto;Loja
+C02060;12/10/2025;Atualizacao cadastral;Loja
+C02061;22/08/2025;Segunda via de boleto;Telefone
+C02061;13/09/2025;Segunda via de boleto;Loja
+C02061;16/12/2025;Negociacao de divida;Telefone
+C02062;13/10/2025;Reclamacao de entrega;WhatsApp
+C02064;15/01/2026;Negociacao de divida;WhatsApp
+C02065;07/07/2025;Reclamacao de entrega;Telefone
+C02066;26/08/2025;Solicitacao de assistencia tecnica;Site
+C02067;01/11/2025;Segunda via de boleto;Loja
+C02069;21/03/2025;Segunda via de boleto;Telefone
+C02069;22/07/2025;Negociacao de divida;Telefone
+C02072;04/04/2025;Solicitacao de assistencia tecnica;Telefone
+C02073;30/12/2024;Reclamacao de entrega;Loja
+C02073;01/01/2025;Segunda via de boleto;WhatsApp
+C02074;07/02/2026;Negociacao de divida;WhatsApp
+C02078;14/03/2026;Solicitacao de assistencia tecnica;Site
+C02080;13/07/2025;Reclamacao de entrega;Loja
+C02081;09/07/2025;Segunda via de boleto;Telefone
+C02081;21/09/2025;Segunda via de boleto;Telefone
+C02082;10/03/2026;Negociacao de divida;WhatsApp
+C02083;22/03/2025;Segunda via de boleto;Telefone
+C02083;03/09/2025;Negociacao de divida;Telefone
+C02084;06/06/2025;Segunda via de boleto;WhatsApp
+C02084;06/12/2025;Atualizacao cadastral;Loja
+C02088;17/11/2024;Reclamacao de entrega;WhatsApp
+C02088;26/08/2025;Reclamacao de entrega;Site
+C02090;28/02/2025;Segunda via de boleto;WhatsApp
+C02093;29/05/2025;Reclamacao de entrega;WhatsApp
+C02093;29/11/2025;Segunda via de boleto;Telefone
+C02093;03/12/2025;Segunda via de boleto;WhatsApp
+C02093;18/02/2026;Negociacao de divida;WhatsApp
+C02094;04/09/2025;Duvida sobre produto;Telefone
+C02098;04/10/2025;Duvida sobre produto;Loja
+C02099;10/01/2026;Segunda via de boleto;Telefone
+C02100;24/06/2025;Segunda via de boleto;Telefone
+C02100;24/06/2025;Duvida sobre produto;Loja
+C02100;12/12/2025;Duvida sobre produto;Telefone
+C02101;08/09/2025;Solicitacao de assistencia tecnica;WhatsApp
+C02101;17/10/2025;Duvida sobre produto;Loja
+C02102;06/10/2025;Negociacao de divida;WhatsApp
+C02102;07/10/2025;Duvida sobre produto;Site
+C02103;01/07/2025;Negociacao de divida;WhatsApp
+C02104;25/06/2024;Reclamacao de entrega;Loja
+C02105;03/03/2025;Reclamacao de entrega;Site
+C02105;28/06/2025;Duvida sobre produto;Telefone
+C02107;26/02/2026;Negociacao de divida;WhatsApp
+C02108;07/09/2025;Negociacao de divida;Telefone
+C02109;31/10/2025;Segunda via de boleto;WhatsApp
+C02109;28/02/2026;Negociacao de divida;Telefone
+C02111;27/01/2026;Solicitacao de assistencia tecnica;WhatsApp
+C02114;09/03/2025;Reclamacao de entrega;Telefone
+C02114;09/07/2025;Atualizacao cadastral;Loja
+C02114;14/01/2026;Negociacao de divida;WhatsApp
+C02114;26/01/2026;Atualizacao cadastral;Telefone
+C02120;17/10/2025;Segunda via de boleto;Loja
+C02121;05/09/2025;Segunda via de boleto;WhatsApp
+C02123;01/03/2026;Negociacao de divida;WhatsApp
+C02127;19/01/2026;Segunda via de boleto;Telefone
+C02127;21/02/2026;Negociacao de divida;Telefone
+C02131;10/02/2026;Negociacao de divida;WhatsApp
+C02132;22/12/2025;Solicitacao de assistencia tecnica;Site
+C02133;16/08/2025;Segunda via de boleto;Telefone
+C02133;16/09/2025;Reclamacao de entrega;Telefone
+C02137;30/11/2025;Segunda via de boleto;WhatsApp
+C02137;01/02/2026;Negociacao de divida;Telefone
+C02140;22/02/2026;Solicitacao de assistencia tecnica;Telefone
+C02142;30/12/2025;Negociacao de divida;WhatsApp
+C02143;05/01/2026;Segunda via de boleto;Telefone
+C02143;23/02/2026;Negociacao de divida;WhatsApp
+C02144;27/09/2025;Reclamacao de entrega;WhatsApp
+C02145;18/06/2025;Segunda via de boleto;WhatsApp
+C02146;28/05/2025;Atualizacao cadastral;Loja
+C02146;24/06/2025;Segunda via de boleto;Loja
+C02146;25/08/2025;Segunda via de boleto;WhatsApp
+C02148;24/10/2025;Segunda via de boleto;WhatsApp
+C02148;20/11/2025;Segunda via de boleto;WhatsApp
+C02148;02/01/2026;Segunda via de boleto;Loja
+C02149;29/09/2025;Segunda via de boleto;Telefone
+C02149;24/02/2026;Negociacao de divida;Telefone
+C02150;22/10/2025;Segunda via de boleto;Telefone
+C02150;08/01/2026;Segunda via de boleto;Telefone
+C02152;02/07/2025;Duvida sobre produto;Site
+C02152;13/02/2026;Negociacao de divida;WhatsApp
+C02154;02/06/2025;Segunda via de boleto;WhatsApp
+C02155;06/03/2025;Atualizacao cadastral;Telefone
+C02155;09/03/2025;Segunda via de boleto;Telefone
+C02156;13/02/2025;Segunda via de boleto;Loja
+C02156;05/05/2025;Segunda via de boleto;Loja
+C02157;26/03/2025;Atualizacao cadastral;Telefone
+C02158;28/02/2026;Negociacao de divida;Telefone
+C02161;12/10/2025;Segunda via de boleto;Loja
+C02161;26/12/2025;Segunda via de boleto;Loja
+C02161;02/02/2026;Negociacao de divida;Telefone
+C02162;02/05/2025;Solicitacao de assistencia tecnica;Site
+C02162;07/07/2025;Atualizacao cadastral;Telefone
+C02163;29/07/2025;Reclamacao de entrega;Telefone
+C02166;03/07/2025;Segunda via de boleto;WhatsApp
+C02167;30/11/2024;Segunda via de boleto;Loja
+C02167;19/01/2025;Segunda via de boleto;Telefone
+C02167;20/01/2025;Segunda via de boleto;Loja
+C02172;21/12/2025;Segunda via de boleto;Loja
+C02174;28/11/2025;Solicitacao de assistencia tecnica;Telefone
+C02177;22/02/2025;Segunda via de boleto;Telefone
+C02177;16/09/2025;Negociacao de divida;WhatsApp
+C02179;01/02/2026;Negociacao de divida;WhatsApp
+C02182;11/03/2026;Negociacao de divida;Telefone
+C02184;06/12/2025;Atualizacao cadastral;Telefone
+C02184;15/12/2025;Segunda via de boleto;Telefone
+C02185;05/03/2025;Segunda via de boleto;Loja
+C02189;03/10/2025;Segunda via de boleto;WhatsApp
+C02189;29/11/2025;Segunda via de boleto;Telefone
+C02189;07/12/2025;Solicitacao de assistencia tecnica;WhatsApp
+C02189;13/12/2025;Atualizacao cadastral;Loja
+C02189;26/02/2026;Negociacao de divida;WhatsApp
+C02194;28/10/2025;Segunda via de boleto;WhatsApp
+C02195;25/02/2026;Negociacao de divida;WhatsApp
+C02196;15/02/2026;Negociacao de divida;WhatsApp
+C02197;16/11/2025;Reclamacao de entrega;Telefone
+C02202;07/10/2025;Segunda via de boleto;WhatsApp
+C02203;20/02/2026;Atualizacao cadastral;Telefone
+C02205;18/02/2026;Atualizacao cadastral;Telefone
+C02206;11/04/2025;Atualizacao cadastral;Telefone
+C02206;27/05/2025;Duvida sobre produto;Telefone
+C02206;22/08/2025;Reclamacao de entrega;Telefone
+C02206;12/12/2025;Solicitacao de assistencia tecnica;Loja
+C02207;15/06/2025;Negociacao de divida;WhatsApp
+C02209;18/05/2025;Reclamacao de entrega;Site
+C02211;13/03/2026;Negociacao de divida;WhatsApp
+C02212;07/05/2025;Solicitacao de assistencia tecnica;Telefone
+C02212;19/07/2025;Segunda via de boleto;Telefone
+C02212;30/12/2025;Reclamacao de entrega;Telefone
+C02214;06/05/2025;Reclamacao de entrega;WhatsApp
+C02214;17/12/2025;Atualizacao cadastral;Loja
+C02217;13/09/2024;Duvida sobre produto;Telefone
+C02217;26/03/2025;Segunda via de boleto;Telefone
+C02217;01/08/2025;Duvida sobre produto;Site
+C02218;02/03/2026;Negociacao de divida;WhatsApp
+C02219;01/09/2025;Atualizacao cadastral;Site
+C02222;19/03/2025;Atualizacao cadastral;Site
+C02222;27/06/2025;Segunda via de boleto;Loja
+C02224;02/07/2025;Reclamacao de entrega;Loja
+C02226;13/03/2026;Negociacao de divida;WhatsApp
+C02227;07/10/2025;Duvida sobre produto;Telefone
+C02227;08/11/2025;Segunda via de boleto;Loja
+C02227;04/12/2025;Segunda via de boleto;Loja
+C02227;10/12/2025;Segunda via de boleto;Loja
+C02227;17/12/2025;Atualizacao cadastral;Loja
+C02232;04/03/2025;Reclamacao de entrega;Loja
+C02233;21/01/2026;Negociacao de divida;Telefone
+C02235;16/07/2025;Segunda via de boleto;Telefone
+C02236;08/03/2026;Negociacao de divida;WhatsApp
+C02237;28/02/2025;Atualizacao cadastral;WhatsApp
+C02238;17/12/2025;Reclamacao de entrega;WhatsApp
+C02240;05/11/2025;Segunda via de boleto;WhatsApp
+C02240;09/01/2026;Atualizacao cadastral;Telefone
+C02240;09/02/2026;Negociacao de divida;Telefone
+C02242;09/11/2025;Segunda via de boleto;Telefone
+C02242;09/01/2026;Segunda via de boleto;WhatsApp
+C02242;21/01/2026;Reclamacao de entrega;Site
+C02245;19/07/2025;Segunda via de boleto;WhatsApp
+C02247;12/08/2025;Segunda via de boleto;Telefone
+C02247;10/01/2026;Reclamacao de entrega;Loja
+C02248;03/02/2026;Negociacao de divida;Telefone
+C02249;23/08/2025;Segunda via de boleto;WhatsApp
+C02249;22/09/2025;Duvida sobre produto;Telefone
+C02249;17/11/2025;Segunda via de boleto;Telefone
+C02249;21/11/2025;Segunda via de boleto;WhatsApp
+C02249;04/02/2026;Negociacao de divida;WhatsApp
+C02249;05/03/2026;Reclamacao de entrega;Telefone
+C02250;02/03/2025;Segunda via de boleto;Telefone
+C02252;17/05/2025;Atualizacao cadastral;Site
+C02252;29/10/2025;Duvida sobre produto;Site
+C02252;20/01/2026;Negociacao de divida;WhatsApp
+C02257;21/10/2025;Reclamacao de entrega;Loja
+C02259;11/07/2025;Segunda via de boleto;Loja
+C02260;27/12/2025;Duvida sobre produto;WhatsApp
+C02262;08/10/2025;Duvida sobre produto;Site
+C02262;04/02/2026;Atualizacao cadastral;Site
+C02264;26/09/2025;Atualizacao cadastral;Telefone
+C02264;01/02/2026;Negociacao de divida;WhatsApp
+C02265;05/03/2026;Negociacao de divida;Telefone
+C02267;03/09/2025;Reclamacao de entrega;Site
+C02267;28/12/2025;Segunda via de boleto;Loja
+C02268;14/12/2025;Segunda via de boleto;WhatsApp
+C02268;21/01/2026;Atualizacao cadastral;Site
+C02273;19/06/2025;Segunda via de boleto;Loja
+C02273;12/10/2025;Negociacao de divida;Telefone
+C02274;23/01/2025;Segunda via de boleto;WhatsApp
+C02274;07/03/2025;Segunda via de boleto;Loja
+C02277;10/12/2025;Reclamacao de entrega;WhatsApp
+C02277;19/02/2026;Reclamacao de entrega;Telefone
+C02280;14/01/2025;Solicitacao de assistencia tecnica;Loja
+C02286;10/03/2026;Solicitacao de assistencia tecnica;Telefone
+C02287;25/11/2025;Solicitacao de assistencia tecnica;WhatsApp
+C02288;04/09/2025;Duvida sobre produto;WhatsApp
+C02289;23/02/2026;Negociacao de divida;WhatsApp
+C02290;13/07/2025;Atualizacao cadastral;Telefone
+C02290;18/02/2026;Duvida sobre produto;Site
+C02291;25/08/2025;Segunda via de boleto;Telefone
+C02291;05/10/2025;Segunda via de boleto;Telefone
+C02291;12/10/2025;Solicitacao de assistencia tecnica;WhatsApp
+C02291;11/01/2026;Segunda via de boleto;Telefone
+C02291;13/03/2026;Negociacao de divida;Telefone
+C02292;30/11/2025;Reclamacao de entrega;Telefone
+C02293;20/07/2025;Reclamacao de entrega;Telefone
+C02293;26/01/2026;Negociacao de divida;WhatsApp
+C02294;19/02/2026;Negociacao de divida;Telefone
+C02300;30/08/2025;Segunda via de boleto;Telefone
+C02300;21/12/2025;Segunda via de boleto;Loja
+C02300;22/12/2025;Solicitacao de assistencia tecnica;Telefone
+C02300;11/02/2026;Atualizacao cadastral;Site
+C02302;14/09/2025;Segunda via de boleto;Loja
+C02303;27/09/2025;Solicitacao de assistencia tecnica;Loja
+C02303;17/02/2026;Negociacao de divida;Telefone
+C02306;14/02/2025;Segunda via de boleto;Telefone
+C02306;08/05/2025;Solicitacao de assistencia tecnica;Site
+C02306;06/09/2025;Negociacao de divida;Telefone
+C02310;02/12/2024;Segunda via de boleto;Loja
+C02310;26/02/2025;Segunda via de boleto;Loja
+C02310;14/05/2025;Segunda via de boleto;Telefone
+C02310;17/06/2025;Negociacao de divida;Telefone
+C02310;02/07/2025;Duvida sobre produto;Site
+C02312;01/06/2025;Reclamacao de entrega;Loja
+C02313;06/06/2025;Reclamacao de entrega;Telefone
+C02314;08/09/2025;Duvida sobre produto;WhatsApp
+C02317;25/11/2025;Negociacao de divida;WhatsApp
+C02319;24/01/2025;Segunda via de boleto;Loja
+C02319;11/08/2025;Atualizacao cadastral;Telefone
+C02321;23/03/2025;Segunda via de boleto;Telefone
+C02321;05/10/2025;Negociacao de divida;WhatsApp
+C02322;12/07/2025;Segunda via de boleto;Telefone
+C02322;10/10/2025;Reclamacao de entrega;WhatsApp
+C02322;08/12/2025;Negociacao de divida;WhatsApp
+C02324;05/08/2025;Segunda via de boleto;Telefone
+C02324;25/02/2026;Negociacao de divida;WhatsApp
+C02325;21/06/2025;Segunda via de boleto;Telefone
+C02325;23/06/2025;Solicitacao de assistencia tecnica;Site
+C02326;05/10/2025;Reclamacao de entrega;Loja
+C02326;11/12/2025;Reclamacao de entrega;Telefone
+C02327;13/06/2025;Atualizacao cadastral;Loja
+C02327;30/06/2025;Solicitacao de assistencia tecnica;Telefone
+C02327;02/12/2025;Segunda via de boleto;Loja
+C02328;30/10/2024;Solicitacao de assistencia tecnica;Site
+C02329;18/09/2025;Segunda via de boleto;WhatsApp
+C02331;25/11/2025;Negociacao de divida;WhatsApp
+C02332;28/11/2025;Reclamacao de entrega;Telefone
+C02332;06/12/2025;Reclamacao de entrega;WhatsApp
+C02335;21/08/2025;Segunda via de boleto;Loja
+C02335;07/10/2025;Negociacao de divida;WhatsApp
+C02337;16/12/2025;Segunda via de boleto;Telefone
+C02338;03/02/2026;Atualizacao cadastral;Site
+C02340;17/11/2024;Segunda via de boleto;Telefone
+C02340;02/06/2025;Negociacao de divida;WhatsApp
+C02341;31/10/2025;Segunda via de boleto;Loja
+C02341;24/01/2026;Duvida sobre produto;Telefone
+C02342;05/09/2025;Segunda via de boleto;Loja
+C02346;02/09/2025;Reclamacao de entrega;Loja
+C02346;18/11/2025;Reclamacao de entrega;Site
+C02348;25/08/2025;Reclamacao de entrega;Site
+C02350;12/12/2025;Reclamacao de entrega;Loja
+C02352;15/10/2025;Segunda via de boleto;WhatsApp
+C02352;10/01/2026;Segunda via de boleto;Telefone
+C02354;19/07/2025;Segunda via de boleto;Loja
+C02354;27/08/2025;Segunda via de boleto;WhatsApp
+C02354;26/12/2025;Reclamacao de entrega;Telefone
+C02354;15/02/2026;Negociacao de divida;Telefone
+C02355;10/09/2025;Segunda via de boleto;Telefone
+C02356;24/10/2025;Solicitacao de assistencia tecnica;Telefone
+C02356;20/12/2025;Reclamacao de entrega;Site
+C02357;02/08/2025;Atualizacao cadastral;Loja
+C02357;17/11/2025;Duvida sobre produto;Telefone
+C02359;08/03/2026;Duvida sobre produto;Site
+C02360;25/11/2024;Duvida sobre produto;Loja
+C02360;19/05/2025;Reclamacao de entrega;Telefone
+C02361;02/05/2025;Segunda via de boleto;Loja
+C02361;11/06/2025;Negociacao de divida;Telefone
+C02363;02/11/2025;Reclamacao de entrega;Loja
+C02363;07/12/2025;Segunda via de boleto;Loja
+C02363;25/01/2026;Reclamacao de entrega;Loja
+C02364;15/10/2025;Duvida sobre produto;Loja
+C02366;24/05/2025;Atualizacao cadastral;Loja
+C02366;28/10/2025;Duvida sobre produto;Site
+C02366;30/11/2025;Negociacao de divida;WhatsApp
+C02368;11/12/2024;Reclamacao de entrega;Site
+C02369;16/02/2026;Negociacao de divida;WhatsApp
+C02372;29/09/2024;Reclamacao de entrega;Loja
+C02372;15/03/2025;Negociacao de divida;Telefone
+C02373;04/03/2025;Segunda via de boleto;WhatsApp
+C02373;04/11/2025;Negociacao de divida;Telefone
+C02374;22/11/2025;Segunda via de boleto;WhatsApp
+C02374;29/11/2025;Segunda via de boleto;Telefone
+C02374;07/02/2026;Negociacao de divida;WhatsApp
+C02381;08/05/2025;Segunda via de boleto;Telefone
+C02381;27/11/2025;Solicitacao de assistencia tecnica;Telefone
+C02382;26/05/2025;Atualizacao cadastral;Loja
+C02383;01/01/2026;Solicitacao de assistencia tecnica;Site
+C02383;14/01/2026;Atualizacao cadastral;Site
+C02383;22/02/2026;Negociacao de divida;WhatsApp
+C02385;22/02/2025;Solicitacao de assistencia tecnica;Loja
+C02387;18/09/2025;Atualizacao cadastral;Loja
+C02388;17/04/2025;Reclamacao de entrega;Telefone
+C02388;30/06/2025;Negociacao de divida;WhatsApp
+C02389;07/02/2026;Solicitacao de assistencia tecnica;Telefone
+C02393;21/11/2025;Segunda via de boleto;Loja
+C02396;03/02/2026;Solicitacao de assistencia tecnica;Site
+C02397;06/12/2025;Atualizacao cadastral;WhatsApp
+C02397;09/01/2026;Atualizacao cadastral;Site
+C02398;26/09/2025;Reclamacao de entrega;Telefone
+C02399;14/10/2025;Atualizacao cadastral;WhatsApp
+C02401;13/12/2024;Segunda via de boleto;Telefone
+C02401;12/07/2025;Negociacao de divida;Telefone
+C02402;01/03/2026;Negociacao de divida;WhatsApp
+C02403;28/07/2025;Segunda via de boleto;Loja
+C02403;05/10/2025;Duvida sobre produto;Loja
+C02403;13/10/2025;Segunda via de boleto;WhatsApp
+C02403;07/11/2025;Segunda via de boleto;Loja
+C02403;20/01/2026;Segunda via de boleto;WhatsApp
+C02403;30/01/2026;Reclamacao de entrega;Site
+C02403;13/02/2026;Negociacao de divida;WhatsApp
+C02404;16/01/2025;Segunda via de boleto;Loja
+C02405;08/08/2025;Solicitacao de assistencia tecnica;Telefone
+C02405;25/09/2025;Segunda via de boleto;WhatsApp
+C02405;17/10/2025;Solicitacao de assistencia tecnica;Telefone
+C02408;09/11/2024;Segunda via de boleto;Telefone
+C02408;09/01/2025;Segunda via de boleto;WhatsApp
+C02411;01/02/2026;Negociacao de divida;Telefone
+C02412;27/11/2025;Segunda via de boleto;Telefone
+C02413;25/10/2025;Segunda via de boleto;Telefone
+C02413;24/02/2026;Negociacao de divida;WhatsApp
+C02415;05/08/2025;Atualizacao cadastral;Telefone
+C02418;18/11/2024;Duvida sobre produto;WhatsApp
+C02418;16/01/2025;Solicitacao de assistencia tecnica;WhatsApp
+C02418;17/01/2025;Segunda via de boleto;WhatsApp
+C02419;13/07/2025;Reclamacao de entrega;WhatsApp
+C02421;02/07/2025;Atualizacao cadastral;WhatsApp
+C02422;29/04/2025;Solicitacao de assistencia tecnica;WhatsApp
+C02422;30/12/2025;Negociacao de divida;WhatsApp
+C02423;06/12/2025;Segunda via de boleto;Loja
+C02424;05/09/2025;Segunda via de boleto;Loja
+C02424;07/01/2026;Segunda via de boleto;Loja
+C02424;19/02/2026;Negociacao de divida;Telefone
+C02425;12/04/2025;Segunda via de boleto;Loja
+C02425;07/06/2025;Negociacao de divida;Telefone
+C02426;01/08/2025;Segunda via de boleto;WhatsApp
+C02427;20/10/2025;Negociacao de divida;WhatsApp
+C02430;21/05/2025;Reclamacao de entrega;Loja
+C02430;09/01/2026;Duvida sobre produto;WhatsApp
+C02431;16/06/2025;Reclamacao de entrega;WhatsApp
+C02432;18/02/2026;Negociacao de divida;Telefone
+C02435;12/05/2025;Negociacao de divida;WhatsApp
+C02436;03/11/2024;Segunda via de boleto;Telefone
+C02438;03/02/2026;Negociacao de divida;Telefone
+C02439;13/03/2026;Negociacao de divida;WhatsApp
+C02441;14/01/2025;Segunda via de boleto;Loja
+C02444;06/11/2024;Solicitacao de assistencia tecnica;Site
+C02445;18/03/2025;Solicitacao de assistencia tecnica;Loja
+C02446;05/06/2025;Solicitacao de assistencia tecnica;Site
+C02447;30/12/2025;Duvida sobre produto;Site
+C02447;23/02/2026;Negociacao de divida;WhatsApp
+C02448;07/03/2025;Negociacao de divida;WhatsApp
+C02448;29/04/2025;Reclamacao de entrega;Site
+C02450;23/04/2025;Solicitacao de assistencia tecnica;Loja
+C02451;23/05/2025;Negociacao de divida;Telefone
+C02452;18/06/2025;Solicitacao de assistencia tecnica;Site
+C02452;23/11/2025;Segunda via de boleto;Telefone
+C02453;12/09/2025;Segunda via de boleto;Loja
+C02453;22/09/2025;Segunda via de boleto;Loja
+C02453;22/01/2026;Atualizacao cadastral;WhatsApp
+C02453;16/02/2026;Negociacao de divida;Telefone
+C02454;21/02/2026;Negociacao de divida;Telefone
+C02458;16/11/2025;Segunda via de boleto;WhatsApp
+C02458;18/12/2025;Segunda via de boleto;WhatsApp
+C02460;27/11/2025;Segunda via de boleto;Loja
+C02462;20/10/2025;Duvida sobre produto;Loja
+C02463;19/08/2025;Segunda via de boleto;WhatsApp
+C02464;15/03/2026;Duvida sobre produto;Telefone
+C02466;07/02/2025;Segunda via de boleto;Telefone
+C02466;15/06/2025;Segunda via de boleto;WhatsApp
+C02466;16/07/2025;Segunda via de boleto;WhatsApp
+C02469;04/08/2025;Duvida sobre produto;Site
+C02469;16/08/2025;Segunda via de boleto;WhatsApp
+C02469;29/10/2025;Segunda via de boleto;Telefone
+C02469;26/12/2025;Segunda via de boleto;Telefone
+C02471;28/09/2025;Solicitacao de assistencia tecnica;Site
+C02471;29/09/2025;Segunda via de boleto;Loja
+C02473;01/08/2025;Segunda via de boleto;Telefone
+C02474;17/10/2025;Segunda via de boleto;Telefone
+C02475;14/08/2025;Segunda via de boleto;Loja
+C02475;07/12/2025;Solicitacao de assistencia tecnica;Loja
+C02477;06/02/2026;Negociacao de divida;Telefone
+C02478;24/09/2025;Segunda via de boleto;Telefone
+C02480;15/07/2025;Atualizacao cadastral;Site
+C02481;13/02/2025;Segunda via de boleto;Telefone
+C02481;14/10/2025;Negociacao de divida;Telefone
+C02482;20/08/2025;Segunda via de boleto;Telefone
+C02482;07/02/2026;Negociacao de divida;Telefone
+C02485;14/11/2024;Reclamacao de entrega;Loja
+C02487;01/08/2025;Duvida sobre produto;Site
+C02489;03/02/2026;Negociacao de divida;WhatsApp
+C02491;11/02/2025;Segunda via de boleto;Telefone
+C02491;09/05/2025;Duvida sobre produto;Site
+C02492;12/07/2025;Segunda via de boleto;Loja
+C02493;23/10/2025;Segunda via de boleto;WhatsApp
+C02493;07/11/2025;Atualizacao cadastral;WhatsApp
+C02493;16/01/2026;Atualizacao cadastral;WhatsApp
+C02494;07/10/2025;Reclamacao de entrega;Site
+C02495;24/08/2025;Negociacao de divida;WhatsApp
+C02498;22/03/2025;Atualizacao cadastral;Loja
+C02498;22/06/2025;Segunda via de boleto;Telefone
+C02499;06/09/2025;Solicitacao de assistencia tecnica;WhatsApp
+C02500;02/10/2025;Duvida sobre produto;Loja
+C02500;25/12/2025;Segunda via de boleto;WhatsApp
+C02500;01/01/2026;Segunda via de boleto;Loja
+C02501;22/02/2026;Negociacao de divida;WhatsApp
+C02503;15/07/2025;Segunda via de boleto;Telefone
+C02503;18/10/2025;Segunda via de boleto;Loja
+C02503;02/03/2026;Negociacao de divida;Telefone
+C02504;08/02/2026;Negociacao de divida;WhatsApp
+C02505;04/09/2025;Reclamacao de entrega;Loja
+C02505;27/02/2026;Reclamacao de entrega;Telefone
+C02506;15/02/2026;Negociacao de divida;Telefone
+C02508;11/12/2025;Segunda via de boleto;Telefone
+C02510;03/03/2026;Solicitacao de assistencia tecnica;Site
+C02511;08/12/2024;Segunda via de boleto;WhatsApp
+C02511;01/02/2025;Segunda via de boleto;Telefone
+C02511;24/02/2025;Atualizacao cadastral;Loja
+C02513;13/03/2025;Segunda via de boleto;WhatsApp
+C02513;13/03/2025;Segunda via de boleto;Telefone
+C02516;14/10/2025;Segunda via de boleto;Loja
+C02518;28/10/2025;Atualizacao cadastral;Telefone
+C02519;04/05/2025;Reclamacao de entrega;Telefone
+C02520;23/11/2025;Duvida sobre produto;WhatsApp
+C02522;18/02/2025;Segunda via de boleto;Loja
+C02523;28/02/2025;Segunda via de boleto;WhatsApp
+C02523;05/07/2025;Duvida sobre produto;Telefone
+C02524;12/05/2025;Duvida sobre produto;Site
+C02524;12/12/2025;Duvida sobre produto;Loja
+C02524;08/01/2026;Segunda via de boleto;Telefone
+C02525;20/01/2026;Negociacao de divida;WhatsApp
+C02527;03/01/2026;Atualizacao cadastral;Site
+C02528;07/04/2025;Reclamacao de entrega;Telefone
+C02528;31/08/2025;Duvida sobre produto;WhatsApp
+C02530;16/07/2025;Reclamacao de entrega;Telefone
+C02530;10/01/2026;Segunda via de boleto;WhatsApp
+C02531;24/02/2026;Negociacao de divida;Telefone
+C02536;08/08/2025;Segunda via de boleto;Telefone
+C02538;11/08/2025;Duvida sobre produto;Loja
+C02538;15/02/2026;Duvida sobre produto;Site
+C02538;16/02/2026;Negociacao de divida;WhatsApp
+C02539;19/09/2025;Segunda via de boleto;WhatsApp
+C02539;16/11/2025;Negociacao de divida;WhatsApp
+C02539;19/11/2025;Reclamacao de entrega;Telefone
+C02541;13/06/2025;Atualizacao cadastral;Telefone
+C02541;15/06/2025;Negociacao de divida;WhatsApp
+C02542;27/01/2026;Negociacao de divida;WhatsApp
+C02543;12/03/2025;Segunda via de boleto;Telefone
+C02546;21/11/2025;Reclamacao de entrega;WhatsApp
+C02546;03/01/2026;Atualizacao cadastral;Loja
+C02550;22/12/2025;Segunda via de boleto;WhatsApp
+C02550;27/12/2025;Segunda via de boleto;WhatsApp
+C02551;12/03/2025;Segunda via de boleto;Telefone
+C02551;21/06/2025;Duvida sobre produto;Telefone
+C02552;20/02/2025;Reclamacao de entrega;Site
+C02552;21/06/2025;Atualizacao cadastral;Site
+C02553;13/10/2025;Atualizacao cadastral;WhatsApp
+C02553;04/03/2026;Negociacao de divida;WhatsApp
+C02555;09/08/2025;Segunda via de boleto;Loja
+C02558;19/10/2025;Segunda via de boleto;WhatsApp
+C02562;16/10/2025;Duvida sobre produto;Site
+C02563;22/06/2025;Solicitacao de assistencia tecnica;WhatsApp
+C02563;25/02/2026;Reclamacao de entrega;Telefone
+C02565;19/02/2026;Solicitacao de assistencia tecnica;Site
+C02566;09/01/2026;Segunda via de boleto;Loja
+C02566;16/02/2026;Negociacao de divida;Telefone
+C02567;28/01/2026;Negociacao de divida;Telefone
+C02569;26/07/2025;Segunda via de boleto;Loja
+C02569;26/12/2025;Segunda via de boleto;Loja
+C02569;13/02/2026;Reclamacao de entrega;Telefone
+C02569;15/03/2026;Negociacao de divida;Telefone
+C02571;12/08/2025;Segunda via de boleto;Telefone
+C02571;05/10/2025;Segunda via de boleto;Loja
+C02571;07/10/2025;Segunda via de boleto;Telefone
+C02572;16/01/2025;Duvida sobre produto;Loja
+C02573;05/08/2025;Segunda via de boleto;WhatsApp
+C02574;11/01/2025;Solicitacao de assistencia tecnica;Loja
+C02574;12/03/2025;Segunda via de boleto;Telefone
+C02574;18/05/2025;Segunda via de boleto;Loja
+C02574;14/07/2025;Negociacao de divida;Telefone
+C02575;09/12/2025;Duvida sobre produto;Site
+C02577;23/08/2025;Segunda via de boleto;Loja
+C02579;17/09/2024;Segunda via de boleto;Telefone
+C02582;23/08/2025;Reclamacao de entrega;Loja
+C02584;26/08/2025;Atualizacao cadastral;Telefone
+C02585;20/02/2025;Segunda via de boleto;Loja
+C02585;06/04/2025;Segunda via de boleto;Telefone
+C02585;17/08/2025;Negociacao de divida;Telefone
+C02587;05/02/2026;Solicitacao de assistencia tecnica;Telefone
+C02587;11/02/2026;Negociacao de divida;Telefone
+C02588;15/03/2026;Atualizacao cadastral;Telefone
+C02591;02/06/2025;Duvida sobre produto;WhatsApp
+C02591;02/03/2026;Negociacao de divida;WhatsApp
+C02592;04/12/2025;Duvida sobre produto;Site
+C02596;03/09/2025;Atualizacao cadastral;Telefone
+C02597;21/07/2024;Segunda via de boleto;Telefone
+C02598;14/05/2025;Reclamacao de entrega;Site
+C02598;09/11/2025;Negociacao de divida;Telefone
+C02599;25/02/2026;Solicitacao de assistencia tecnica;Site
+C02601;14/11/2025;Segunda via de boleto;Telefone
+C02603;22/11/2025;Segunda via de boleto;Loja
+C02604;04/11/2025;Segunda via de boleto;Loja
+C02604;29/01/2026;Negociacao de divida;Telefone
+C02605;17/12/2025;Segunda via de boleto;Loja
+C02607;01/06/2025;Segunda via de boleto;Telefone
+C02608;07/02/2026;Negociacao de divida;Telefone
+C02610;30/06/2025;Segunda via de boleto;Loja
+C02610;18/08/2025;Negociacao de divida;Telefone
+C02611;06/07/2025;Segunda via de boleto;WhatsApp
+C02611;27/09/2025;Segunda via de boleto;Telefone
+C02611;05/11/2025;Segunda via de boleto;Loja
+C02613;23/06/2025;Reclamacao de entrega;Telefone
+C02613;31/10/2025;Negociacao de divida;Telefone
+C02614;23/09/2025;Solicitacao de assistencia tecnica;WhatsApp
+C02614;08/11/2025;Segunda via de boleto;Loja
+C02615;10/01/2026;Negociacao de divida;WhatsApp
+C02616;04/05/2025;Segunda via de boleto;Telefone
+C02616;21/08/2025;Reclamacao de entrega;Telefone
+C02616;09/01/2026;Negociacao de divida;Telefone
+C02617;28/09/2025;Segunda via de boleto;Telefone
+C02618;05/06/2025;Duvida sobre produto;Telefone
+C02619;05/02/2026;Negociacao de divida;Telefone
+C02622;20/01/2026;Negociacao de divida;Telefone
+C02623;29/12/2025;Segunda via de boleto;WhatsApp
+C02624;10/03/2025;Segunda via de boleto;WhatsApp
+C02625;01/11/2025;Segunda via de boleto;Telefone
+C02628;08/02/2026;Atualizacao cadastral;Telefone
+C02629;12/06/2025;Reclamacao de entrega;Loja
+C02629;30/08/2025;Segunda via de boleto;Telefone
+C02631;01/07/2025;Segunda via de boleto;Loja
+C02631;29/09/2025;Segunda via de boleto;Loja
+C02631;12/11/2025;Solicitacao de assistencia tecnica;Site
+C02633;20/02/2025;Negociacao de divida;Telefone
+C02636;12/07/2025;Segunda via de boleto;Telefone
+C02636;29/09/2025;Segunda via de boleto;Loja
+C02638;06/08/2025;Segunda via de boleto;Telefone
+C02641;18/01/2026;Solicitacao de assistencia tecnica;Telefone
+C02643;04/01/2025;Reclamacao de entrega;Site
+C02644;31/12/2025;Reclamacao de entrega;Site
+C02647;29/01/2026;Segunda via de boleto;Loja
+C02649;13/11/2025;Atualizacao cadastral;WhatsApp
+C02649;02/12/2025;Segunda via de boleto;Loja
+C02650;07/12/2025;Segunda via de boleto;Loja
+C02651;02/11/2025;Segunda via de boleto;Loja
+C02654;30/07/2025;Atualizacao cadastral;WhatsApp
+C02655;13/11/2025;Segunda via de boleto;Loja
+C02655;28/02/2026;Negociacao de divida;WhatsApp
+C02656;14/09/2025;Reclamacao de entrega;Loja
+C02657;17/09/2025;Segunda via de boleto;WhatsApp
+C02657;06/12/2025;Segunda via de boleto;Telefone
+C02658;23/10/2025;Segunda via de boleto;Telefone
+C02659;12/09/2025;Atualizacao cadastral;WhatsApp
+C02659;24/10/2025;Segunda via de boleto;WhatsApp
+C02661;20/01/2025;Reclamacao de entrega;WhatsApp
+C02663;03/11/2025;Segunda via de boleto;Telefone
+C02663;02/01/2026;Segunda via de boleto;WhatsApp
+C02664;12/09/2025;Segunda via de boleto;Telefone
+C02664;31/12/2025;Solicitacao de assistencia tecnica;Site
+C02665;10/02/2026;Negociacao de divida;WhatsApp
+C02667;09/07/2025;Segunda via de boleto;Telefone
+C02668;08/09/2025;Segunda via de boleto;WhatsApp
+C02669;24/12/2025;Atualizacao cadastral;Loja
+C02669;26/01/2026;Reclamacao de entrega;Telefone
+C02669;12/02/2026;Solicitacao de assistencia tecnica;Telefone
+C02672;04/08/2025;Segunda via de boleto;WhatsApp
+C02672;16/10/2025;Duvida sobre produto;Site
+C02672;06/12/2025;Segunda via de boleto;Telefone
+C02673;07/10/2025;Reclamacao de entrega;Site
+C02674;08/12/2025;Atualizacao cadastral;Loja
+C02675;25/01/2025;Segunda via de boleto;Telefone
+C02677;02/05/2025;Solicitacao de assistencia tecnica;Loja
+C02677;14/07/2025;Segunda via de boleto;Telefone
+C02678;13/07/2025;Segunda via de boleto;WhatsApp
+C02678;13/10/2025;Segunda via de boleto;Loja
+C02678;29/10/2025;Segunda via de boleto;WhatsApp
+C02681;04/07/2025;Atualizacao cadastral;Site
+C02681;16/10/2025;Segunda via de boleto;WhatsApp
+C02684;08/02/2026;Negociacao de divida;Telefone
+C02685;12/08/2025;Segunda via de boleto;WhatsApp
+C02685;15/08/2025;Duvida sobre produto;WhatsApp
+C02685;13/09/2025;Segunda via de boleto;WhatsApp
+C02686;10/03/2026;Negociacao de divida;WhatsApp
+C02688;25/08/2025;Segunda via de boleto;Loja
+C02690;02/12/2025;Solicitacao de assistencia tecnica;Site
+C02690;05/03/2026;Negociacao de divida;WhatsApp
+C02695;09/02/2025;Atualizacao cadastral;Site
+C02696;19/02/2026;Negociacao de divida;Telefone
+C02697;17/02/2026;Reclamacao de entrega;Telefone
+C02698;27/01/2026;Duvida sobre produto;Loja
+C02699;21/07/2025;Segunda via de boleto;Telefone
+C02699;23/09/2025;Segunda via de boleto;WhatsApp
+C02700;26/08/2025;Segunda via de boleto;WhatsApp
+C02701;07/12/2025;Reclamacao de entrega;WhatsApp
+C02701;10/01/2026;Reclamacao de entrega;Site
+C02702;20/07/2025;Segunda via de boleto;WhatsApp
+C02702;05/02/2026;Reclamacao de entrega;Site
+C02703;02/01/2026;Reclamacao de entrega;Loja
+C02704;02/08/2025;Atualizacao cadastral;Loja
+C02704;29/09/2025;Negociacao de divida;Telefone
+C02706;14/07/2025;Segunda via de boleto;Telefone
+C02709;25/08/2025;Segunda via de boleto;Telefone
+C02709;02/12/2025;Atualizacao cadastral;Loja
+C02709;25/01/2026;Negociacao de divida;WhatsApp
+C02711;01/09/2025;Segunda via de boleto;Loja
+C02711;17/12/2025;Segunda via de boleto;Loja
+C02711;23/02/2026;Negociacao de divida;WhatsApp
+C02713;29/11/2025;Segunda via de boleto;Loja
+C02713;08/01/2026;Segunda via de boleto;Loja
+C02713;01/02/2026;Solicitacao de assistencia tecnica;Telefone
+C02713;08/03/2026;Negociacao de divida;Telefone
+C02714;05/05/2025;Solicitacao de assistencia tecnica;Loja
+C02714;14/06/2025;Reclamacao de entrega;Loja
+C02715;18/04/2025;Segunda via de boleto;WhatsApp
+C02715;10/10/2025;Negociacao de divida;Telefone
+C02717;20/10/2024;Segunda via de boleto;Telefone
+C02717;22/12/2024;Segunda via de boleto;WhatsApp
+C02717;07/01/2025;Segunda via de boleto;Telefone
+C02717;08/04/2025;Negociacao de divida;Telefone
+C02717;25/04/2025;Reclamacao de entrega;Site
+C02718;02/12/2025;Atualizacao cadastral;WhatsApp
+C02718;14/12/2025;Segunda via de boleto;Loja
+C02719;16/05/2025;Duvida sobre produto;Telefone
+C02719;09/02/2026;Negociacao de divida;Telefone
+C02720;19/03/2025;Segunda via de boleto;Loja
+C02722;26/08/2025;Duvida sobre produto;WhatsApp
+C02725;24/04/2025;Duvida sobre produto;Telefone
+C02726;18/12/2025;Segunda via de boleto;WhatsApp
+C02727;23/09/2025;Segunda via de boleto;Telefone
+C02727;26/10/2025;Atualizacao cadastral;Loja
+C02727;11/12/2025;Solicitacao de assistencia tecnica;Site
+C02732;26/02/2026;Negociacao de divida;WhatsApp
+C02733;12/06/2025;Segunda via de boleto;Loja
+C02734;11/11/2025;Solicitacao de assistencia tecnica;Site
+C02734;13/03/2026;Atualizacao cadastral;Site
+C02735;14/02/2025;Segunda via de boleto;WhatsApp
+C02735;29/05/2025;Atualizacao cadastral;Site
+C02738;24/03/2025;Segunda via de boleto;Loja
+C02738;22/04/2025;Negociacao de divida;Telefone
+C02739;17/09/2025;Duvida sobre produto;WhatsApp
+C02739;25/10/2025;Solicitacao de assistencia tecnica;Loja
+C02742;12/03/2025;Solicitacao de assistencia tecnica;Telefone
+C02742;01/09/2025;Atualizacao cadastral;Site
+C02743;05/02/2025;Negociacao de divida;Telefone
+C02744;22/08/2025;Segunda via de boleto;Telefone
+C02750;08/08/2025;Segunda via de boleto;Loja
+C02750;03/10/2025;Negociacao de divida;Telefone
+C02756;17/08/2025;Atualizacao cadastral;Telefone
+C02757;25/02/2026;Negociacao de divida;Telefone
+C02758;09/08/2025;Segunda via de boleto;Loja
+C02758;17/10/2025;Segunda via de boleto;Loja
+C02758;27/02/2026;Negociacao de divida;WhatsApp
+C02760;05/10/2025;Segunda via de boleto;WhatsApp
+C02761;05/05/2025;Solicitacao de assistencia tecnica;Site
+C02761;16/07/2025;Segunda via de boleto;Telefone
+C02762;15/02/2026;Atualizacao cadastral;Site
+C02763;15/07/2025;Reclamacao de entrega;Loja
+C02763;24/08/2025;Segunda via de boleto;Telefone
+C02765;16/09/2025;Segunda via de boleto;Telefone
+C02765;03/02/2026;Negociacao de divida;Telefone
+C02766;24/01/2026;Negociacao de divida;Telefone
+C02767;03/02/2025;Atualizacao cadastral;Loja
+C02768;08/01/2026;Segunda via de boleto;Loja
+C02769;23/10/2025;Reclamacao de entrega;Site
+C02769;04/11/2025;Negociacao de divida;Telefone
+C02771;08/11/2025;Segunda via de boleto;Telefone
+C02772;26/10/2025;Segunda via de boleto;Telefone
+C02772;27/02/2026;Negociacao de divida;Telefone
+C02775;10/09/2025;Reclamacao de entrega;Site
+C02775;13/02/2026;Negociacao de divida;WhatsApp
+C02776;25/06/2025;Duvida sobre produto;Loja
+C02777;18/09/2025;Segunda via de boleto;Loja
+C02779;02/06/2025;Solicitacao de assistencia tecnica;Loja
+C02781;01/05/2025;Atualizacao cadastral;WhatsApp
+C02781;30/06/2025;Solicitacao de assistencia tecnica;Site
+C02781;15/08/2025;Segunda via de boleto;WhatsApp
+C02782;16/05/2025;Atualizacao cadastral;WhatsApp
+C02783;11/02/2026;Negociacao de divida;Telefone
+C02784;12/08/2025;Atualizacao cadastral;Loja
+C02785;18/11/2025;Segunda via de boleto;Loja
+C02785;20/01/2026;Duvida sobre produto;Telefone
+C02786;19/02/2026;Reclamacao de entrega;Site
+C02787;22/05/2025;Segunda via de boleto;WhatsApp
+C02787;30/07/2025;Segunda via de boleto;Telefone
+C02787;06/01/2026;Negociacao de divida;WhatsApp
+C02788;16/09/2025;Segunda via de boleto;Telefone
+C02788;27/09/2025;Segunda via de boleto;WhatsApp
+C02788;09/10/2025;Duvida sobre produto;Telefone
+C02789;31/01/2026;Segunda via de boleto;Telefone
+C02792;20/04/2025;Solicitacao de assistencia tecnica;Site
+C02792;08/06/2025;Reclamacao de entrega;Telefone
+C02792;28/06/2025;Solicitacao de assistencia tecnica;Loja
+C02792;04/08/2025;Solicitacao de assistencia tecnica;Telefone
+C02792;13/11/2025;Duvida sobre produto;Telefone
+C02795;05/01/2025;Segunda via de boleto;WhatsApp
+C02795;07/03/2025;Segunda via de boleto;Telefone
+C02795;17/04/2025;Segunda via de boleto;WhatsApp
+C02795;13/06/2025;Negociacao de divida;Telefone
+C02797;07/07/2025;Atualizacao cadastral;Telefone
+C02797;01/10/2025;Segunda via de boleto;WhatsApp
+C02797;09/12/2025;Negociacao de divida;WhatsApp
+C02798;08/12/2025;Segunda via de boleto;WhatsApp
+C02802;18/08/2025;Duvida sobre produto;WhatsApp
+C02802;07/02/2026;Negociacao de divida;WhatsApp
+C02804;31/07/2025;Solicitacao de assistencia tecnica;Site
+C02806;22/08/2025;Negociacao de divida;Telefone
+C02807;26/09/2025;Segunda via de boleto;Telefone
+C02807;25/12/2025;Segunda via de boleto;WhatsApp
+C02807;01/01/2026;Atualizacao cadastral;Telefone
+C02807;13/02/2026;Negociacao de divida;Telefone
+C02808;22/04/2025;Segunda via de boleto;WhatsApp
+C02809;24/10/2025;Duvida sobre produto;WhatsApp
+C02809;30/10/2025;Segunda via de boleto;WhatsApp
+C02809;18/11/2025;Segunda via de boleto;Loja
+C02809;27/02/2026;Negociacao de divida;Telefone
+C02810;27/08/2025;Segunda via de boleto;WhatsApp
+C02810;25/09/2025;Segunda via de boleto;Telefone
+C02811;05/09/2025;Segunda via de boleto;Telefone
+C02811;19/12/2025;Reclamacao de entrega;WhatsApp
+C02811;23/12/2025;Solicitacao de assistencia tecnica;Loja
+C02812;31/08/2025;Segunda via de boleto;Telefone
+C02815;09/09/2025;Segunda via de boleto;Telefone
+C02816;08/06/2025;Atualizacao cadastral;Telefone
+C02817;06/09/2025;Segunda via de boleto;Loja
+C02817;01/11/2025;Duvida sobre produto;Site
+C02818;07/04/2025;Solicitacao de assistencia tecnica;Telefone
+C02821;05/10/2025;Segunda via de boleto;Telefone
+C02821;14/12/2025;Segunda via de boleto;Telefone
+C02824;19/12/2024;Reclamacao de entrega;Loja
+C02826;03/03/2026;Negociacao de divida;WhatsApp
+C02828;14/11/2025;Segunda via de boleto;Telefone
+C02828;28/01/2026;Segunda via de boleto;WhatsApp
+C02830;15/02/2026;Negociacao de divida;WhatsApp
+C02832;13/01/2026;Duvida sobre produto;Site
+C02833;26/08/2025;Segunda via de boleto;WhatsApp
+C02834;16/05/2025;Segunda via de boleto;WhatsApp
+C02834;03/02/2026;Duvida sobre produto;Site
+C02835;07/03/2026;Atualizacao cadastral;Site
+C02837;13/03/2026;Negociacao de divida;Telefone
+C02838;26/01/2025;Solicitacao de assistencia tecnica;Site
+C02838;05/09/2025;Segunda via de boleto;Loja
+C02838;28/10/2025;Negociacao de divida;WhatsApp
+C02839;28/11/2024;Segunda via de boleto;Telefone
+C02840;05/09/2025;Segunda via de boleto;Telefone
+C02841;17/10/2025;Segunda via de boleto;Loja
+C02841;03/12/2025;Segunda via de boleto;WhatsApp
+C02841;03/02/2026;Negociacao de divida;Telefone
+C02843;12/01/2026;Solicitacao de assistencia tecnica;WhatsApp
+C02844;20/09/2025;Segunda via de boleto;Telefone
+C02844;21/11/2025;Segunda via de boleto;Loja
+C02844;29/11/2025;Segunda via de boleto;Telefone
+C02844;09/03/2026;Negociacao de divida;WhatsApp
+C02846;14/12/2025;Segunda via de boleto;WhatsApp
+C02846;23/12/2025;Segunda via de boleto;Telefone
+C02848;21/06/2025;Duvida sobre produto;WhatsApp
+C02848;16/07/2025;Atualizacao cadastral;Loja
+C02850;16/02/2025;Reclamacao de entrega;Site
+C02850;14/05/2025;Duvida sobre produto;Site
+C02850;25/08/2025;Duvida sobre produto;Site
+C02851;15/05/2025;Duvida sobre produto;Site
+C02854;10/12/2025;Negociacao de divida;WhatsApp
+C02854;25/01/2026;Atualizacao cadastral;Site
+C02855;03/04/2025;Reclamacao de entrega;WhatsApp
+C02855;14/06/2025;Segunda via de boleto;Loja
+C02855;19/09/2025;Atualizacao cadastral;Site
+C02856;14/06/2025;Atualizacao cadastral;Telefone
+C02860;28/12/2025;Segunda via de boleto;Loja
+C02862;09/08/2025;Segunda via de boleto;WhatsApp
+C02863;16/04/2025;Solicitacao de assistencia tecnica;Loja
+C02863;03/06/2025;Segunda via de boleto;WhatsApp
+C02863;24/06/2025;Solicitacao de assistencia tecnica;WhatsApp
+C02863;30/10/2025;Reclamacao de entrega;Site
+C02864;20/05/2025;Reclamacao de entrega;Telefone
+C02864;26/05/2025;Negociacao de divida;WhatsApp
+C02865;27/10/2024;Solicitacao de assistencia tecnica;WhatsApp
+C02865;16/11/2024;Reclamacao de entrega;Site
+C02866;17/03/2025;Solicitacao de assistencia tecnica;Telefone
+C02867;03/06/2025;Atualizacao cadastral;Telefone
+C02868;06/09/2025;Segunda via de boleto;WhatsApp
+C02868;27/09/2025;Segunda via de boleto;WhatsApp
+C02868;30/10/2025;Duvida sobre produto;Loja
+C02868;20/12/2025;Segunda via de boleto;Telefone
+C02869;02/02/2026;Negociacao de divida;Telefone
+C02870;07/05/2025;Segunda via de boleto;WhatsApp
+C02870;07/08/2025;Reclamacao de entrega;Telefone
+C02870;22/08/2025;Negociacao de divida;Telefone
+C02872;19/01/2026;Reclamacao de entrega;Site
+C02874;10/12/2024;Segunda via de boleto;Telefone
+C02874;03/03/2025;Solicitacao de assistencia tecnica;Site
+C02875;07/04/2025;Atualizacao cadastral;Telefone
+C02877;28/11/2025;Segunda via de boleto;Loja
+C02880;05/06/2025;Segunda via de boleto;Telefone
+C02880;13/09/2025;Negociacao de divida;WhatsApp
+C02882;02/09/2025;Segunda via de boleto;WhatsApp
+C02882;09/02/2026;Negociacao de divida;Telefone
+C02883;03/04/2025;Atualizacao cadastral;WhatsApp
+C02884;01/12/2025;Solicitacao de assistencia tecnica;Site
+C02886;07/01/2026;Segunda via de boleto;WhatsApp
+C02886;13/01/2026;Segunda via de boleto;Telefone
+C02887;30/05/2025;Duvida sobre produto;Loja
+C02889;25/12/2025;Reclamacao de entrega;WhatsApp
+C02891;04/11/2025;Solicitacao de assistencia tecnica;WhatsApp
+C02892;11/10/2025;Reclamacao de entrega;Loja
+C02893;29/11/2025;Duvida sobre produto;WhatsApp
+C02893;08/12/2025;Atualizacao cadastral;WhatsApp
+C02895;14/02/2026;Negociacao de divida;Telefone
+C02896;08/10/2025;Solicitacao de assistencia tecnica;WhatsApp
+C02896;16/12/2025;Segunda via de boleto;WhatsApp
+C02896;02/01/2026;Segunda via de boleto;Telefone
+C02898;18/07/2025;Segunda via de boleto;Loja
+C02898;13/09/2025;Solicitacao de assistencia tecnica;Telefone
+C02899;19/06/2025;Solicitacao de assistencia tecnica;WhatsApp
+C02899;26/01/2026;Segunda via de boleto;Loja
+C02899;05/03/2026;Negociacao de divida;Telefone
+C02900;08/09/2025;Solicitacao de assistencia tecnica;WhatsApp
+C02901;05/11/2025;Segunda via de boleto;WhatsApp
+C02901;13/02/2026;Negociacao de divida;WhatsApp
+C02902;26/02/2025;Segunda via de boleto;Loja
+C02903;18/05/2025;Segunda via de boleto;WhatsApp
+C02904;12/02/2026;Negociacao de divida;WhatsApp
+C02905;03/10/2025;Segunda via de boleto;Loja
+C02906;28/11/2025;Segunda via de boleto;WhatsApp
+C02906;07/03/2026;Negociacao de divida;Telefone
+C02907;16/06/2025;Reclamacao de entrega;Telefone
+C02908;31/12/2025;Reclamacao de entrega;Telefone
+C02908;12/02/2026;Negociacao de divida;WhatsApp
+C02910;21/08/2025;Atualizacao cadastral;Telefone
+C02910;29/09/2025;Segunda via de boleto;WhatsApp
+C02911;04/09/2025;Segunda via de boleto;Loja
+C02912;26/08/2025;Reclamacao de entrega;Site
+C02912;14/02/2026;Negociacao de divida;WhatsApp
+C02913;13/12/2025;Atualizacao cadastral;Loja
+C02913;25/12/2025;Duvida sobre produto;Loja
+C02914;28/11/2025;Segunda via de boleto;Loja
+C02915;12/01/2025;Segunda via de boleto;Telefone
+C02916;02/06/2025;Reclamacao de entrega;Site
+C02917;30/03/2025;Duvida sobre produto;Telefone
+C02917;09/08/2025;Segunda via de boleto;Telefone
+C02919;14/11/2025;Segunda via de boleto;Loja
+C02919;10/02/2026;Negociacao de divida;WhatsApp
+C02920;19/07/2025;Segunda via de boleto;WhatsApp
+C02920;09/10/2025;Duvida sobre produto;Telefone
+C02920;30/12/2025;Duvida sobre produto;Site
+C02920;15/02/2026;Negociacao de divida;Telefone
+C02921;20/10/2024;Reclamacao de entrega;Site
+C02921;26/11/2024;Atualizacao cadastral;Site
+C02922;13/04/2025;Duvida sobre produto;Loja
+C02923;21/08/2025;Duvida sobre produto;Site
+C02923;22/08/2025;Segunda via de boleto;WhatsApp
+C02923;17/09/2025;Segunda via de boleto;Loja
+C02925;13/10/2025;Atualizacao cadastral;Site
+C02925;16/11/2025;Segunda via de boleto;Loja
+C02925;20/02/2026;Negociacao de divida;WhatsApp
+C02929;16/07/2025;Negociacao de divida;Telefone
+C02930;04/07/2025;Reclamacao de entrega;Site
+C02931;12/03/2026;Negociacao de divida;WhatsApp
+C02934;11/09/2025;Segunda via de boleto;Telefone
+C02934;06/10/2025;Reclamacao de entrega;Telefone
+C02935;20/08/2024;Reclamacao de entrega;WhatsApp
+C02937;21/11/2025;Segunda via de boleto;Telefone
+C02937;12/01/2026;Segunda via de boleto;Telefone
+C02937;31/01/2026;Negociacao de divida;Telefone
+C02940;28/10/2025;Duvida sobre produto;Site
+C02940;06/03/2026;Negociacao de divida;WhatsApp
+C02941;25/12/2024;Solicitacao de assistencia tecnica;Site
+C02941;03/01/2025;Segunda via de boleto;Telefone
+C02942;07/11/2024;Solicitacao de assistencia tecnica;Telefone
+C02942;31/12/2024;Duvida sobre produto;WhatsApp
+C02943;22/02/2025;Reclamacao de entrega;Site
+C02944;09/09/2025;Segunda via de boleto;WhatsApp
+C02944;05/10/2025;Segunda via de boleto;Loja
+C02947;03/02/2025;Atualizacao cadastral;WhatsApp
+C02947;30/04/2025;Segunda via de boleto;Loja
+C02948;29/01/2026;Segunda via de boleto;Loja
+C02949;10/03/2025;Solicitacao de assistencia tecnica;WhatsApp
+C02949;27/01/2026;Negociacao de divida;WhatsApp
+C02951;14/10/2025;Segunda via de boleto;Telefone
+C02952;28/10/2025;Segunda via de boleto;WhatsApp
+C02952;16/02/2026;Negociacao de divida;WhatsApp
+C02952;06/03/2026;Atualizacao cadastral;Site
+C02954;14/08/2025;Segunda via de boleto;Loja
+C02955;18/08/2025;Segunda via de boleto;Loja
+C02955;03/01/2026;Segunda via de boleto;WhatsApp
+C02955;04/02/2026;Duvida sobre produto;Site
+C02955;09/02/2026;Negociacao de divida;WhatsApp
+C02958;30/05/2025;Reclamacao de entrega;Site
+C02958;12/01/2026;Negociacao de divida;Telefone
+C02960;21/09/2025;Segunda via de boleto;WhatsApp
+C02961;06/01/2025;Reclamacao de entrega;Loja
+C02961;02/06/2025;Segunda via de boleto;WhatsApp
+C02961;26/07/2025;Segunda via de boleto;WhatsApp
+C02962;04/03/2025;Reclamacao de entrega;Site
+C02962;20/05/2025;Segunda via de boleto;Telefone
+C02962;22/09/2025;Solicitacao de assistencia tecnica;WhatsApp
+C02962;02/12/2025;Atualizacao cadastral;Loja
+C02963;23/10/2025;Segunda via de boleto;Telefone
+C02965;18/12/2025;Segunda via de boleto;Telefone
+C02965;28/02/2026;Negociacao de divida;WhatsApp
+C02966;01/08/2025;Atualizacao cadastral;Site
+C02968;12/11/2024;Segunda via de boleto;WhatsApp
+C02968;09/06/2025;Negociacao de divida;WhatsApp
+C02968;03/08/2025;Atualizacao cadastral;Site
+C02970;05/09/2025;Segunda via de boleto;Loja
+C02971;28/07/2025;Segunda via de boleto;Loja
+C02973;19/08/2025;Segunda via de boleto;Telefone
+C02973;25/01/2026;Negociacao de divida;WhatsApp
+C02974;21/03/2025;Duvida sobre produto;Site
+C02974;21/06/2025;Segunda via de boleto;Loja
+C02974;18/10/2025;Segunda via de boleto;WhatsApp
+C02974;29/12/2025;Solicitacao de assistencia tecnica;Site
+C02975;23/03/2025;Segunda via de boleto;Telefone
+C02975;19/09/2025;Negociacao de divida;WhatsApp
+C02975;06/10/2025;Solicitacao de assistencia tecnica;Site
+C02976;04/09/2025;Segunda via de boleto;WhatsApp
+C02976;10/11/2025;Segunda via de boleto;Loja
+C02976;13/02/2026;Negociacao de divida;WhatsApp
+C02977;16/08/2025;Reclamacao de entrega;Telefone
+C02977;20/10/2025;Segunda via de boleto;Loja
+C02977;21/10/2025;Segunda via de boleto;Telefone
+C02977;12/03/2026;Negociacao de divida;WhatsApp
+C02978;22/01/2026;Negociacao de divida;Telefone
+C02979;26/11/2025;Segunda via de boleto;WhatsApp
+C02980;14/01/2026;Segunda via de boleto;Loja
+C02981;02/09/2025;Duvida sobre produto;Loja
+C02981;21/01/2026;Atualizacao cadastral;Telefone
+C02983;05/10/2025;Duvida sobre produto;Loja
+C02984;14/02/2026;Solicitacao de assistencia tecnica;Telefone
+C02988;02/03/2026;Negociacao de divida;Telefone
+C02990;31/01/2026;Solicitacao de assistencia tecnica;Site
+C02992;21/08/2025;Segunda via de boleto;Telefone
+C02992;09/02/2026;Negociacao de divida;WhatsApp
+C02995;29/12/2025;Segunda via de boleto;WhatsApp
+C02995;22/02/2026;Negociacao de divida;Telefone
+C02996;08/12/2025;Solicitacao de assistencia tecnica;Loja
+C02997;24/10/2025;Solicitacao de assistencia tecnica;Site
+C02997;19/12/2025;Segunda via de boleto;WhatsApp
+C02999;30/07/2025;Duvida sobre produto;Site
+C03000;10/02/2026;Negociacao de divida;WhatsApp
+C03001;13/03/2026;Negociacao de divida;Telefone
+C03002;01/06/2025;Segunda via de boleto;Telefone
+C03002;23/10/2025;Segunda via de boleto;Telefone
+C03002;28/10/2025;Duvida sobre produto;Telefone
+C03004;26/01/2025;Solicitacao de assistencia tecnica;Site
+C03004;08/02/2025;Negociacao de divida;WhatsApp
+C03005;26/03/2025;Solicitacao de assistencia tecnica;Loja
+C03007;03/11/2024;Segunda via de boleto;Telefone
+C03008;02/03/2026;Negociacao de divida;WhatsApp
+C03009;19/10/2025;Duvida sobre produto;WhatsApp
+C03009;01/11/2025;Segunda via de boleto;Telefone
+C03009;05/02/2026;Negociacao de divida;WhatsApp
+C03012;27/01/2026;Negociacao de divida;WhatsApp
+C03013;02/03/2026;Solicitacao de assistencia tecnica;Site
+C03014;13/08/2025;Segunda via de boleto;WhatsApp
+C03014;12/10/2025;Segunda via de boleto;Loja
+C03017;01/12/2025;Reclamacao de entrega;Site
+C03018;10/02/2026;Solicitacao de assistencia tecnica;Telefone
+C03020;23/06/2025;Atualizacao cadastral;Telefone
+C03020;15/07/2025;Negociacao de divida;WhatsApp
+C03021;15/10/2025;Atualizacao cadastral;WhatsApp
+C03023;03/08/2025;Reclamacao de entrega;Loja
+C03023;02/12/2025;Segunda via de boleto;Loja
+C03024;23/08/2024;Duvida sobre produto;Telefone
+C03024;18/09/2024;Reclamacao de entrega;Site
+C03026;03/10/2025;Negociacao de divida;WhatsApp
+C03028;29/08/2025;Solicitacao de assistencia tecnica;Site
+C03030;13/04/2025;Duvida sobre produto;Site
+C03030;14/11/2025;Atualizacao cadastral;Telefone
+C03031;10/07/2025;Atualizacao cadastral;Telefone
+C03031;29/08/2025;Segunda via de boleto;WhatsApp
+C03033;06/08/2025;Segunda via de boleto;WhatsApp
+C03034;10/08/2025;Segunda via de boleto;Telefone
+C03037;06/03/2026;Negociacao de divida;Telefone
+C03038;19/09/2025;Segunda via de boleto;Telefone
+C03038;08/11/2025;Atualizacao cadastral;Telefone
+C03038;29/11/2025;Duvida sobre produto;WhatsApp
+C03040;08/06/2025;Solicitacao de assistencia tecnica;Site
+C03040;30/06/2025;Duvida sobre produto;Loja
+C03043;27/04/2025;Atualizacao cadastral;Site
+C03048;14/05/2025;Segunda via de boleto;Loja
+C03048;28/05/2025;Segunda via de boleto;Telefone
+C03048;10/06/2025;Segunda via de boleto;Loja
+C03049;11/12/2025;Reclamacao de entrega;WhatsApp
+C03050;22/11/2024;Segunda via de boleto;WhatsApp
+C03050;12/03/2025;Negociacao de divida;Telefone
+C03052;28/02/2025;Reclamacao de entrega;WhatsApp
+C03052;15/05/2025;Reclamacao de entrega;Site
+C03052;20/09/2025;Atualizacao cadastral;WhatsApp
+C03054;21/12/2025;Reclamacao de entrega;Telefone
+C03054;22/12/2025;Solicitacao de assistencia tecnica;Loja
+C03055;13/08/2025;Negociacao de divida;WhatsApp
+C03056;23/12/2024;Segunda via de boleto;Loja
+C03056;07/06/2025;Negociacao de divida;Telefone
+C03058;14/04/2025;Reclamacao de entrega;Telefone
+C03059;22/08/2025;Segunda via de boleto;WhatsApp
+C03062;27/11/2025;Solicitacao de assistencia tecnica;Loja
+C03064;06/03/2026;Negociacao de divida;WhatsApp
+C03065;04/02/2026;Negociacao de divida;WhatsApp
+C03066;18/10/2024;Atualizacao cadastral;Telefone
+C03070;02/12/2025;Segunda via de boleto;Loja
+C03070;23/12/2025;Segunda via de boleto;Loja
+C03070;20/02/2026;Negociacao de divida;WhatsApp
+C03071;07/06/2025;Solicitacao de assistencia tecnica;Loja
+C03073;24/04/2025;Segunda via de boleto;Telefone
+C03073;09/09/2025;Negociacao de divida;WhatsApp
+C03074;22/11/2025;Segunda via de boleto;Loja
+C03076;05/06/2025;Solicitacao de assistencia tecnica;Site
+C03076;13/10/2025;Reclamacao de entrega;WhatsApp
+C03076;30/12/2025;Segunda via de boleto;WhatsApp
+C03078;29/03/2025;Atualizacao cadastral;Loja
+C03081;19/11/2025;Solicitacao de assistencia tecnica;Telefone
+C03081;24/11/2025;Segunda via de boleto;Telefone
+C03081;10/01/2026;Reclamacao de entrega;Telefone
+C03082;02/10/2025;Segunda via de boleto;Loja
+C03082;12/11/2025;Segunda via de boleto;Loja
+C03082;02/12/2025;Segunda via de boleto;WhatsApp
+C03082;01/03/2026;Negociacao de divida;WhatsApp
+C03084;17/09/2025;Reclamacao de entrega;Loja
+C03084;27/10/2025;Reclamacao de entrega;WhatsApp
+C03086;07/07/2025;Segunda via de boleto;WhatsApp
+C03089;13/08/2025;Segunda via de boleto;Telefone
+C03091;05/09/2025;Reclamacao de entrega;WhatsApp
+C03091;10/02/2026;Negociacao de divida;Telefone
+C03092;12/02/2026;Reclamacao de entrega;Telefone
+C03096;03/04/2025;Solicitacao de assistencia tecnica;Site
+C03096;14/04/2025;Segunda via de boleto;Loja
+C03098;16/11/2025;Reclamacao de entrega;Telefone
+C03100;10/02/2026;Negociacao de divida;WhatsApp
+C03102;19/01/2025;Segunda via de boleto;WhatsApp
+C03102;21/02/2025;Segunda via de boleto;Loja
+C03102;10/06/2025;Reclamacao de entrega;Loja
+C03103;06/02/2025;Segunda via de boleto;Loja
+C03103;22/07/2025;Negociacao de divida;WhatsApp
+C03104;29/06/2025;Segunda via de boleto;Loja
+C03104;09/01/2026;Segunda via de boleto;Loja
+C03104;19/02/2026;Negociacao de divida;Telefone
+C03106;21/05/2025;Segunda via de boleto;Loja
+C03106;18/11/2025;Atualizacao cadastral;Site
+C03107;09/01/2026;Segunda via de boleto;Loja
+C03109;06/03/2026;Negociacao de divida;WhatsApp
+C03110;19/11/2024;Reclamacao de entrega;WhatsApp
+C03110;24/07/2025;Negociacao de divida;Telefone
+C03110;09/09/2025;Reclamacao de entrega;Telefone
+C03112;07/04/2025;Segunda via de boleto;Telefone
+C03112;06/07/2025;Segunda via de boleto;WhatsApp
+C03112;02/10/2025;Segunda via de boleto;Telefone
+C03113;01/07/2025;Segunda via de boleto;Loja
+C03115;24/07/2025;Segunda via de boleto;WhatsApp
+C03115;28/08/2025;Atualizacao cadastral;WhatsApp
+C03115;10/11/2025;Segunda via de boleto;WhatsApp
+C03115;02/02/2026;Negociacao de divida;WhatsApp
+C03115;02/02/2026;Solicitacao de assistencia tecnica;Site
+C03126;26/02/2025;Solicitacao de assistencia tecnica;Loja
+C03128;11/08/2025;Reclamacao de entrega;Site
+C03136;13/07/2025;Segunda via de boleto;Telefone
+C03136;27/08/2025;Segunda via de boleto;WhatsApp
+C03137;25/02/2025;Segunda via de boleto;Telefone
+C03137;04/03/2025;Atualizacao cadastral;WhatsApp
+C03137;16/04/2025;Reclamacao de entrega;Telefone
+C03138;04/03/2026;Duvida sobre produto;Site
+C03139;21/09/2025;Segunda via de boleto;WhatsApp
+C03139;26/09/2025;Segunda via de boleto;Telefone
+C03143;02/02/2026;Reclamacao de entrega;Site
+C03144;13/09/2025;Segunda via de boleto;WhatsApp
+C03145;15/02/2026;Reclamacao de entrega;Telefone
+C03146;07/08/2025;Segunda via de boleto;Loja
+C03146;01/12/2025;Duvida sobre produto;Telefone
+C03149;01/07/2025;Reclamacao de entrega;WhatsApp
+C03150;11/08/2025;Reclamacao de entrega;Site
+C03151;27/07/2025;Segunda via de boleto;Telefone
+C03151;06/09/2025;Duvida sobre produto;Site
+C03155;03/04/2025;Segunda via de boleto;WhatsApp
+C03157;26/02/2026;Negociacao de divida;Telefone
+C03158;31/12/2025;Segunda via de boleto;Loja
+C03158;12/01/2026;Segunda via de boleto;WhatsApp
+C03158;25/02/2026;Negociacao de divida;WhatsApp
+C03161;22/02/2025;Segunda via de boleto;WhatsApp
+C03161;16/05/2025;Segunda via de boleto;Telefone
+C03162;16/06/2025;Negociacao de divida;WhatsApp
+C03163;19/10/2025;Negociacao de divida;WhatsApp
+C03164;18/08/2025;Reclamacao de entrega;Loja
+C03164;20/01/2026;Segunda via de boleto;WhatsApp
+C03164;17/02/2026;Negociacao de divida;WhatsApp
+C03165;28/01/2026;Negociacao de divida;WhatsApp
+C03169;04/09/2025;Reclamacao de entrega;WhatsApp
+C03169;31/10/2025;Segunda via de boleto;Loja
+C03169;08/11/2025;Segunda via de boleto;WhatsApp
+C03169;01/03/2026;Negociacao de divida;Telefone
+C03171;20/07/2025;Segunda via de boleto;Loja
+C03172;16/08/2025;Segunda via de boleto;Telefone
+C03172;31/08/2025;Solicitacao de assistencia tecnica;Telefone
+C03172;22/01/2026;Segunda via de boleto;Loja
+C03172;08/03/2026;Negociacao de divida;Telefone
+C03173;23/02/2026;Negociacao de divida;Telefone
+C03174;28/07/2025;Segunda via de boleto;WhatsApp
+C03174;15/11/2025;Segunda via de boleto;Loja
+C03174;23/02/2026;Negociacao de divida;Telefone
+C03176;25/08/2025;Segunda via de boleto;Loja
+C03176;15/12/2025;Reclamacao de entrega;Site
+C03180;10/07/2025;Segunda via de boleto;Loja
+C03180;08/11/2025;Segunda via de boleto;WhatsApp
+C03180;04/03/2026;Negociacao de divida;WhatsApp
+C03181;06/06/2025;Atualizacao cadastral;Telefone
+C03182;27/12/2025;Solicitacao de assistencia tecnica;WhatsApp
+C03183;16/12/2025;Reclamacao de entrega;WhatsApp
+C03185;22/11/2024;Solicitacao de assistencia tecnica;Loja
+C03185;24/12/2024;Segunda via de boleto;WhatsApp
+C03185;27/01/2025;Reclamacao de entrega;WhatsApp
+C03185;03/05/2025;Segunda via de boleto;Telefone
+C03185;22/06/2025;Segunda via de boleto;Telefone
+C03185;10/07/2025;Negociacao de divida;Telefone
+C03186;28/11/2024;Segunda via de boleto;Telefone
+C03186;16/07/2025;Duvida sobre produto;Site
+C03187;28/06/2025;Segunda via de boleto;WhatsApp
+C03187;31/01/2026;Atualizacao cadastral;Site
+C03188;13/06/2025;Duvida sobre produto;WhatsApp
+C03188;18/10/2025;Segunda via de boleto;Telefone
+C03188;10/03/2026;Negociacao de divida;Telefone
+C03190;23/06/2025;Segunda via de boleto;Loja
+C03191;19/01/2026;Negociacao de divida;Telefone
+C03196;19/02/2025;Duvida sobre produto;Site
+C03196;19/06/2025;Segunda via de boleto;WhatsApp
+C03199;31/10/2025;Segunda via de boleto;WhatsApp
+C03200;22/04/2025;Segunda via de boleto;Telefone
+C03202;10/07/2025;Solicitacao de assistencia tecnica;WhatsApp
+C03202;27/07/2025;Segunda via de boleto;Loja
+C03202;09/11/2025;Segunda via de boleto;Telefone
+C03202;11/11/2025;Segunda via de boleto;Telefone
+C03203;15/07/2025;Segunda via de boleto;Telefone
+C03203;24/07/2025;Segunda via de boleto;Telefone
+C03204;25/09/2024;Atualizacao cadastral;Site
+C03204;30/05/2025;Negociacao de divida;WhatsApp
+C03205;16/07/2025;Segunda via de boleto;WhatsApp
+C03205;30/01/2026;Negociacao de divida;WhatsApp
+C03206;17/06/2025;Negociacao de divida;WhatsApp
+C03206;27/07/2025;Atualizacao cadastral;Site
+C03207;17/02/2026;Negociacao de divida;WhatsApp
+C03208;26/04/2025;Atualizacao cadastral;Site
+C03209;07/09/2025;Duvida sobre produto;Loja
+C03209;08/01/2026;Solicitacao de assistencia tecnica;Loja
+C03210;27/01/2025;Segunda via de boleto;Telefone
+C03210;04/06/2025;Atualizacao cadastral;Site
+C03210;15/06/2025;Segunda via de boleto;WhatsApp
+C03210;06/07/2025;Atualizacao cadastral;WhatsApp
+C03210;25/08/2025;Negociacao de divida;WhatsApp
+C03211;29/07/2025;Reclamacao de entrega;WhatsApp
+C03218;02/03/2025;Segunda via de boleto;WhatsApp
+C03219;06/02/2026;Solicitacao de assistencia tecnica;Telefone
+C03219;08/02/2026;Negociacao de divida;WhatsApp
+C03220;15/10/2024;Atualizacao cadastral;Loja
+C03221;15/08/2025;Duvida sobre produto;Telefone
+C03222;12/02/2026;Negociacao de divida;Telefone
+C03223;15/02/2026;Negociacao de divida;WhatsApp
+C03224;17/12/2025;Reclamacao de entrega;WhatsApp
+C03228;16/06/2025;Segunda via de boleto;WhatsApp
+C03228;29/06/2025;Segunda via de boleto;WhatsApp
+C03230;25/01/2025;Atualizacao cadastral;Loja
+C03230;29/03/2025;Atualizacao cadastral;Site
+C03231;26/01/2025;Segunda via de boleto;Telefone
+C03231;21/02/2025;Solicitacao de assistencia tecnica;WhatsApp
+C03231;08/03/2025;Segunda via de boleto;Telefone
+C03231;02/06/2025;Segunda via de boleto;Telefone
+C03232;04/07/2025;Segunda via de boleto;Loja
+C03232;18/10/2025;Reclamacao de entrega;Site
+C03241;31/01/2026;Negociacao de divida;Telefone
+C03242;28/03/2025;Segunda via de boleto;Telefone
+C03242;25/07/2025;Reclamacao de entrega;Loja
+C03243;08/03/2026;Negociacao de divida;WhatsApp
+C03244;23/09/2025;Reclamacao de entrega;Telefone
+C03244;25/01/2026;Reclamacao de entrega;Telefone
+C03244;11/02/2026;Negociacao de divida;Telefone
+C03245;13/04/2025;Solicitacao de assistencia tecnica;Loja
+C03246;17/03/2025;Atualizacao cadastral;Loja
+C03247;16/01/2025;Segunda via de boleto;Loja
+C03247;24/05/2025;Negociacao de divida;WhatsApp
+C03248;27/01/2026;Segunda via de boleto;WhatsApp
+C03249;19/04/2025;Segunda via de boleto;WhatsApp
+C03249;05/05/2025;Segunda via de boleto;WhatsApp
+C03250;01/12/2025;Solicitacao de assistencia tecnica;Telefone
+C03250;25/12/2025;Segunda via de boleto;Telefone
+C03253;06/11/2025;Reclamacao de entrega;Site
+C03254;17/05/2025;Segunda via de boleto;Loja
+C03255;22/07/2025;Atualizacao cadastral;Telefone
+C03255;31/08/2025;Solicitacao de assistencia tecnica;Telefone
+C03256;02/10/2025;Negociacao de divida;WhatsApp
+C03259;05/05/2025;Solicitacao de assistencia tecnica;Telefone
+C03259;07/10/2025;Segunda via de boleto;Loja
+C03260;28/01/2026;Duvida sobre produto;Telefone
+C03261;12/10/2024;Duvida sobre produto;Site
+C03261;20/01/2025;Segunda via de boleto;Loja
+C03261;23/02/2025;Reclamacao de entrega;Loja
+C03261;07/05/2025;Duvida sobre produto;Loja
+C03261;19/05/2025;Solicitacao de assistencia tecnica;WhatsApp
+C03262;14/02/2026;Reclamacao de entrega;Telefone
+C03264;09/02/2025;Segunda via de boleto;WhatsApp
+C03266;29/07/2025;Segunda via de boleto;Telefone
+C03266;14/08/2025;Solicitacao de assistencia tecnica;WhatsApp
+C03267;14/09/2025;Segunda via de boleto;WhatsApp
+C03267;23/02/2026;Negociacao de divida;WhatsApp
+C03269;14/03/2026;Negociacao de divida;Telefone
+C03270;30/01/2026;Negociacao de divida;Telefone
+C03271;23/02/2025;Duvida sobre produto;Loja
+C03271;15/06/2025;Segunda via de boleto;WhatsApp
+C03273;02/03/2026;Negociacao de divida;Telefone
+C03274;01/01/2025;Reclamacao de entrega;Telefone
+C03274;17/01/2025;Reclamacao de entrega;Telefone
+C03274;20/03/2025;Duvida sobre produto;Telefone
+C03280;07/11/2024;Solicitacao de assistencia tecnica;Telefone
+C03280;15/12/2024;Reclamacao de entrega;Telefone
+C03280;04/05/2025;Segunda via de boleto;Telefone
+C03282;06/10/2025;Segunda via de boleto;Telefone
+C03282;21/01/2026;Segunda via de boleto;Telefone
+C03283;09/10/2025;Segunda via de boleto;Telefone
+C03284;19/03/2025;Atualizacao cadastral;WhatsApp
+C03284;21/05/2025;Solicitacao de assistencia tecnica;Site
+C03284;30/05/2025;Segunda via de boleto;Loja
+C03286;14/12/2025;Reclamacao de entrega;WhatsApp
+C03286;27/01/2026;Negociacao de divida;WhatsApp
+C03287;28/10/2025;Segunda via de boleto;WhatsApp
+C03287;25/02/2026;Negociacao de divida;Telefone
+C03288;07/01/2026;Atualizacao cadastral;WhatsApp
+C03289;18/10/2025;Segunda via de boleto;Loja
+C03290;04/01/2026;Reclamacao de entrega;Loja
+C03293;29/12/2025;Segunda via de boleto;WhatsApp
+C03296;14/11/2025;Reclamacao de entrega;WhatsApp
+C03297;17/08/2024;Duvida sobre produto;Telefone
+C03297;02/10/2024;Segunda via de boleto;Telefone
+C03297;12/04/2025;Segunda via de boleto;Telefone
+C03298;06/10/2025;Duvida sobre produto;Site
+C03299;08/03/2025;Segunda via de boleto;Telefone
+C03300;15/09/2025;Segunda via de boleto;Telefone
+C03301;05/08/2024;Segunda via de boleto;Loja
+C03301;09/09/2024;Segunda via de boleto;WhatsApp
+C03302;27/09/2025;Reclamacao de entrega;Loja
+C03307;15/01/2025;Reclamacao de entrega;Loja
+C03307;24/01/2025;Reclamacao de entrega;Telefone
+C03310;28/11/2025;Atualizacao cadastral;Telefone
+C03312;22/07/2025;Segunda via de boleto;Telefone
+C03313;19/08/2025;Atualizacao cadastral;Telefone
+C03314;28/05/2025;Atualizacao cadastral;Loja
+C03314;06/02/2026;Negociacao de divida;WhatsApp
+C03315;14/12/2024;Duvida sobre produto;Telefone
+C03315;11/07/2025;Segunda via de boleto;Loja
+C03316;05/11/2025;Duvida sobre produto;Loja
+C03316;16/12/2025;Atualizacao cadastral;Loja
+C03317;15/02/2025;Duvida sobre produto;Telefone
+C03317;11/07/2025;Atualizacao cadastral;Site
+C03317;29/10/2025;Negociacao de divida;WhatsApp
+C03319;02/04/2025;Reclamacao de entrega;Telefone
+C03319;31/05/2025;Duvida sobre produto;Loja
+C03319;14/09/2025;Solicitacao de assistencia tecnica;Telefone
+C03319;18/09/2025;Segunda via de boleto;Loja
+C03320;13/02/2026;Negociacao de divida;Telefone
+C03325;20/08/2025;Duvida sobre produto;Site
+C03325;16/11/2025;Duvida sobre produto;WhatsApp
+C03329;25/03/2025;Reclamacao de entrega;Loja
+C03332;10/05/2025;Reclamacao de entrega;Telefone
+C03332;31/12/2025;Atualizacao cadastral;Site
+C03333;07/02/2025;Segunda via de boleto;WhatsApp
+C03334;20/10/2025;Segunda via de boleto;Telefone
+C03337;10/04/2025;Segunda via de boleto;Telefone
+C03338;20/06/2025;Segunda via de boleto;Telefone
+C03338;14/11/2025;Reclamacao de entrega;Loja
+C03339;23/06/2025;Solicitacao de assistencia tecnica;Loja
+C03341;10/04/2025;Atualizacao cadastral;Telefone
+C03341;14/08/2025;Atualizacao cadastral;Telefone
+C03342;19/08/2025;Segunda via de boleto;WhatsApp
+C03342;13/10/2025;Segunda via de boleto;WhatsApp
+C03342;15/12/2025;Segunda via de boleto;WhatsApp
+C03342;10/01/2026;Segunda via de boleto;Telefone
+C03342;18/02/2026;Negociacao de divida;WhatsApp
+C03345;10/09/2025;Reclamacao de entrega;Loja
+C03345;09/03/2026;Atualizacao cadastral;Site
+C03346;15/07/2025;Segunda via de boleto;WhatsApp
+C03346;23/09/2025;Segunda via de boleto;Loja
+C03350;11/06/2025;Solicitacao de assistencia tecnica;WhatsApp
+C03353;24/10/2024;Atualizacao cadastral;Telefone
+C03353;17/12/2024;Atualizacao cadastral;Telefone
+C03353;13/01/2025;Negociacao de divida;Telefone
+C03354;27/09/2025;Duvida sobre produto;Site
+C03355;16/08/2025;Segunda via de boleto;WhatsApp
+C03356;18/08/2025;Solicitacao de assistencia tecnica;Site
+C03357;16/06/2025;Segunda via de boleto;WhatsApp
+C03357;02/07/2025;Segunda via de boleto;Loja
+C03357;24/12/2025;Duvida sobre produto;Telefone
+C03357;14/02/2026;Negociacao de divida;Telefone
+C03358;28/09/2025;Solicitacao de assistencia tecnica;Loja
+C03359;25/04/2025;Duvida sobre produto;WhatsApp
+C03359;14/06/2025;Segunda via de boleto;Telefone
+C03359;24/07/2025;Segunda via de boleto;Telefone
+C03360;12/02/2026;Duvida sobre produto;Site
+C03361;28/11/2025;Atualizacao cadastral;Telefone
+C03361;10/02/2026;Atualizacao cadastral;Site
+C03362;13/12/2024;Solicitacao de assistencia tecnica;WhatsApp
+C03363;10/07/2025;Solicitacao de assistencia tecnica;Site
+C03363;13/09/2025;Segunda via de boleto;Telefone
+C03364;11/11/2025;Reclamacao de entrega;Telefone
+C03364;27/12/2025;Atualizacao cadastral;Site
+C03365;01/03/2025;Segunda via de boleto;WhatsApp
+C03367;17/02/2026;Negociacao de divida;WhatsApp
+C03368;30/05/2025;Reclamacao de entrega;WhatsApp
+C03369;05/09/2025;Segunda via de boleto;Loja
+C03369;04/12/2025;Segunda via de boleto;Telefone
+C03369;01/03/2026;Negociacao de divida;WhatsApp
+C03370;06/03/2026;Negociacao de divida;Telefone
+C03371;17/08/2025;Solicitacao de assistencia tecnica;Loja
+C03372;23/07/2025;Reclamacao de entrega;WhatsApp
+C03373;30/05/2025;Duvida sobre produto;WhatsApp
+C03373;01/03/2026;Negociacao de divida;Telefone
+C03374;30/04/2025;Segunda via de boleto;WhatsApp
+C03374;17/10/2025;Negociacao de divida;Telefone
+C03376;21/10/2025;Atualizacao cadastral;Site
+C03378;09/03/2025;Duvida sobre produto;Site
+C03379;27/12/2025;Segunda via de boleto;Telefone
+C03382;02/12/2025;Solicitacao de assistencia tecnica;Telefone
+C03382;04/03/2026;Solicitacao de assistencia tecnica;Site
+C03383;21/08/2025;Atualizacao cadastral;WhatsApp
+C03383;11/09/2025;Segunda via de boleto;Loja
+C03383;05/12/2025;Solicitacao de assistencia tecnica;Site
+C03384;12/02/2026;Atualizacao cadastral;Site
+C03385;30/08/2025;Negociacao de divida;WhatsApp
+C03386;12/04/2025;Segunda via de boleto;Telefone
+C03386;29/07/2025;Solicitacao de assistencia tecnica;Site
+C03386;16/11/2025;Negociacao de divida;WhatsApp
+C03387;09/03/2026;Negociacao de divida;WhatsApp
+C03388;10/09/2025;Solicitacao de assistencia tecnica;Site
+C03388;12/01/2026;Segunda via de boleto;Loja
+C03388;28/02/2026;Negociacao de divida;Telefone
+C03389;08/10/2025;Atualizacao cadastral;WhatsApp
+C03389;08/12/2025;Segunda via de boleto;Telefone
+C03389;04/03/2026;Negociacao de divida;WhatsApp
+C03390;30/01/2026;Negociacao de divida;WhatsApp
+C03391;30/06/2025;Solicitacao de assistencia tecnica;Telefone
+C03394;08/01/2025;Segunda via de boleto;Telefone
+C03394;28/01/2025;Segunda via de boleto;WhatsApp
+C03394;16/02/2025;Segunda via de boleto;Telefone
+C03396;29/09/2025;Reclamacao de entrega;Loja
+C03396;20/10/2025;Segunda via de boleto;Loja
+C03396;20/11/2025;Duvida sobre produto;Site
+C03397;05/10/2025;Segunda via de boleto;Loja
+C03397;05/11/2025;Segunda via de boleto;Loja
+C03400;05/03/2026;Negociacao de divida;Telefone
